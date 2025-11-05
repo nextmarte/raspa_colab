@@ -4,6 +4,7 @@ import os
 import json
 import re
 import random
+import hashlib
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
@@ -27,66 +28,141 @@ def get_random_delay():
     return random.uniform(3, 7)
 
 
+def hash_author_name(author_name):
+    """
+    Gera hash SHA256 do nome do autor (primeiros 16 caracteres).
+    Usado para anonimizar o autor mantendo consistência.
+
+    Args:
+        author_name: Nome completo do autor
+
+    Returns:
+        Hash hexadecimal de 16 caracteres
+    """
+    if not author_name or not author_name.strip():
+        return "anonymous_user"
+
+    normalized = author_name.strip().lower()
+    hash_value = hashlib.sha256(normalized.encode()).hexdigest()[:16]
+    return hash_value
+
+
+def generate_post_id(local, bairro, data_calculada):
+    """
+    Gera ID único para o post baseado em:
+    - Localização (endereço)
+    - Bairro
+    - Data/hora calculada
+
+    Args:
+        local: Endereço completo
+        bairro: Bairro do post
+        data_calculada: Data formatada do post (DD/MM/YYYY HH:MM)
+
+    Returns:
+        Hash hexadecimal de 12 caracteres
+    """
+    if not local or not data_calculada:
+        return None
+
+    # Cria string única para o post
+    post_identifier = f"{local}_{bairro}_{data_calculada}".lower().strip()
+    hash_value = hashlib.sha256(post_identifier.encode()).hexdigest()[:12]
+    return hash_value
+
+
+async def get_post_full_description(page, post_url):
+    """
+    Acessa a página individual do post e extrai a descrição completa.
+
+    Args:
+        page: Página do Playwright
+        post_url: URL do post individual
+
+    Returns:
+        Descrição completa do post ou None se não conseguir extrair
+    """
+    try:
+        await page.goto(post_url, wait_until="domcontentloaded", timeout=10000)
+        await page.wait_for_timeout(int(get_random_delay() * 1000))
+
+        # Procura pelo elemento com a descrição completa
+        description_elem = await page.query_selector("div.ant-typography")
+
+        if description_elem:
+            full_text = await description_elem.inner_text()
+            return full_text.strip() if full_text else None
+
+    except Exception as e:
+        print(f"Erro ao extrair descrição completa: {e}")
+
+    return None
+
+
 async def get_neighborhood_and_cep(logradouro, numero, session=None):
     """
-    Extrai bairro e CEP usando a API ViaCEP para Niterói.
-    Usa cache para evitar requisições duplicadas.
+    Extrai bairro e CEP usando busca por similaridade em dados locais de Niterói.
+    Carrega os CEPs de um arquivo JSON e procura por rua similar.
 
     Args:
         logradouro: Nome da rua/avenida
         numero: Número do endereço
-        session: Session aiohttp para reutilizar conexão
+        session: Session HTTP para reusar conexões
 
     Returns:
-        dict com 'bairro' e 'cep', ou {'bairro': None, 'cep': None} se não encontrar
+        dict com 'bairro' e 'cep'
     """
     if not logradouro or not numero:
         return {"bairro": None, "cep": None}
 
-    # Chave do cache usando apenas logradouro (número geralmente tem mesma rua)
-    cache_key = logradouro.lower().strip()
-
-    if cache_key in GEO_CACHE:
-        return GEO_CACHE[cache_key]
-
     try:
-        # API ViaCEP para buscar CEP por endereço
-        url = f"https://viacep.com.br/ws/RJ/Niterói/{logradouro}/json/"
+        import json
+        from difflib import SequenceMatcher
 
-        if session is None:
-            async with aiohttp.ClientSession() as temp_session:
-                async with temp_session.get(url, timeout=aiohttp.ClientTimeout(total=5)) as response:
-                    results = await response.json() if response.status == 200 else []
-        else:
-            async with session.get(url, timeout=aiohttp.ClientTimeout(total=5)) as response:
-                results = await response.json() if response.status == 200 else []
+        # Tenta carregar dados locais de CEP
+        try:
+            with open("ceps_todos_bairros.json", "r", encoding="utf-8") as f:
+                ceps_data = json.load(f)
+        except FileNotFoundError:
+            return {"bairro": None, "cep": None}
 
-        # Se encontrou resultados, procura o que corresponde ao número
-        if isinstance(results, list) and len(results) > 0:
-            # Tenta encontrar exato
-            for result in results:
-                if result.get("numero") == numero or (numero.isdigit() and str(result.get("numero", "")) == numero):
-                    geo_data = {
-                        "bairro": result.get("bairro"),
-                        "cep": result.get("cep")
+        # Normaliza nome da rua para busca
+        logradouro_norm = logradouro.lower().strip()
+
+        # Procura por similaridade em todos os bairros
+        best_match = None
+        best_ratio = 0.0
+
+        for bairro_slug, bairro_data in ceps_data.items():
+            bairro_nome = bairro_data.get("nome", bairro_slug)
+
+            for item in bairro_data.get("enderecos", []):
+                rua_item = item.get("rua", "").lower().strip()
+
+                # Calcula similaridade
+                ratio = SequenceMatcher(
+                    None, logradouro_norm, rua_item).ratio()
+
+                # Se encontrar uma boa semelhança, armazena
+                if ratio > best_ratio and ratio > 0.5:  # Mínimo 50% de similaridade
+                    best_ratio = ratio
+                    best_match = {
+                        "bairro": bairro_nome,
+                        "cep": item.get("cep"),
+                        "ratio": ratio
                     }
-                    GEO_CACHE[cache_key] = geo_data
-                    return geo_data
 
-            # Se não encontrou exato, usa o primeiro resultado
-            first_result = results[0]
-            geo_data = {
-                "bairro": first_result.get("bairro"),
-                "cep": first_result.get("cep")
+        if best_match:
+            return {
+                "bairro": best_match["bairro"],
+                "cep": best_match["cep"]
             }
-            GEO_CACHE[cache_key] = geo_data
-            return geo_data
-    except Exception as e:
-        print(f"Erro ao buscar bairro/CEP para {logradouro}, {numero}: {e}")
 
-    geo_data = {"bairro": None, "cep": None}
-    GEO_CACHE[cache_key] = geo_data
-    return geo_data
+    except Exception:
+        # Se falhar, retorna None silenciosamente
+        pass
+
+    return {"bairro": None, "cep": None}
 
 
 def extract_street_and_number(local_text):
@@ -117,6 +193,47 @@ def extract_street_and_number(local_text):
         print(f"Erro ao extrair rua e número: {e}")
 
     return {"logradouro": None, "numero": None}
+
+
+def extract_author_name(card):
+    """
+    Extrai o nome do autor do card.
+    O nome está no primeiro span dentro de uma div com display flex.
+
+    Exemplo de estrutura esperada:
+    <div style="display: flex; flex-direction: column; gap: 5px;">
+        <span class="ant-typography ...">Cristiani Pereira Gathe Raposo</span>
+        <span class="ant-typography ant-typography-secondary ...">Endereço...</span>
+    </div>
+
+    Args:
+        card: BeautifulSoup element do card
+
+    Returns:
+        Nome do autor ou None se não encontrar
+    """
+    try:
+        # Procura pela div com flex
+        flex_div = card.select_one("div[style*='flex']")
+        if flex_div:
+            # Pega o primeiro span que contém o nome
+            spans = flex_div.find_all("span", class_="ant-typography")
+            if spans and len(spans) > 0:
+                author_name = spans[0].get_text(strip=True)
+                if author_name and author_name.strip():
+                    return author_name.strip()
+
+        # Fallback: tenta encontrar dentro do card-head-title
+        title_elem = card.select_one(".ant-card-head-title")
+        if title_elem:
+            text_content = title_elem.get_text(strip=True)
+            if text_content:
+                return text_content.strip()
+
+    except Exception as e:
+        print(f"Erro ao extrair nome do autor: {e}")
+
+    return None
 
 
 def parse_tempo_to_datetime(tempo_text):
@@ -348,32 +465,67 @@ async def main():
         # Extrai todos os dados dos cards (sem fazer requisições HTTP ainda)
         cards_data = []
         for card, tempo_text, post_date in filtered_cards:
-            autor = card.select_one(".ant-card-head-title span:first-child")
             local = card.select_one(".ant-typography-secondary")
-            titulo = card.select_one(
-                ".ant-card-body > div.sc-48964794-0, .ckQViH")
-            descricao = card.select_one(
-                ".ant-card-body .ant-typography-ellipsis")
+
+            # Encontra o elemento com a descrição completa
+            # Pode estar em um div.ant-typography ou dentro de um link
+            descricao_elem = card.select_one(".ant-card-body .ant-typography")
+            if not descricao_elem:
+                descricao_elem = card.select_one(
+                    ".ant-card-body div[class*='typography']")
+
+            # Tenta encontrar o link dentro do card
+            link_elem = card.select_one(".ant-card-cover a")
+
             imagem = card.select_one(".ant-card-cover img")
-            link = card.select_one(".ant-card-cover a")
 
             local_text = local.text.strip() if local else None
             address_parts = extract_street_and_number(local_text)
 
+            # Extrai nome do autor com a nova função
+            author_name = extract_author_name(card)
+
+            # Extrai descrição completa (pode ter múltiplas linhas)
+            descricao_text = None
+            titulo_text = None
+            if descricao_elem:
+                # Pega todo o texto dentro do elemento, preservando quebras de linha
+                descricao_text = descricao_elem.get_text(strip=True)
+
+                # O primeiro parágrafo/linha é o título
+                linhas = descricao_text.split('\n')
+                if linhas:
+                    titulo_text = linhas[0].strip() if len(
+                        linhas[0].strip()) < 200 else None
+
             cards_data.append({
-                "autor": autor.text.strip() if autor else None,
+                "author_name": author_name,
                 "local": local_text,
                 "logradouro": address_parts.get("logradouro"),
                 "numero": address_parts.get("numero"),
                 "tempo": tempo_text,
                 "post_date": post_date,
-                "titulo": titulo.text.strip() if titulo else None,
-                "descricao": descricao.text.strip() if descricao else None,
+                "titulo": titulo_text,
+                "descricao": descricao_text,
                 "imagem": BASE_URL + str(imagem["src"])
                 if imagem and str(imagem.get("src", "")).startswith("/")
                 else (str(imagem["src"]) if imagem else None),
-                "link": BASE_URL + str(link["href"]) if link else None,
+                "link": BASE_URL + str(link_elem["href"]) if link_elem else None,
             })
+
+        # Extrai descrições completas acessando cada post individual
+        print(f"Extraindo descrições completas dos {len(cards_data)} posts...")
+        for idx, card_data in enumerate(cards_data, 1):
+            if card_data["link"]:
+                print(
+                    f"  [{idx}/{len(cards_data)}] Acessando {card_data['link'][-10:]}")
+                descricao_completa = await get_post_full_description(page, card_data["link"])
+                if descricao_completa:
+                    card_data["descricao"] = descricao_completa
+                    # Extrai título como primeira linha
+                    linhas = descricao_completa.split('\n')
+                    if linhas and len(linhas[0].strip()) < 200:
+                        card_data["titulo"] = linhas[0].strip()
 
         # Busca dados geográficos em paralelo com session reutilizável
         num_addresses = sum(
@@ -410,17 +562,29 @@ async def main():
             else:
                 geo_data = {"bairro": None, "cep": None}
 
+            # Prepara dados para o JSON final
+            bairro = geo_data.get("bairro") if isinstance(
+                geo_data, dict) else None
+            cep = geo_data.get("cep") if isinstance(geo_data, dict) else None
+            data_calculada = card_data["post_date"].strftime(
+                "%d/%m/%Y %H:%M") if card_data["post_date"] else None
+
+            # Gera hashes
+            post_id = generate_post_id(
+                card_data["local"], bairro, data_calculada)
+            author_hash = hash_author_name(
+                card_data["author_name"]) if card_data["author_name"] else None
+
             item = {
-                "autor": card_data["autor"],
+                "id": post_id,
+                "author_hash": author_hash,
                 "local": card_data["local"],
                 "logradouro": card_data["logradouro"],
                 "numero": card_data["numero"],
-                "bairro": geo_data.get("bairro") if isinstance(geo_data, dict) else None,
-                "cep": geo_data.get("cep") if isinstance(geo_data, dict) else None,
+                "bairro": bairro,
+                "cep": cep,
                 "tempo": card_data["tempo"],
-                "data_calculada": card_data["post_date"].strftime("%d/%m/%Y %H:%M")
-                if card_data["post_date"]
-                else None,
+                "data_calculada": data_calculada,
                 "titulo": card_data["titulo"],
                 "descricao": card_data["descricao"],
                 "imagem": card_data["imagem"],

@@ -1,0 +1,8779 @@
+{
+  "atalaia": {
+    "nome": "Atalaia",
+    "enderecos": [
+      {
+        "cep": "24315-200",
+        "rua": "Alameda do Vale"
+      },
+      {
+        "cep": "24315-190",
+        "rua": "Alameda Monte Belo"
+      },
+      {
+        "cep": "24315-270",
+        "rua": "Estrada da Atalaia"
+      },
+      {
+        "cep": "24315-010",
+        "rua": "Estrada Padre José Euger"
+      },
+      {
+        "cep": "24315-216",
+        "rua": "Loteamento Comandante Minervino"
+      },
+      {
+        "cep": "24315-390",
+        "rua": "Loteamento Constelação"
+      },
+      {
+        "cep": "24315-280",
+        "rua": "Morro da Atalaia"
+      },
+      {
+        "cep": "24315-170",
+        "rua": "Praça Vinte e Quatro de Maio"
+      },
+      {
+        "cep": "24315-050",
+        "rua": "Rua A"
+      },
+      {
+        "cep": "24315-000",
+        "rua": "Rua Alarico de Souza"
+      },
+      {
+        "cep": "24315-320",
+        "rua": "Rua B"
+      },
+      {
+        "cep": "24315-150",
+        "rua": "Rua C"
+      },
+      {
+        "cep": "24315-210",
+        "rua": "Rua Capitão Roseira"
+      },
+      {
+        "cep": "24315-215",
+        "rua": "Rua Comandante Minervino"
+      },
+      {
+        "cep": "24315-040",
+        "rua": "Rua Existente"
+      },
+      {
+        "cep": "24315-165",
+        "rua": "Rua João Honorato"
+      },
+      {
+        "cep": "24315-310",
+        "rua": "Rua Monte Castelo"
+      },
+      {
+        "cep": "24315-240",
+        "rua": "Rua Santa Rita"
+      },
+      {
+        "cep": "24315-220",
+        "rua": "Rua São Manoel"
+      },
+      {
+        "cep": "24315-005",
+        "rua": "Rua Um"
+      },
+      {
+        "cep": "24315-230",
+        "rua": "Travessa Monte Belo"
+      },
+      {
+        "cep": "24315-260",
+        "rua": "Travessa Suíça"
+      },
+      {
+        "cep": "24315-055",
+        "rua": "Travessa Trinta de Outubro"
+      },
+      {
+        "cep": "24315-265",
+        "rua": "Vila Suíça"
+      }
+    ]
+  },
+  "badu": {
+    "nome": "Badu",
+    "enderecos": [
+      {
+        "cep": "24320-150",
+        "rua": "Estrada Alcebíades Pinto"
+      },
+      {
+        "cep": "24320-570",
+        "rua": "Estrada Caetano Monteiro"
+      },
+      {
+        "cep": "24320-420",
+        "rua": "Estrada Fazendinha"
+      },
+      {
+        "cep": "24320-330",
+        "rua": "Estrada Francisco da Cruz Nunes"
+      },
+      {
+        "cep": "24320-410",
+        "rua": "Estrada Guihlermina Bastos"
+      },
+      {
+        "cep": "24320-040",
+        "rua": "Estrada Monan Grande"
+      },
+      {
+        "cep": "24320-110",
+        "rua": "Estrada Monan Pequeno"
+      },
+      {
+        "cep": "24322-130",
+        "rua": "Morro do Cantagalo"
+      },
+      {
+        "cep": "24320-230",
+        "rua": "Rua Aldemar Paiva"
+      },
+      {
+        "cep": "24320-140",
+        "rua": "Rua Augusto da Cruz Nunes"
+      },
+      {
+        "cep": "24320-405",
+        "rua": "Rua B"
+      },
+      {
+        "cep": "24320-530",
+        "rua": "Rua Bahia"
+      },
+      {
+        "cep": "24322-345",
+        "rua": "Rua Bolívia"
+      },
+      {
+        "cep": "24320-280",
+        "rua": "Rua Bráulio Ralha"
+      },
+      {
+        "cep": "24320-180",
+        "rua": "Rua C"
+      },
+      {
+        "cep": "24322-310",
+        "rua": "Rua Carolina Alves"
+      },
+      {
+        "cep": "24320-050",
+        "rua": "Rua Carvalho Paiva"
+      },
+      {
+        "cep": "24320-090",
+        "rua": "Rua Cruzeiro"
+      },
+      {
+        "cep": "24320-200",
+        "rua": "Rua das Crianças"
+      },
+      {
+        "cep": "24320-430",
+        "rua": "Rua das Hortências"
+      },
+      {
+        "cep": "24320-465",
+        "rua": "Rua das Rosas"
+      },
+      {
+        "cep": "24320-555",
+        "rua": "Rua das Violetas"
+      },
+      {
+        "cep": "24320-320",
+        "rua": "Rua David João Alves da Silva"
+      },
+      {
+        "cep": "24320-450",
+        "rua": "Rua dos Jasmins"
+      },
+      {
+        "cep": "24320-460",
+        "rua": "Rua dos Lírios"
+      },
+      {
+        "cep": "24320-020",
+        "rua": "Rua Engenheiro Catéte e Silva"
+      },
+      {
+        "cep": "24320-380",
+        "rua": "Rua Flores"
+      },
+      {
+        "cep": "24320-220",
+        "rua": "Rua G"
+      },
+      {
+        "cep": "24320-370",
+        "rua": "Rua Guilhermina Bastos"
+      },
+      {
+        "cep": "24320-225",
+        "rua": "Rua H"
+      },
+      {
+        "cep": "24320-226",
+        "rua": "Rua J"
+      },
+      {
+        "cep": "24320-250",
+        "rua": "Rua João Egídio Gomes"
+      },
+      {
+        "cep": "24320-400",
+        "rua": "Rua José Lourenço"
+      },
+      {
+        "cep": "24320-070",
+        "rua": "Rua Laurentina Alves Pereira"
+      },
+      {
+        "cep": "24320-265",
+        "rua": "Rua Márcia Fernandes de Azevedo"
+      },
+      {
+        "cep": "24320-227",
+        "rua": "Rua O"
+      },
+      {
+        "cep": "24320-130",
+        "rua": "Rua Olegário Alves"
+      },
+      {
+        "cep": "24320-060",
+        "rua": "Rua Olindiva Alves dos Santos"
+      },
+      {
+        "cep": "24320-390",
+        "rua": "Rua para Hamilton Picanco"
+      },
+      {
+        "cep": "24320-100",
+        "rua": "Rua Projetada"
+      },
+      {
+        "cep": "24320-340",
+        "rua": "Rua São João"
+      },
+      {
+        "cep": "24320-240",
+        "rua": "Rua São Jorge"
+      },
+      {
+        "cep": "24320-620",
+        "rua": "Rua Sítio de Ferro"
+      },
+      {
+        "cep": "24320-120",
+        "rua": "Rua Theofilo Francisco da Cruz Nunes"
+      },
+      {
+        "cep": "24320-210",
+        "rua": "Rua Thieres Francisco Santana"
+      },
+      {
+        "cep": "24320-360",
+        "rua": "Rua Vinte e Quatro de Maio"
+      },
+      {
+        "cep": "24320-190",
+        "rua": "Travessa Alcebíades Pinto"
+      },
+      {
+        "cep": "24320-350",
+        "rua": "Travessa São José"
+      }
+    ]
+  },
+  "baldeador": {
+    "nome": "Baldeador",
+    "enderecos": [
+      {
+        "cep": "24140-090",
+        "rua": "Alameda Netuno"
+      },
+      {
+        "cep": "24140-080",
+        "rua": "Alameda Vênus"
+      },
+      {
+        "cep": "24140-285",
+        "rua": "Caminho Capim Melado"
+      },
+      {
+        "cep": "24140-150",
+        "rua": "Estrada Bento Pestana"
+      },
+      {
+        "cep": "24140-070",
+        "rua": "Estrada Doutor Melchíades Peixoto"
+      },
+      {
+        "cep": "24141-060",
+        "rua": "Estrada Tijuca"
+      },
+      {
+        "cep": "24140-000",
+        "rua": "Estrada Velha de Maricá"
+      },
+      {
+        "cep": "24141-230",
+        "rua": "Loteamento Cidade Jardim"
+      },
+      {
+        "cep": "24140-320",
+        "rua": "Loteamento Jardim Alvorada"
+      },
+      {
+        "cep": "24140-048",
+        "rua": "Loteamento Jardim Paulista"
+      },
+      {
+        "cep": "24140-130",
+        "rua": "Loteamento Nossa Senhora das Graças"
+      },
+      {
+        "cep": "24140-530",
+        "rua": "Loteamento Parque Nossa Senhora Aparecida"
+      },
+      {
+        "cep": "24140-470",
+        "rua": "Loteamento Vale Santa Clara"
+      },
+      {
+        "cep": "24140-006",
+        "rua": "Loteamento Vila Maria"
+      },
+      {
+        "cep": "24140-005",
+        "rua": "Rodovia Amaral Peixoto"
+      },
+      {
+        "cep": "24140-330",
+        "rua": "Rua Agostinho Ferreira"
+      },
+      {
+        "cep": "24141-000",
+        "rua": "Rua Antônio Saramago"
+      },
+      {
+        "cep": "24140-280",
+        "rua": "Rua Ataulfo Alves"
+      },
+      {
+        "cep": "24140-040",
+        "rua": "Rua Boaventura"
+      },
+      {
+        "cep": "24140-010",
+        "rua": "Rua Bonfim"
+      },
+      {
+        "cep": "24141-015",
+        "rua": "Rua Castro Alves"
+      },
+      {
+        "cep": "24140-050",
+        "rua": "Rua do Coelho"
+      },
+      {
+        "cep": "24140-250",
+        "rua": "Rua Dois"
+      },
+      {
+        "cep": "24140-610",
+        "rua": "Rua Dona Zulmira Barbosa"
+      },
+      {
+        "cep": "24140-580",
+        "rua": "Rua Doutor Antônio Carlos Brandão"
+      },
+      {
+        "cep": "24140-060",
+        "rua": "Rua Doutor Otávio Melo"
+      },
+      {
+        "cep": "24141-190",
+        "rua": "Rua Ernani Moreira Franco"
+      },
+      {
+        "cep": "24141-240",
+        "rua": "Rua Gomes Filho"
+      },
+      {
+        "cep": "24141-070",
+        "rua": "Rua Henrique Farias"
+      },
+      {
+        "cep": "24140-100",
+        "rua": "Rua Jardim Sublime"
+      },
+      {
+        "cep": "24141-150",
+        "rua": "Rua Júlio Pestre"
+      },
+      {
+        "cep": "24140-020",
+        "rua": "Rua Mackenzie"
+      },
+      {
+        "cep": "24140-045",
+        "rua": "Rua Nova"
+      },
+      {
+        "cep": "24140-155",
+        "rua": "Rua Quatro"
+      },
+      {
+        "cep": "24140-286",
+        "rua": "Rua Ricardina Osório"
+      },
+      {
+        "cep": "24141-050",
+        "rua": "Rua Soares de Azevedo"
+      },
+      {
+        "cep": "24140-490",
+        "rua": "Rua Tenente Marinelson Soares de Abreu"
+      },
+      {
+        "cep": "24140-156",
+        "rua": "Rua Um"
+      },
+      {
+        "cep": "24140-270",
+        "rua": "Rua Vicente Celestino"
+      },
+      {
+        "cep": "24140-007",
+        "rua": "Rua Vila Maria"
+      },
+      {
+        "cep": "24141-005",
+        "rua": "Travessa Antônio Saramago"
+      },
+      {
+        "cep": "24141-010",
+        "rua": "Travessa Castro Alves"
+      },
+      {
+        "cep": "24140-030",
+        "rua": "Travessa do Quartel"
+      },
+      {
+        "cep": "24140-164",
+        "rua": "Travessa Particular"
+      },
+      {
+        "cep": "24141-020",
+        "rua": "Travessa Primor"
+      },
+      {
+        "cep": "24141-040",
+        "rua": "Vila Guarani"
+      }
+    ]
+  },
+  "barreto": {
+    "nome": "Barreto",
+    "enderecos": [
+      {
+        "cep": "24110-205",
+        "rua": "Avenida do Contorno"
+      },
+      {
+        "cep": "24110-206",
+        "rua": "Avenida Governador Roberto Silveira"
+      },
+      {
+        "cep": "24110-310",
+        "rua": "Avenida Luiz Palmier"
+      },
+      {
+        "cep": "24111-000",
+        "rua": "Avenida Machado"
+      },
+      {
+        "cep": "24110-066",
+        "rua": "Avenida Paulo Silva"
+      },
+      {
+        "cep": "24110-340",
+        "rua": "Avenida Presidente Craveiro Lópes"
+      },
+      {
+        "cep": "24110-656",
+        "rua": "Avenida São Sebastião"
+      },
+      {
+        "cep": "24110-236",
+        "rua": "Avenida Segunda"
+      },
+      {
+        "cep": "24110-821",
+        "rua": "Estrada Morro do Castro"
+      },
+      {
+        "cep": "24110-240",
+        "rua": "Ilha do Viana"
+      },
+      {
+        "cep": "24110-790",
+        "rua": "Loteamento Parque Tenente Jardim"
+      },
+      {
+        "cep": "24110-800",
+        "rua": "Morro do Castro"
+      },
+      {
+        "cep": "24110-366",
+        "rua": "Morro do Pires"
+      },
+      {
+        "cep": "24110-220",
+        "rua": "Praça Doutor Eneias de Castro"
+      },
+      {
+        "cep": "24110-410",
+        "rua": "Rua Alan Kardec"
+      },
+      {
+        "cep": "24110-210",
+        "rua": "Rua Álvaro Leovigildo"
+      },
+      {
+        "cep": "24110-400",
+        "rua": "Rua Amerino Vanick"
+      },
+      {
+        "cep": "24110-690",
+        "rua": "Rua Ana Neri"
+      },
+      {
+        "cep": "24110-370",
+        "rua": "Rua Aníbal Benevolo"
+      },
+      {
+        "cep": "24110-250",
+        "rua": "Rua Assis Vasconcelos"
+      },
+      {
+        "cep": "24111-070",
+        "rua": "Rua Baronesa de Goitacazes"
+      },
+      {
+        "cep": "24110-695",
+        "rua": "Rua Carlos Horman"
+      },
+      {
+        "cep": "24110-069",
+        "rua": "Rua do Rumo"
+      },
+      {
+        "cep": "24111-160",
+        "rua": "Rua Doutor Collet"
+      },
+      {
+        "cep": "24110-650",
+        "rua": "Rua Doutor March"
+      },
+      {
+        "cep": "24110-655",
+        "rua": "Rua Francisco Cupertino"
+      },
+      {
+        "cep": "24110-260",
+        "rua": "Rua Galvão"
+      },
+      {
+        "cep": "24110-256",
+        "rua": "Rua General Castrioto"
+      },
+      {
+        "cep": "24110-415",
+        "rua": "Rua General Estilac Leal"
+      },
+      {
+        "cep": "24110-305",
+        "rua": "Rua Guimarães Júnior"
+      },
+      {
+        "cep": "24110-257",
+        "rua": "Rua Henrique Lage"
+      },
+      {
+        "cep": "24111-210",
+        "rua": "Rua Iguaçu"
+      },
+      {
+        "cep": "24110-216",
+        "rua": "Rua João de Deus Freitas"
+      },
+      {
+        "cep": "24110-225",
+        "rua": "Rua Joaquim Manoel Saraiva"
+      },
+      {
+        "cep": "24111-120",
+        "rua": "Rua Liborio Seabra"
+      },
+      {
+        "cep": "24110-430",
+        "rua": "Rua Maestro Vila Lobos"
+      },
+      {
+        "cep": "24110-814",
+        "rua": "Rua Monsenhor Reder"
+      },
+      {
+        "cep": "24111-170",
+        "rua": "Rua Monteiro Lobato"
+      },
+      {
+        "cep": "24110-139",
+        "rua": "Rua Morro do Arantes"
+      },
+      {
+        "cep": "24110-447",
+        "rua": "Rua N"
+      },
+      {
+        "cep": "24111-050",
+        "rua": "Rua Orêncio de Freitas"
+      },
+      {
+        "cep": "24110-235",
+        "rua": "Rua Padre Marcelino"
+      },
+      {
+        "cep": "24110-380",
+        "rua": "Rua Pedro Pinto"
+      },
+      {
+        "cep": "24110-365",
+        "rua": "Rua Pires"
+      },
+      {
+        "cep": "24110-395",
+        "rua": "Rua Prefeito Vila Nova Machado"
+      },
+      {
+        "cep": "24110-226",
+        "rua": "Rua Primeiro de Maio"
+      },
+      {
+        "cep": "24110-149",
+        "rua": "Rua Ribeiro de Almeida"
+      },
+      {
+        "cep": "24110-420",
+        "rua": "Rua Salgado Filho"
+      },
+      {
+        "cep": "24110-330",
+        "rua": "Rua Vasco de Freitas Barcelos"
+      },
+      {
+        "cep": "24110-180",
+        "rua": "Travessa Alberto Coelho"
+      },
+      {
+        "cep": "24110-350",
+        "rua": "Travessa Albuquerque"
+      },
+      {
+        "cep": "24110-801",
+        "rua": "Travessa Amoroso"
+      },
+      {
+        "cep": "24110-802",
+        "rua": "Travessa Angélica"
+      },
+      {
+        "cep": "24110-230",
+        "rua": "Travessa Augusto Coupey"
+      },
+      {
+        "cep": "24111-100",
+        "rua": "Travessa Barão de Goitacazes"
+      },
+      {
+        "cep": "24110-803",
+        "rua": "Travessa Barcelona"
+      },
+      {
+        "cep": "24110-804",
+        "rua": "Travessa Barcelos"
+      },
+      {
+        "cep": "24110-660",
+        "rua": "Travessa Baronesa"
+      },
+      {
+        "cep": "24110-170",
+        "rua": "Travessa Belinha"
+      },
+      {
+        "cep": "24110-200",
+        "rua": "Travessa Braga"
+      },
+      {
+        "cep": "24110-805",
+        "rua": "Travessa Buraco do Boi"
+      },
+      {
+        "cep": "24110-215",
+        "rua": "Travessa Capitão Mário Tinoco"
+      },
+      {
+        "cep": "24110-405",
+        "rua": "Travessa Carine"
+      },
+      {
+        "cep": "24110-065",
+        "rua": "Travessa Carlos Silva"
+      },
+      {
+        "cep": "24110-300",
+        "rua": "Travessa Célio Costa"
+      },
+      {
+        "cep": "24111-010",
+        "rua": "Travessa Comendador Lacerda"
+      },
+      {
+        "cep": "24111-040",
+        "rua": "Travessa Conceição"
+      },
+      {
+        "cep": "24110-356",
+        "rua": "Travessa do Silva"
+      },
+      {
+        "cep": "24110-806",
+        "rua": "Travessa Doca Barreto"
+      },
+      {
+        "cep": "24110-175",
+        "rua": "Travessa Florisbela"
+      },
+      {
+        "cep": "24110-653",
+        "rua": "Travessa Francisco Ferreira"
+      },
+      {
+        "cep": "24110-255",
+        "rua": "Travessa Futurista"
+      },
+      {
+        "cep": "24110-280",
+        "rua": "Travessa General Flores da Cunha"
+      },
+      {
+        "cep": "24110-807",
+        "rua": "Travessa Gildinho"
+      },
+      {
+        "cep": "24111-180",
+        "rua": "Travessa GonçAlves"
+      },
+      {
+        "cep": "24111-020",
+        "rua": "Travessa GonçAlves Lópes"
+      },
+      {
+        "cep": "24110-808",
+        "rua": "Travessa Grimanto"
+      },
+      {
+        "cep": "24110-815",
+        "rua": "Travessa Hildo de Oliveira"
+      },
+      {
+        "cep": "24110-810",
+        "rua": "Travessa João Batista Peixoto"
+      },
+      {
+        "cep": "24110-217",
+        "rua": "Travessa João de Deus Freitas"
+      },
+      {
+        "cep": "24110-811",
+        "rua": "Travessa Jorge Vieira"
+      },
+      {
+        "cep": "24110-218",
+        "rua": "Travessa José Bagueira Leal"
+      },
+      {
+        "cep": "24110-809",
+        "rua": "Travessa José da Silva"
+      },
+      {
+        "cep": "24110-035",
+        "rua": "Travessa Juvenal Veiga"
+      },
+      {
+        "cep": "24110-446",
+        "rua": "Travessa L"
+      },
+      {
+        "cep": "24110-812",
+        "rua": "Travessa Lassance"
+      },
+      {
+        "cep": "24111-130",
+        "rua": "Travessa Léa"
+      },
+      {
+        "cep": "24110-036",
+        "rua": "Travessa Lourdes"
+      },
+      {
+        "cep": "24111-190",
+        "rua": "Travessa Macedo Soares"
+      },
+      {
+        "cep": "24110-258",
+        "rua": "Travessa Madame Pacheco"
+      },
+      {
+        "cep": "24110-320",
+        "rua": "Travessa Maurício"
+      },
+      {
+        "cep": "24110-813",
+        "rua": "Travessa Menezes"
+      },
+      {
+        "cep": "24111-175",
+        "rua": "Travessa Monteiro Lobato"
+      },
+      {
+        "cep": "24110-155",
+        "rua": "Travessa Morro do Aleixo"
+      },
+      {
+        "cep": "24110-639",
+        "rua": "Travessa Morro do Alemão"
+      },
+      {
+        "cep": "24110-325",
+        "rua": "Travessa Mululo da Veiga"
+      },
+      {
+        "cep": "24110-816",
+        "rua": "Travessa Olaria"
+      },
+      {
+        "cep": "24110-355",
+        "rua": "Travessa Particular do Silva"
+      },
+      {
+        "cep": "24110-360",
+        "rua": "Travessa Peçanha"
+      },
+      {
+        "cep": "24110-817",
+        "rua": "Travessa Porfírio Joaquim de Andrade"
+      },
+      {
+        "cep": "24110-579",
+        "rua": "Travessa Quinze"
+      },
+      {
+        "cep": "24110-818",
+        "rua": "Travessa Renato Pereira"
+      },
+      {
+        "cep": "24111-140",
+        "rua": "Travessa Santo Expedito"
+      },
+      {
+        "cep": "24111-150",
+        "rua": "Travessa São Roque"
+      },
+      {
+        "cep": "24110-237",
+        "rua": "Travessa Terceira"
+      },
+      {
+        "cep": "24110-238",
+        "rua": "Travessa Thomaz Rodrigues"
+      },
+      {
+        "cep": "24110-165",
+        "rua": "Travessa Tupi"
+      },
+      {
+        "cep": "24111-110",
+        "rua": "Travessa Urubata"
+      },
+      {
+        "cep": "24110-270",
+        "rua": "Travessa Valença"
+      },
+      {
+        "cep": "24110-819",
+        "rua": "Travessa Valentim Pinheiro"
+      },
+      {
+        "cep": "24110-176",
+        "rua": "Travessa Vinte e Dois de Maio"
+      },
+      {
+        "cep": "24110-820",
+        "rua": "Travessa Waltinho"
+      },
+      {
+        "cep": "24110-190",
+        "rua": "Travessa Zeze"
+      }
+    ]
+  },
+  "beltrao": {
+    "nome": "Beltrão",
+    "enderecos": [
+      {
+        "cep": "24241-110",
+        "rua": "Travessa Alberto Gruff"
+      },
+      {
+        "cep": "24241-130",
+        "rua": "Travessa Brandão"
+      },
+      {
+        "cep": "24241-100",
+        "rua": "Travessa Emílio"
+      },
+      {
+        "cep": "24241-120",
+        "rua": "Travessa Pedro"
+      },
+      {
+        "cep": "24241-090",
+        "rua": "Travessa São Patrício"
+      }
+    ]
+  },
+  "boa-viagem": {
+    "nome": "Boa Viagem",
+    "enderecos": [
+      {
+        "cep": "24210-390",
+        "rua": "Avenida Almirante Benjamin Sodré"
+      },
+      {
+        "cep": "24210-396",
+        "rua": "Ilha de Boa Viagem"
+      },
+      {
+        "cep": "24210-360",
+        "rua": "Praça Pedro Álvares Cabral"
+      },
+      {
+        "cep": "24210-140",
+        "rua": "Praça Roque Furtado"
+      },
+      {
+        "cep": "24210-395",
+        "rua": "Praia de Boa Viagem"
+      },
+      {
+        "cep": "24210-320",
+        "rua": "Rua Antônio Parreiras"
+      },
+      {
+        "cep": "24210-330",
+        "rua": "Rua Edmundo March"
+      },
+      {
+        "cep": "24210-315",
+        "rua": "Rua José Maurício Ferraz"
+      },
+      {
+        "cep": "24210-300",
+        "rua": "Rua Noronha Santos"
+      },
+      {
+        "cep": "24210-310",
+        "rua": "Rua Roberto Rowley Mendes"
+      }
+    ]
+  },
+  "camboinhas": {
+    "nome": "Camboinhas",
+    "enderecos": [
+      {
+        "cep": "24346-030",
+        "rua": "Avenida Doutor Geraldo de Melo Ourivio"
+      },
+      {
+        "cep": "24358-580",
+        "rua": "Avenida Professor Florestan Fernandes"
+      },
+      {
+        "cep": "24358-630",
+        "rua": "Rua Arquiteto Joel Lópes"
+      },
+      {
+        "cep": "24358-610",
+        "rua": "Rua Canage Malta"
+      },
+      {
+        "cep": "24358-740",
+        "rua": "Rua Doutor Abi Ramia"
+      },
+      {
+        "cep": "24358-650",
+        "rua": "Rua Doutor Geraldo Mello Curi"
+      },
+      {
+        "cep": "24358-640",
+        "rua": "Rua Doutor P. C. Bueno"
+      },
+      {
+        "cep": "24358-680",
+        "rua": "Rua Enfermeira Maria Amélia Rangel Garcia"
+      },
+      {
+        "cep": "24358-660",
+        "rua": "Rua Florisval de Olivaes"
+      },
+      {
+        "cep": "24358-600",
+        "rua": "Rua Jaime Bitencourt"
+      },
+      {
+        "cep": "24358-730",
+        "rua": "Rua Jornalista Umbelino Silva"
+      },
+      {
+        "cep": "24358-670",
+        "rua": "Rua Luiz Periraz"
+      },
+      {
+        "cep": "24358-620",
+        "rua": "Rua Ministro Mário Pinotti"
+      },
+      {
+        "cep": "24358-690",
+        "rua": "Rua Professor Steffane Vanner"
+      },
+      {
+        "cep": "24358-710",
+        "rua": "Rua Simonn Bolivar"
+      },
+      {
+        "cep": "24358-750",
+        "rua": "Rua Soares de Pinho"
+      },
+      {
+        "cep": "24358-700",
+        "rua": "Rua Vereador Aloísio Costa"
+      },
+      {
+        "cep": "24358-590",
+        "rua": "Rua Waldemar Wanderley"
+      },
+      {
+        "cep": "24358-720",
+        "rua": "Rua Wilson Vieira"
+      }
+    ]
+  },
+  "cantagalo": {
+    "nome": "Cantagalo",
+    "enderecos": [
+      {
+        "cep": "24310-625",
+        "rua": "Loteamento Parque Cantagalo"
+      },
+      {
+        "cep": "24310-560",
+        "rua": "Rua D"
+      },
+      {
+        "cep": "24310-540",
+        "rua": "Rua J"
+      },
+      {
+        "cep": "24310-590",
+        "rua": "Rua M"
+      }
+    ]
+  },
+  "caramujo": {
+    "nome": "Caramujo",
+    "enderecos": [
+      {
+        "cep": "24140-395",
+        "rua": "Avenida Colônia"
+      },
+      {
+        "cep": "24140-316",
+        "rua": "Avenida Jerônimo Afonso"
+      },
+      {
+        "cep": "24140-216",
+        "rua": "Estrada da Florária"
+      },
+      {
+        "cep": "24140-319",
+        "rua": "Loteamento São João"
+      },
+      {
+        "cep": "24140-640",
+        "rua": "Morro do Céu"
+      },
+      {
+        "cep": "24141-090",
+        "rua": "Praça Paulo Trannin"
+      },
+      {
+        "cep": "24141-120",
+        "rua": "Rua Anita"
+      },
+      {
+        "cep": "24140-630",
+        "rua": "Rua Antônio Barbosa"
+      },
+      {
+        "cep": "24140-310",
+        "rua": "Rua Antônio Belchior Duarte"
+      },
+      {
+        "cep": "24141-280",
+        "rua": "Rua Ariosto"
+      },
+      {
+        "cep": "24140-500",
+        "rua": "Rua Artur Pereira da Mota"
+      },
+      {
+        "cep": "24141-170",
+        "rua": "Rua Bernardo Espingel"
+      },
+      {
+        "cep": "24140-460",
+        "rua": "Rua Boa Vista"
+      },
+      {
+        "cep": "24141-100",
+        "rua": "Rua Bombeiro Américo da Silva"
+      },
+      {
+        "cep": "24140-370",
+        "rua": "Rua Central"
+      },
+      {
+        "cep": "24140-550",
+        "rua": "Rua da Horta"
+      },
+      {
+        "cep": "24140-380",
+        "rua": "Rua do Alto"
+      },
+      {
+        "cep": "24140-650",
+        "rua": "Rua Dona Júlia Barbosa"
+      },
+      {
+        "cep": "24140-670",
+        "rua": "Rua Dona Mariana Barbosa Moreira"
+      },
+      {
+        "cep": "24140-590",
+        "rua": "Rua Doutor Gustavo Moreira"
+      },
+      {
+        "cep": "24140-680",
+        "rua": "Rua Doutor Inácio Bezerra de Menezes"
+      },
+      {
+        "cep": "24140-345",
+        "rua": "Rua Doutor Nilo Peçanha"
+      },
+      {
+        "cep": "24140-420",
+        "rua": "Rua Emanuel"
+      },
+      {
+        "cep": "24141-200",
+        "rua": "Rua Estevão de Souza Pinel"
+      },
+      {
+        "cep": "24141-160",
+        "rua": "Rua Fernandes"
+      },
+      {
+        "cep": "24141-030",
+        "rua": "Rua Fonseca Portela"
+      },
+      {
+        "cep": "24140-353",
+        "rua": "Rua Garibaldi"
+      },
+      {
+        "cep": "24141-250",
+        "rua": "Rua Jaboticabeira"
+      },
+      {
+        "cep": "24140-360",
+        "rua": "Rua Jornalista Ernani Costa"
+      },
+      {
+        "cep": "24141-270",
+        "rua": "Rua Jurandir"
+      },
+      {
+        "cep": "24140-400",
+        "rua": "Rua Machado"
+      },
+      {
+        "cep": "24141-110",
+        "rua": "Rua Monte Líbano"
+      },
+      {
+        "cep": "24140-675",
+        "rua": "Rua Nossa Senhora dos Navegantes"
+      },
+      {
+        "cep": "24140-620",
+        "rua": "Rua Ormezinda Barbosa"
+      },
+      {
+        "cep": "24140-396",
+        "rua": "Rua Pastor José Gomes"
+      },
+      {
+        "cep": "24140-570",
+        "rua": "Rua Poço Largo"
+      },
+      {
+        "cep": "24140-465",
+        "rua": "Rua Primeira"
+      },
+      {
+        "cep": "24140-430",
+        "rua": "Rua Quintino Bocaiúva"
+      },
+      {
+        "cep": "24140-600",
+        "rua": "Rua Santa Edwiges"
+      },
+      {
+        "cep": "24140-318",
+        "rua": "Rua São Jerônimo"
+      },
+      {
+        "cep": "24140-466",
+        "rua": "Rua Segunda"
+      },
+      {
+        "cep": "24140-450",
+        "rua": "Rua Souza"
+      },
+      {
+        "cep": "24140-405",
+        "rua": "Rua Terceira"
+      },
+      {
+        "cep": "24141-080",
+        "rua": "Travessa Alberto de Oliveira"
+      },
+      {
+        "cep": "24140-440",
+        "rua": "Travessa Caldas"
+      },
+      {
+        "cep": "24140-410",
+        "rua": "Travessa Carvalho"
+      },
+      {
+        "cep": "24140-375",
+        "rua": "Travessa Central"
+      },
+      {
+        "cep": "24140-376",
+        "rua": "Travessa da Igreja"
+      },
+      {
+        "cep": "24140-350",
+        "rua": "Travessa Garibaldi"
+      },
+      {
+        "cep": "24141-260",
+        "rua": "Travessa Jabi"
+      },
+      {
+        "cep": "24140-315",
+        "rua": "Travessa Jerônimo Afonso"
+      },
+      {
+        "cep": "24141-140",
+        "rua": "Travessa Manoel Duarte"
+      },
+      {
+        "cep": "24141-130",
+        "rua": "Travessa Olinda"
+      },
+      {
+        "cep": "24141-320",
+        "rua": "Travessa Palmira"
+      },
+      {
+        "cep": "24140-317",
+        "rua": "Travessa Projetada"
+      },
+      {
+        "cep": "24141-085",
+        "rua": "Travessa São Jorge"
+      },
+      {
+        "cep": "24140-510",
+        "rua": "Travessa Trannin"
+      },
+      {
+        "cep": "24140-390",
+        "rua": "Vila Colônia"
+      }
+    ]
+  },
+  "centro": {
+    "nome": "Centro",
+    "enderecos": [
+      {
+        "cep": "24020-095",
+        "rua": "Alameda Joaquim José Moreira de Souza"
+      },
+      {
+        "cep": "24020-130",
+        "rua": "Avenida Badger da Silveira"
+      },
+      {
+        "cep": "24020-020",
+        "rua": "Avenida Churchill"
+      },
+      {
+        "cep": "24030-080",
+        "rua": "Avenida Dona Amélia"
+      },
+      {
+        "cep": "24020-010",
+        "rua": "Avenida Professor Plínio Leite"
+      },
+      {
+        "cep": "24030-130",
+        "rua": "Avenida Soares"
+      },
+      {
+        "cep": "24030-250",
+        "rua": "Avenida Washington Luís"
+      },
+      {
+        "cep": "24020-090",
+        "rua": "Largo da Conceição"
+      },
+      {
+        "cep": "24020-030",
+        "rua": "Praça Araribóia"
+      },
+      {
+        "cep": "24020-099",
+        "rua": "Praça da República"
+      },
+      {
+        "cep": "24030-280",
+        "rua": "Praça Dez de Novembro"
+      },
+      {
+        "cep": "24020-200",
+        "rua": "Praça do Comerciario"
+      },
+      {
+        "cep": "24020-210",
+        "rua": "Praça Dom Pedro II"
+      },
+      {
+        "cep": "24030-270",
+        "rua": "Praça dos Expedicionários"
+      },
+      {
+        "cep": "24020-295",
+        "rua": "Praça Floriano Peixoto"
+      },
+      {
+        "cep": "24030-020",
+        "rua": "Praça Fonseca Ramos"
+      },
+      {
+        "cep": "24020-310",
+        "rua": "Praça General Gomes Carneiro"
+      },
+      {
+        "cep": "24020-160",
+        "rua": "Praça Joaquim Murtinho"
+      },
+      {
+        "cep": "24020-170",
+        "rua": "Praça Luiz de Camões"
+      },
+      {
+        "cep": "24020-190",
+        "rua": "Praça Raul Quaresma de Moura"
+      },
+      {
+        "cep": "24030-240",
+        "rua": "Praça Trinta e Um de Março"
+      },
+      {
+        "cep": "24020-290",
+        "rua": "Rua Academico Valter Gonçalves"
+      },
+      {
+        "cep": "24030-085",
+        "rua": "Rua Almirante Teffe"
+      },
+      {
+        "cep": "24030-150",
+        "rua": "Rua Áurea Lima"
+      },
+      {
+        "cep": "24020-110",
+        "rua": "Rua Aurelino Leal"
+      },
+      {
+        "cep": "24020-220",
+        "rua": "Rua Cadete Xavier Leal"
+      },
+      {
+        "cep": "24030-180",
+        "rua": "Rua Capitão Jorge Soares"
+      },
+      {
+        "cep": "24020-270",
+        "rua": "Rua Consul Francisco Cruz"
+      },
+      {
+        "cep": "24030-000",
+        "rua": "Rua Cristina Dutra"
+      },
+      {
+        "cep": "24030-310",
+        "rua": "Rua Desiderio de Oliveira Machado"
+      },
+      {
+        "cep": "24020-230",
+        "rua": "Rua Doutor Alcides Figueiredo"
+      },
+      {
+        "cep": "24030-200",
+        "rua": "Rua Doutor Antônio Augusto Ferreira da Silva"
+      },
+      {
+        "cep": "24020-320",
+        "rua": "Rua Doutor Borman"
+      },
+      {
+        "cep": "24020-330",
+        "rua": "Rua Doutor Cotrim da Silva"
+      },
+      {
+        "cep": "24030-205",
+        "rua": "Rua Doutor Djalma Dutra"
+      },
+      {
+        "cep": "24030-030",
+        "rua": "Rua Doutor Froes da Cruz"
+      },
+      {
+        "cep": "24020-340",
+        "rua": "Rua Eduardo Luiz Gomes"
+      },
+      {
+        "cep": "24030-190",
+        "rua": "Rua Euzébio de Queiros"
+      },
+      {
+        "cep": "24020-280",
+        "rua": "Rua Evaristo da Veiga"
+      },
+      {
+        "cep": "24020-350",
+        "rua": "Rua Jornalista Moacir Padilha"
+      },
+      {
+        "cep": "24020-336",
+        "rua": "Rua Jornalista Roberto de Andrade"
+      },
+      {
+        "cep": "24030-055",
+        "rua": "Rua José Figueiredo"
+      },
+      {
+        "cep": "24020-096",
+        "rua": "Rua La Sale"
+      },
+      {
+        "cep": "24020-097",
+        "rua": "Rua Manoel de Abreu"
+      },
+      {
+        "cep": "24030-290",
+        "rua": "Rua Manoel Pacheco de Carvalho"
+      },
+      {
+        "cep": "24030-060",
+        "rua": "Rua Marechal Deodoro"
+      },
+      {
+        "cep": "24020-140",
+        "rua": "Rua Mário Santos Braga"
+      },
+      {
+        "cep": "24030-050",
+        "rua": "Rua Marquês de Caxias"
+      },
+      {
+        "cep": "24030-170",
+        "rua": "Rua Marquês de Olinda"
+      },
+      {
+        "cep": "24020-250",
+        "rua": "Rua Monte Líbano"
+      },
+      {
+        "cep": "24030-340",
+        "rua": "Rua Padre Augusto Lamego"
+      },
+      {
+        "cep": "24070-180",
+        "rua": "Rua Pastor Manoel Avelino de Souza"
+      },
+      {
+        "cep": "24210-010",
+        "rua": "Rua Pedro Augusto Nolasco"
+      },
+      {
+        "cep": "24030-260",
+        "rua": "Rua Presidente Castelo Branco"
+      },
+      {
+        "cep": "24030-230",
+        "rua": "Rua Professor Heitor Carrilho"
+      },
+      {
+        "cep": "24020-098",
+        "rua": "Rua Professor Ismael Coutinho"
+      },
+      {
+        "cep": "24030-056",
+        "rua": "Rua Professor Joaquim Costa Ribeiro"
+      },
+      {
+        "cep": "24030-057",
+        "rua": "Rua Professor Vicente Romano"
+      },
+      {
+        "cep": "24020-125",
+        "rua": "Rua Quinze de Novembro"
+      },
+      {
+        "cep": "24030-040",
+        "rua": "Rua Saldanha Marinho"
+      },
+      {
+        "cep": "24030-160",
+        "rua": "Rua Senador Nabuco"
+      },
+      {
+        "cep": "24030-058",
+        "rua": "Rua Sete de Maio"
+      },
+      {
+        "cep": "24030-005",
+        "rua": "Rua Silva Jardim"
+      },
+      {
+        "cep": "24020-206",
+        "rua": "Rua Visconde de Sepetiba"
+      },
+      {
+        "cep": "24030-140",
+        "rua": "Rua Xavier de Brito"
+      },
+      {
+        "cep": "24020-300",
+        "rua": "Travessa Alberto Vítor"
+      },
+      {
+        "cep": "24020-240",
+        "rua": "Travessa Fani"
+      },
+      {
+        "cep": "24210-030",
+        "rua": "Travessa General Penha Brasil"
+      },
+      {
+        "cep": "24020-335",
+        "rua": "Travessa Henrique Kopke"
+      },
+      {
+        "cep": "24020-260",
+        "rua": "Travessa Júlio"
+      },
+      {
+        "cep": "24020-205",
+        "rua": "Travessa Lira"
+      },
+      {
+        "cep": "24030-330",
+        "rua": "Travessa Luiz Paulino"
+      },
+      {
+        "cep": "24030-210",
+        "rua": "Travessa Marquês de Paraná"
+      },
+      {
+        "cep": "24020-120",
+        "rua": "Travessa São Jorge"
+      },
+      {
+        "cep": "24070-190",
+        "rua": "Travessa Saud Salomão Saud"
+      }
+    ]
+  },
+  "charitas": {
+    "nome": "Charitas",
+    "enderecos": [
+      {
+        "cep": "24370-010",
+        "rua": "Avenida João Batista"
+      },
+      {
+        "cep": "24370-700",
+        "rua": "Morro do Sapezal"
+      },
+      {
+        "cep": "24370-192",
+        "rua": "Praia da Areia Grossa"
+      },
+      {
+        "cep": "24370-060",
+        "rua": "Rua Belfort Vieira"
+      },
+      {
+        "cep": "24370-130",
+        "rua": "Rua Casuarinas"
+      },
+      {
+        "cep": "24370-110",
+        "rua": "Rua Doutor Armando Lopes"
+      },
+      {
+        "cep": "24370-100",
+        "rua": "Rua Doutor Joaquim Peixoto"
+      },
+      {
+        "cep": "24370-090",
+        "rua": "Rua Eurico Manoel do Carmo"
+      },
+      {
+        "cep": "24370-050",
+        "rua": "Rua João Delgado"
+      },
+      {
+        "cep": "24370-020",
+        "rua": "Rua Juiz Alberto Nader"
+      },
+      {
+        "cep": "24370-040",
+        "rua": "Rua Leonel Magalhães"
+      },
+      {
+        "cep": "24370-080",
+        "rua": "Rua Levi Carneiro"
+      },
+      {
+        "cep": "24370-630",
+        "rua": "Rua Nossa Senhora das Graças"
+      },
+      {
+        "cep": "24370-030",
+        "rua": "Rua Oscar Pereira"
+      },
+      {
+        "cep": "24370-650",
+        "rua": "Rua Quatorze de Abril"
+      },
+      {
+        "cep": "24370-070",
+        "rua": "Rua Rui Barroso"
+      },
+      {
+        "cep": "24370-160",
+        "rua": "Rua São Caetano"
+      },
+      {
+        "cep": "24370-530",
+        "rua": "Rua São Fidélis"
+      },
+      {
+        "cep": "24370-660",
+        "rua": "Rua São Francisco Xavier"
+      },
+      {
+        "cep": "24370-135",
+        "rua": "Rua Trovador Luís Otavio"
+      },
+      {
+        "cep": "24370-170",
+        "rua": "Travessa Amélia"
+      },
+      {
+        "cep": "24370-590",
+        "rua": "Travessa Bela Vista"
+      },
+      {
+        "cep": "24370-600",
+        "rua": "Travessa Bezerra de Menezes"
+      },
+      {
+        "cep": "24370-610",
+        "rua": "Travessa Boavista"
+      },
+      {
+        "cep": "24370-470",
+        "rua": "Travessa Carmita"
+      },
+      {
+        "cep": "24370-580",
+        "rua": "Travessa da Alegria"
+      },
+      {
+        "cep": "24370-180",
+        "rua": "Travessa do Sossego"
+      },
+      {
+        "cep": "24370-620",
+        "rua": "Travessa Dom Pedro"
+      },
+      {
+        "cep": "24370-480",
+        "rua": "Travessa Doutor João Leitão"
+      },
+      {
+        "cep": "24370-490",
+        "rua": "Travessa Maranhao"
+      },
+      {
+        "cep": "24370-640",
+        "rua": "Travessa Princesa Isabel"
+      },
+      {
+        "cep": "24370-150",
+        "rua": "Travessa Santa Cândida"
+      },
+      {
+        "cep": "24370-500",
+        "rua": "Travessa Santa Maria"
+      },
+      {
+        "cep": "24370-510",
+        "rua": "Travessa Santa Rita"
+      },
+      {
+        "cep": "24370-520",
+        "rua": "Travessa Santana"
+      },
+      {
+        "cep": "24370-540",
+        "rua": "Travessa São João"
+      },
+      {
+        "cep": "24370-670",
+        "rua": "Travessa São Joaquim"
+      },
+      {
+        "cep": "24370-680",
+        "rua": "Travessa São José"
+      },
+      {
+        "cep": "24370-550",
+        "rua": "Travessa São Luiz"
+      },
+      {
+        "cep": "24370-560",
+        "rua": "Travessa São Paulo"
+      },
+      {
+        "cep": "24370-690",
+        "rua": "Travessa São Sebastião"
+      },
+      {
+        "cep": "24370-570",
+        "rua": "Travessa São Vicente"
+      }
+    ]
+  },
+  "cubango": {
+    "nome": "Cubango",
+    "enderecos": [
+      {
+        "cep": "24140-169",
+        "rua": "Estrada Viçoso Jardim"
+      },
+      {
+        "cep": "24140-230",
+        "rua": "Morro do Bumba"
+      },
+      {
+        "cep": "24140-167",
+        "rua": "Morro Saraiva"
+      },
+      {
+        "cep": "24140-180",
+        "rua": "Rua Aureliano Barcelos"
+      },
+      {
+        "cep": "24140-190",
+        "rua": "Rua Doutor Ari Miranda"
+      },
+      {
+        "cep": "24240-430",
+        "rua": "Rua Doutor Francisco Bastos"
+      },
+      {
+        "cep": "24240-300",
+        "rua": "Rua Doutor Pedro Maria de Lacerda"
+      },
+      {
+        "cep": "24140-200",
+        "rua": "Rua Doutor Sabino Teodóro"
+      },
+      {
+        "cep": "24240-410",
+        "rua": "Rua Francisco Leite Santos Júnior"
+      },
+      {
+        "cep": "24120-045",
+        "rua": "Rua Manoel Rodrigues de Almeida"
+      },
+      {
+        "cep": "24140-305",
+        "rua": "Rua Maria José Monteiro Barbosa"
+      },
+      {
+        "cep": "24140-255",
+        "rua": "Rua Quatro"
+      },
+      {
+        "cep": "24240-320",
+        "rua": "Rua Quintino José Ferreira"
+      },
+      {
+        "cep": "24140-170",
+        "rua": "Rua Retiro Saudoso"
+      },
+      {
+        "cep": "24140-256",
+        "rua": "Rua Rufino Adam Saens"
+      },
+      {
+        "cep": "24240-450",
+        "rua": "Rua Tomé Tostes"
+      },
+      {
+        "cep": "24140-210",
+        "rua": "Travessa Alice"
+      },
+      {
+        "cep": "24240-400",
+        "rua": "Travessa Antônio Gonçalves"
+      },
+      {
+        "cep": "24140-160",
+        "rua": "Travessa Caldeira"
+      },
+      {
+        "cep": "24140-300",
+        "rua": "Travessa Dona Zinha"
+      },
+      {
+        "cep": "24120-043",
+        "rua": "Travessa Doutor Benevenuto Gomes Soares"
+      },
+      {
+        "cep": "24240-580",
+        "rua": "Travessa Expedicionário Celso Lima"
+      },
+      {
+        "cep": "24140-220",
+        "rua": "Travessa Odete"
+      },
+      {
+        "cep": "24140-185",
+        "rua": "Travessa Retiro Saudoso"
+      },
+      {
+        "cep": "24140-295",
+        "rua": "Travessa São José"
+      },
+      {
+        "cep": "24140-223",
+        "rua": "Travessa São Miguel"
+      },
+      {
+        "cep": "24140-166",
+        "rua": "Travessa Saraiva"
+      },
+      {
+        "cep": "24140-168",
+        "rua": "Travessa Viçoso Jardim"
+      },
+      {
+        "cep": "24240-383",
+        "rua": "Travessa Virgínia Maria"
+      }
+    ]
+  },
+  "engenhoca": {
+    "nome": "Engenhoca",
+    "enderecos": [
+      {
+        "cep": "24110-574",
+        "rua": "Largo Bonfim"
+      },
+      {
+        "cep": "24110-638",
+        "rua": "Largo da Felicidade"
+      },
+      {
+        "cep": "24110-495",
+        "rua": "Largo do Cravinho"
+      },
+      {
+        "cep": "24110-449",
+        "rua": "Largo São Jorge"
+      },
+      {
+        "cep": "24110-150",
+        "rua": "Morro do Aleixo"
+      },
+      {
+        "cep": "24110-630",
+        "rua": "Morro do Alemão"
+      },
+      {
+        "cep": "24110-135",
+        "rua": "Morro do Arantes"
+      },
+      {
+        "cep": "24110-530",
+        "rua": "Rua Argos"
+      },
+      {
+        "cep": "24110-462",
+        "rua": "Rua Augusto Lopes"
+      },
+      {
+        "cep": "24110-440",
+        "rua": "Rua Capitão Alfredo Cruz"
+      },
+      {
+        "cep": "24110-463",
+        "rua": "Rua Carmelita"
+      },
+      {
+        "cep": "24110-540",
+        "rua": "Rua Coronel Leôncio"
+      },
+      {
+        "cep": "24110-465",
+        "rua": "Rua Daniel Torres"
+      },
+      {
+        "cep": "24110-500",
+        "rua": "Rua Desembargador Mário Fernandes Pinheiro"
+      },
+      {
+        "cep": "24110-637",
+        "rua": "Rua Dom Antônio Almeida Moraes Júnior"
+      },
+      {
+        "cep": "24110-545",
+        "rua": "Rua Dona Isaura"
+      },
+      {
+        "cep": "24110-533",
+        "rua": "Rua Doutor Álvaro Rocha Pereira da Silva"
+      },
+      {
+        "cep": "24110-520",
+        "rua": "Rua Doutor Nelson Pena"
+      },
+      {
+        "cep": "24110-510",
+        "rua": "Rua Doutor Péricles"
+      },
+      {
+        "cep": "24110-496",
+        "rua": "Rua Elias José Ribeiro"
+      },
+      {
+        "cep": "24110-515",
+        "rua": "Rua Euclides da Cunha"
+      },
+      {
+        "cep": "24110-442",
+        "rua": "Rua F"
+      },
+      {
+        "cep": "24110-547",
+        "rua": "Rua Francisco Mendes"
+      },
+      {
+        "cep": "24110-645",
+        "rua": "Rua Francisco Sardinha"
+      },
+      {
+        "cep": "24110-443",
+        "rua": "Rua G"
+      },
+      {
+        "cep": "24111-220",
+        "rua": "Rua Guaporé"
+      },
+      {
+        "cep": "24110-497",
+        "rua": "Rua Henrique Castrioto"
+      },
+      {
+        "cep": "24110-534",
+        "rua": "Rua João de Souza Lópes"
+      },
+      {
+        "cep": "24110-480",
+        "rua": "Rua João Mendes"
+      },
+      {
+        "cep": "24110-537",
+        "rua": "Rua José Agra"
+      },
+      {
+        "cep": "24130-273",
+        "rua": "Rua Manoel Ladeira"
+      },
+      {
+        "cep": "24110-467",
+        "rua": "Rua Manoel Miranda Silva"
+      },
+      {
+        "cep": "24110-455",
+        "rua": "Rua Marechal Fontoura"
+      },
+      {
+        "cep": "24110-390",
+        "rua": "Rua Mário Carpenter"
+      },
+      {
+        "cep": "24110-576",
+        "rua": "Rua Melchíades Picanco"
+      },
+      {
+        "cep": "24110-548",
+        "rua": "Rua Nossa Senhora Amparo"
+      },
+      {
+        "cep": "24110-448",
+        "rua": "Rua Padre Ângelo Bruno"
+      },
+      {
+        "cep": "24110-475",
+        "rua": "Rua Plínio Casado"
+      },
+      {
+        "cep": "24110-009",
+        "rua": "Rua Projetada"
+      },
+      {
+        "cep": "24110-538",
+        "rua": "Rua Rogério"
+      },
+      {
+        "cep": "24110-539",
+        "rua": "Rua Vereador Maurício de Souza"
+      },
+      {
+        "cep": "24110-460",
+        "rua": "Travessa A"
+      },
+      {
+        "cep": "24110-490",
+        "rua": "Travessa Adalberto Torres"
+      },
+      {
+        "cep": "24110-570",
+        "rua": "Travessa Agulha"
+      },
+      {
+        "cep": "24110-640",
+        "rua": "Travessa Antônio Machado Cota"
+      },
+      {
+        "cep": "24110-130",
+        "rua": "Travessa Arantes"
+      },
+      {
+        "cep": "24110-635",
+        "rua": "Travessa Barbosa"
+      },
+      {
+        "cep": "24110-636",
+        "rua": "Travessa Brandão"
+      },
+      {
+        "cep": "24110-595",
+        "rua": "Travessa Cabo Pedro Couto"
+      },
+      {
+        "cep": "24110-136",
+        "rua": "Travessa Caldeira"
+      },
+      {
+        "cep": "24110-444",
+        "rua": "Travessa Carreteiro José"
+      },
+      {
+        "cep": "24110-610",
+        "rua": "Travessa Costa"
+      },
+      {
+        "cep": "24110-531",
+        "rua": "Travessa D"
+      },
+      {
+        "cep": "24110-464",
+        "rua": "Travessa Daniel Torres"
+      },
+      {
+        "cep": "24110-550",
+        "rua": "Travessa Dezessete"
+      },
+      {
+        "cep": "24110-532",
+        "rua": "Travessa Dona Ana"
+      },
+      {
+        "cep": "24110-138",
+        "rua": "Travessa Dona Ruth"
+      },
+      {
+        "cep": "24110-546",
+        "rua": "Travessa Doutor Arlindo"
+      },
+      {
+        "cep": "24110-555",
+        "rua": "Travessa Doze"
+      },
+      {
+        "cep": "24110-560",
+        "rua": "Travessa Elias David Sili"
+      },
+      {
+        "cep": "24110-450",
+        "rua": "Travessa Floriano Peixoto"
+      },
+      {
+        "cep": "24110-575",
+        "rua": "Travessa Geraldo de Souza"
+      },
+      {
+        "cep": "24110-565",
+        "rua": "Travessa Giuseppe Sorrentino"
+      },
+      {
+        "cep": "24110-620",
+        "rua": "Travessa Irany Avelino da Silva"
+      },
+      {
+        "cep": "24110-535",
+        "rua": "Travessa José Agra"
+      },
+      {
+        "cep": "24110-556",
+        "rua": "Travessa José Failace"
+      },
+      {
+        "cep": "24110-466",
+        "rua": "Travessa José Silveira"
+      },
+      {
+        "cep": "24110-445",
+        "rua": "Travessa Júlio Froes"
+      },
+      {
+        "cep": "24110-498",
+        "rua": "Travessa Lengruber Filho"
+      },
+      {
+        "cep": "24110-140",
+        "rua": "Travessa Lima Esteves"
+      },
+      {
+        "cep": "24110-145",
+        "rua": "Travessa Lino Esteves"
+      },
+      {
+        "cep": "24110-146",
+        "rua": "Travessa Luiz Carlos Esteves"
+      },
+      {
+        "cep": "24110-529",
+        "rua": "Travessa N"
+      },
+      {
+        "cep": "24110-147",
+        "rua": "Travessa Nilo Esteves"
+      },
+      {
+        "cep": "24110-468",
+        "rua": "Travessa Norival de Freitas"
+      },
+      {
+        "cep": "24110-549",
+        "rua": "Travessa Nossa Senhora Aparecida"
+      },
+      {
+        "cep": "24110-577",
+        "rua": "Travessa Nove"
+      },
+      {
+        "cep": "24110-580",
+        "rua": "Travessa Olavo Bilac"
+      },
+      {
+        "cep": "24110-590",
+        "rua": "Travessa Osório Moreira da Costa Filho"
+      },
+      {
+        "cep": "24111-200",
+        "rua": "Travessa Otto"
+      },
+      {
+        "cep": "24110-156",
+        "rua": "Travessa Pascoal"
+      },
+      {
+        "cep": "24110-646",
+        "rua": "Travessa Pastor José de Melo"
+      },
+      {
+        "cep": "24110-470",
+        "rua": "Travessa Plínio Casado"
+      },
+      {
+        "cep": "24110-007",
+        "rua": "Travessa Potiguara"
+      },
+      {
+        "cep": "24110-566",
+        "rua": "Travessa Quatorze"
+      },
+      {
+        "cep": "24110-557",
+        "rua": "Travessa Quinze"
+      },
+      {
+        "cep": "24110-469",
+        "rua": "Travessa Renato de Araújo"
+      },
+      {
+        "cep": "24110-476",
+        "rua": "Travessa Renato Silva"
+      },
+      {
+        "cep": "24110-085",
+        "rua": "Travessa Ribeiro de Almeida"
+      },
+      {
+        "cep": "24110-499",
+        "rua": "Travessa São Jorge"
+      },
+      {
+        "cep": "24110-157",
+        "rua": "Travessa Silveira"
+      },
+      {
+        "cep": "24110-558",
+        "rua": "Travessa Spencer Bittencourt"
+      },
+      {
+        "cep": "24110-477",
+        "rua": "Travessa Tobias Barreto"
+      },
+      {
+        "cep": "24110-648",
+        "rua": "Travessa Um"
+      },
+      {
+        "cep": "24110-600",
+        "rua": "Travessa Zalmir Garcia"
+      },
+      {
+        "cep": "24110-647",
+        "rua": "Vila Sardinha"
+      }
+    ]
+  },
+  "fatima": {
+    "nome": "Fátima",
+    "enderecos": [
+      {
+        "cep": "24060-036",
+        "rua": "Morro do Abílio"
+      },
+      {
+        "cep": "24070-005",
+        "rua": "Praça Carlos Steele"
+      },
+      {
+        "cep": "24070-040",
+        "rua": "Rua Alberto de Oliveira"
+      },
+      {
+        "cep": "24070-000",
+        "rua": "Rua Andrade Pinto"
+      },
+      {
+        "cep": "24070-120",
+        "rua": "Rua Antônio Leonardo Kalle"
+      },
+      {
+        "cep": "24070-110",
+        "rua": "Rua Aridio Martins"
+      },
+      {
+        "cep": "24070-090",
+        "rua": "Rua Ataíde Parreiras"
+      },
+      {
+        "cep": "24070-160",
+        "rua": "Rua Belegarde"
+      },
+      {
+        "cep": "24070-070",
+        "rua": "Rua Conselheiro Paulino"
+      },
+      {
+        "cep": "24070-010",
+        "rua": "Rua Doutor Gustavo Líra"
+      },
+      {
+        "cep": "24070-006",
+        "rua": "Rua Guararapes"
+      },
+      {
+        "cep": "24070-030",
+        "rua": "Rua Luiz Murat"
+      },
+      {
+        "cep": "24070-170",
+        "rua": "Rua Machado de Assis"
+      },
+      {
+        "cep": "24070-100",
+        "rua": "Rua Manoel Correia"
+      },
+      {
+        "cep": "24070-020",
+        "rua": "Rua Matoso Maia"
+      },
+      {
+        "cep": "24070-200",
+        "rua": "Rua Monsenhor Macedo"
+      },
+      {
+        "cep": "24070-140",
+        "rua": "Rua Palieri"
+      },
+      {
+        "cep": "24070-050",
+        "rua": "Rua Ponte Ribeiro"
+      },
+      {
+        "cep": "24070-035",
+        "rua": "Rua Princesa Isabel"
+      },
+      {
+        "cep": "24070-060",
+        "rua": "Rua Professor Rúbens Braga"
+      },
+      {
+        "cep": "24070-080",
+        "rua": "Rua Raul Pompéia"
+      },
+      {
+        "cep": "24070-150",
+        "rua": "Rua Saldanha da Gama"
+      },
+      {
+        "cep": "24070-205",
+        "rua": "Rua Saud Salomão Saud"
+      },
+      {
+        "cep": "24070-195",
+        "rua": "Travessa Leonete Nóbrega"
+      }
+    ]
+  },
+  "figueira": {
+    "nome": "Figueira",
+    "enderecos": [
+      {
+        "cep": "24140-215",
+        "rua": "Caminho da Figueira"
+      },
+      {
+        "cep": "24141-185",
+        "rua": "Loteamento Jardim Figueira"
+      },
+      {
+        "cep": "24141-180",
+        "rua": "Praça da Figueira"
+      },
+      {
+        "cep": "24120-510",
+        "rua": "Rua Carmem Miranda"
+      },
+      {
+        "cep": "24140-290",
+        "rua": "Rua Dona Neuza"
+      },
+      {
+        "cep": "24141-300",
+        "rua": "Rua José Freire"
+      },
+      {
+        "cep": "24141-310",
+        "rua": "Rua Luiz Aguinesio Leria"
+      },
+      {
+        "cep": "24141-220",
+        "rua": "Rua Selma"
+      }
+    ]
+  },
+  "fonseca": {
+    "nome": "Fonseca",
+    "enderecos": [
+      {
+        "cep": "24130-305",
+        "rua": "Avenida José Ramos"
+      },
+      {
+        "cep": "24120-290",
+        "rua": "Avenida Manoel Gonçalves"
+      },
+      {
+        "cep": "24120-049",
+        "rua": "Avenida Vinte e Dois de Novembro"
+      },
+      {
+        "cep": "24130-745",
+        "rua": "Beco Oliveira"
+      },
+      {
+        "cep": "24130-816",
+        "rua": "Campo do Ipiranga"
+      },
+      {
+        "cep": "24130-780",
+        "rua": "Estrada Cova da Onça"
+      },
+      {
+        "cep": "24130-446",
+        "rua": "Estrada Santo Cristo"
+      },
+      {
+        "cep": "24130-678",
+        "rua": "Ladeira do Castro"
+      },
+      {
+        "cep": "24120-096",
+        "rua": "Ladeira Lopes da Cunha"
+      },
+      {
+        "cep": "24120-280",
+        "rua": "Largo do Moura"
+      },
+      {
+        "cep": "24130-617",
+        "rua": "Largo dos Telhados"
+      },
+      {
+        "cep": "24120-315",
+        "rua": "Morro Bernardino"
+      },
+      {
+        "cep": "24130-817",
+        "rua": "Morro do Ipiranga"
+      },
+      {
+        "cep": "24120-039",
+        "rua": "Morro Juca Branco"
+      },
+      {
+        "cep": "24130-447",
+        "rua": "Morro Santo Cristo"
+      },
+      {
+        "cep": "24120-275",
+        "rua": "Morro São Feliciano"
+      },
+      {
+        "cep": "24120-059",
+        "rua": "Morro Serrão"
+      },
+      {
+        "cep": "24130-635",
+        "rua": "Praça da Fonte"
+      },
+      {
+        "cep": "24120-130",
+        "rua": "Praça Dom Agostinho Benassi"
+      },
+      {
+        "cep": "24130-130",
+        "rua": "Praça Guadalajara"
+      },
+      {
+        "cep": "24120-090",
+        "rua": "Praça Lopes da Cunha"
+      },
+      {
+        "cep": "24120-390",
+        "rua": "Praça Luciano Pestre"
+      },
+      {
+        "cep": "24120-336",
+        "rua": "Praça Max Wolff"
+      },
+      {
+        "cep": "24130-378",
+        "rua": "Praça Nossa Senhora das Graças"
+      },
+      {
+        "cep": "24130-244",
+        "rua": "Praça Quatorze de Fevereiro"
+      },
+      {
+        "cep": "24130-670",
+        "rua": "Rua A"
+      },
+      {
+        "cep": "24130-250",
+        "rua": "Rua Abraão da Costa Saião"
+      },
+      {
+        "cep": "24120-020",
+        "rua": "Rua Adelino Martins"
+      },
+      {
+        "cep": "24130-080",
+        "rua": "Rua Adílio Neves Dutra"
+      },
+      {
+        "cep": "24120-100",
+        "rua": "Rua Airosa Galvão"
+      },
+      {
+        "cep": "24120-110",
+        "rua": "Rua Alice Galvão"
+      },
+      {
+        "cep": "24130-700",
+        "rua": "Rua Alípio Leite de Castro"
+      },
+      {
+        "cep": "24130-676",
+        "rua": "Rua Altineu Cortes Pires"
+      },
+      {
+        "cep": "24130-360",
+        "rua": "Rua Álvaro Neves"
+      },
+      {
+        "cep": "24130-215",
+        "rua": "Rua Alzira Vargas do Amaral Peixoto"
+      },
+      {
+        "cep": "24130-580",
+        "rua": "Rua Antônio Sabino da Silva"
+      },
+      {
+        "cep": "24130-175",
+        "rua": "Rua Antônio Silva"
+      },
+      {
+        "cep": "24130-675",
+        "rua": "Rua B"
+      },
+      {
+        "cep": "24120-040",
+        "rua": "Rua Benevenuto Soares"
+      },
+      {
+        "cep": "24130-100",
+        "rua": "Rua Capitão Dalvo Rebelo Sampaio"
+      },
+      {
+        "cep": "24120-000",
+        "rua": "Rua Carlos Maximiano"
+      },
+      {
+        "cep": "24130-570",
+        "rua": "Rua Célio Gouveia"
+      },
+      {
+        "cep": "24130-370",
+        "rua": "Rua Cinco de Março"
+      },
+      {
+        "cep": "24120-480",
+        "rua": "Rua Comissário Adão Domingos"
+      },
+      {
+        "cep": "24130-110",
+        "rua": "Rua Conrado Barbosa de Souza"
+      },
+      {
+        "cep": "24120-060",
+        "rua": "Rua Constantino Pereira"
+      },
+      {
+        "cep": "24120-150",
+        "rua": "Rua Coronel José Teixeira"
+      },
+      {
+        "cep": "24120-500",
+        "rua": "Rua Coronel Romeu Bastos"
+      },
+      {
+        "cep": "24120-030",
+        "rua": "Rua D"
+      },
+      {
+        "cep": "24130-377",
+        "rua": "Rua das Maravilhas"
+      },
+      {
+        "cep": "24120-070",
+        "rua": "Rua Deputado Álvaro Fernandes"
+      },
+      {
+        "cep": "24120-450",
+        "rua": "Rua Desembargador Barreto Dantas"
+      },
+      {
+        "cep": "24120-350",
+        "rua": "Rua Desembargador Lima Castro"
+      },
+      {
+        "cep": "24120-330",
+        "rua": "Rua Doutor Antônio Ciuffo"
+      },
+      {
+        "cep": "24130-420",
+        "rua": "Rua Doutor Antônio Domingues Nicolau"
+      },
+      {
+        "cep": "24120-440",
+        "rua": "Rua Doutor Carlos Imbassahy"
+      },
+      {
+        "cep": "24130-425",
+        "rua": "Rua Doutor Renê de Souza Pestre"
+      },
+      {
+        "cep": "24130-220",
+        "rua": "Rua Doutor Souza Soares"
+      },
+      {
+        "cep": "24120-120",
+        "rua": "Rua Duarte Galvão"
+      },
+      {
+        "cep": "24120-034",
+        "rua": "Rua E"
+      },
+      {
+        "cep": "24130-350",
+        "rua": "Rua Engenheiro Péricles Ribeiro"
+      },
+      {
+        "cep": "24130-720",
+        "rua": "Rua Evilásio Silva"
+      },
+      {
+        "cep": "24120-035",
+        "rua": "Rua F"
+      },
+      {
+        "cep": "24120-037",
+        "rua": "Rua G"
+      },
+      {
+        "cep": "24120-335",
+        "rua": "Rua Genésio Teixeira Lima"
+      },
+      {
+        "cep": "24120-160",
+        "rua": "Rua GonçAlves Ledo"
+      },
+      {
+        "cep": "24130-620",
+        "rua": "Rua Guerreiro Camilo"
+      },
+      {
+        "cep": "24120-038",
+        "rua": "Rua H"
+      },
+      {
+        "cep": "24130-470",
+        "rua": "Rua Henrique Lage"
+      },
+      {
+        "cep": "24120-233",
+        "rua": "Rua Homero Pinho"
+      },
+      {
+        "cep": "24130-026",
+        "rua": "Rua Ilka Brasil Barbosa"
+      },
+      {
+        "cep": "24130-690",
+        "rua": "Rua Jardim Caiçara"
+      },
+      {
+        "cep": "24120-470",
+        "rua": "Rua João Vizela"
+      },
+      {
+        "cep": "24130-410",
+        "rua": "Rua Joaquim Norberto"
+      },
+      {
+        "cep": "24130-730",
+        "rua": "Rua José Carlos da Silveira Nogueira"
+      },
+      {
+        "cep": "24130-640",
+        "rua": "Rua Josué Marques"
+      },
+      {
+        "cep": "24120-006",
+        "rua": "Rua Juca Branco"
+      },
+      {
+        "cep": "24130-280",
+        "rua": "Rua Laurindo de Souza"
+      },
+      {
+        "cep": "24130-660",
+        "rua": "Rua Leda Maria"
+      },
+      {
+        "cep": "24120-210",
+        "rua": "Rua Leite Ribeiro"
+      },
+      {
+        "cep": "24120-340",
+        "rua": "Rua Leonor Saramago"
+      },
+      {
+        "cep": "24120-095",
+        "rua": "Rua Lopes da Cunha"
+      },
+      {
+        "cep": "24130-243",
+        "rua": "Rua Madre Joanina da Sagrada Face"
+      },
+      {
+        "cep": "24120-010",
+        "rua": "Rua Magnólia Brasil"
+      },
+      {
+        "cep": "24130-260",
+        "rua": "Rua Major Pardal Júnior"
+      },
+      {
+        "cep": "24130-376",
+        "rua": "Rua Manacás"
+      },
+      {
+        "cep": "24130-160",
+        "rua": "Rua Manoel Areal"
+      },
+      {
+        "cep": "24130-010",
+        "rua": "Rua Manoel Crista"
+      },
+      {
+        "cep": "24130-150",
+        "rua": "Rua Manoel João Gonçalves"
+      },
+      {
+        "cep": "24130-355",
+        "rua": "Rua Manoel Machado de Souza"
+      },
+      {
+        "cep": "24120-007",
+        "rua": "Rua Maria Bregua"
+      },
+      {
+        "cep": "24130-490",
+        "rua": "Rua Mário de Souza Resende"
+      },
+      {
+        "cep": "24120-317",
+        "rua": "Rua Miguel Escobar"
+      },
+      {
+        "cep": "24120-460",
+        "rua": "Rua Monerat"
+      },
+      {
+        "cep": "24120-490",
+        "rua": "Rua Murilo Pires"
+      },
+      {
+        "cep": "24120-295",
+        "rua": "Rua Neusa Leal"
+      },
+      {
+        "cep": "24130-050",
+        "rua": "Rua Nossa Senhora das Mercês"
+      },
+      {
+        "cep": "24120-395",
+        "rua": "Rua Oscar da Fonseca"
+      },
+      {
+        "cep": "24120-048",
+        "rua": "Rua Oscar Fontenele"
+      },
+      {
+        "cep": "24120-135",
+        "rua": "Rua Padre Leandro"
+      },
+      {
+        "cep": "24130-475",
+        "rua": "Rua Prefeito Brandão Júnior"
+      },
+      {
+        "cep": "24120-260",
+        "rua": "Rua Prefeito Guthier Figueiredo"
+      },
+      {
+        "cep": "24130-230",
+        "rua": "Rua Professor Américo Braga"
+      },
+      {
+        "cep": "24120-485",
+        "rua": "Rua Professor Costa Júnior"
+      },
+      {
+        "cep": "24130-086",
+        "rua": "Rua Professor Gilson Amado"
+      },
+      {
+        "cep": "24120-337",
+        "rua": "Rua Professor José Teles Barbosa"
+      },
+      {
+        "cep": "24130-430",
+        "rua": "Rua Professora Lilian Lemos Mercadette"
+      },
+      {
+        "cep": "24130-140",
+        "rua": "Rua Professora Zuleica Brasil Silva"
+      },
+      {
+        "cep": "24130-245",
+        "rua": "Rua Quatro"
+      },
+      {
+        "cep": "24120-216",
+        "rua": "Rua Rodrigo Pereira"
+      },
+      {
+        "cep": "24130-560",
+        "rua": "Rua Rolando Novais"
+      },
+      {
+        "cep": "24130-070",
+        "rua": "Rua Rúbens Brasil"
+      },
+      {
+        "cep": "24120-195",
+        "rua": "Rua Rúbens Francisco Barros"
+      },
+      {
+        "cep": "24120-297",
+        "rua": "Rua Sá Barreto"
+      },
+      {
+        "cep": "24120-250",
+        "rua": "Rua Santa Marta"
+      },
+      {
+        "cep": "24120-338",
+        "rua": "Rua Santa Teresinha do Menino Jesus"
+      },
+      {
+        "cep": "24130-444",
+        "rua": "Rua Santo Antônio"
+      },
+      {
+        "cep": "24130-445",
+        "rua": "Rua Santo Cristo"
+      },
+      {
+        "cep": "24130-315",
+        "rua": "Rua Santo Onofre"
+      },
+      {
+        "cep": "24120-430",
+        "rua": "Rua São Geraldo"
+      },
+      {
+        "cep": "24120-325",
+        "rua": "Rua São José"
+      },
+      {
+        "cep": "24120-140",
+        "rua": "Rua Sérgio Vergueiro da Cruz"
+      },
+      {
+        "cep": "24120-057",
+        "rua": "Rua Serrão"
+      },
+      {
+        "cep": "24120-307",
+        "rua": "Rua Soares de Miranda"
+      },
+      {
+        "cep": "24130-616",
+        "rua": "Rua Teixeira de Freitas"
+      },
+      {
+        "cep": "24130-209",
+        "rua": "Rua Tenente Osório"
+      },
+      {
+        "cep": "24130-248",
+        "rua": "Rua Três"
+      },
+      {
+        "cep": "24130-747",
+        "rua": "Rua Vila Oliveira"
+      },
+      {
+        "cep": "24120-380",
+        "rua": "Rua Vilar Correia"
+      },
+      {
+        "cep": "24130-135",
+        "rua": "Rua Zoraida Brasil Alcântara"
+      },
+      {
+        "cep": "24130-030",
+        "rua": "Travessa Afonso Viana"
+      },
+      {
+        "cep": "24130-020",
+        "rua": "Travessa Agostinho"
+      },
+      {
+        "cep": "24130-025",
+        "rua": "Travessa Agostinho Cavalieri"
+      },
+      {
+        "cep": "24130-170",
+        "rua": "Travessa Alameda"
+      },
+      {
+        "cep": "24130-270",
+        "rua": "Travessa Albertina Ladeira"
+      },
+      {
+        "cep": "24120-115",
+        "rua": "Travessa Alice Galvão"
+      },
+      {
+        "cep": "24130-210",
+        "rua": "Travessa Alzira Vargas"
+      },
+      {
+        "cep": "24130-802",
+        "rua": "Travessa Antunes Figueiredo"
+      },
+      {
+        "cep": "24120-180",
+        "rua": "Travessa Ari Pinto Lima"
+      },
+      {
+        "cep": "24130-650",
+        "rua": "Travessa Azanor Deperni"
+      },
+      {
+        "cep": "24130-200",
+        "rua": "Travessa Bahia"
+      },
+      {
+        "cep": "24130-035",
+        "rua": "Travessa Belfort Vieira"
+      },
+      {
+        "cep": "24130-380",
+        "rua": "Travessa Belo"
+      },
+      {
+        "cep": "24130-205",
+        "rua": "Travessa Benevides Borges"
+      },
+      {
+        "cep": "24130-803",
+        "rua": "Travessa Benvindo"
+      },
+      {
+        "cep": "24120-310",
+        "rua": "Travessa Bernardino"
+      },
+      {
+        "cep": "24130-804",
+        "rua": "Travessa Cabo Frio"
+      },
+      {
+        "cep": "24130-807",
+        "rua": "Travessa Caminho 17"
+      },
+      {
+        "cep": "24130-805",
+        "rua": "Travessa Caminho 18"
+      },
+      {
+        "cep": "24130-806",
+        "rua": "Travessa Caminho 22"
+      },
+      {
+        "cep": "24130-677",
+        "rua": "Travessa Carolina"
+      },
+      {
+        "cep": "24120-400",
+        "rua": "Travessa Carvalho Leomil"
+      },
+      {
+        "cep": "24130-808",
+        "rua": "Travessa Continental"
+      },
+      {
+        "cep": "24130-330",
+        "rua": "Travessa Cosme e Damião"
+      },
+      {
+        "cep": "24130-809",
+        "rua": "Travessa Costa"
+      },
+      {
+        "cep": "24130-801",
+        "rua": "Travessa da Amizade"
+      },
+      {
+        "cep": "24120-050",
+        "rua": "Travessa da Cândida"
+      },
+      {
+        "cep": "24120-320",
+        "rua": "Travessa da Célia"
+      },
+      {
+        "cep": "24130-636",
+        "rua": "Travessa da Fonte"
+      },
+      {
+        "cep": "24130-775",
+        "rua": "Travessa da Gruta"
+      },
+      {
+        "cep": "24130-770",
+        "rua": "Travessa Damião Cardoso"
+      },
+      {
+        "cep": "24120-190",
+        "rua": "Travessa Darcy Gonçalves"
+      },
+      {
+        "cep": "24130-810",
+        "rua": "Travessa Dario"
+      },
+      {
+        "cep": "24120-055",
+        "rua": "Travessa Dario Leoni"
+      },
+      {
+        "cep": "24120-054",
+        "rua": "Travessa Dirceu"
+      },
+      {
+        "cep": "24120-360",
+        "rua": "Travessa do Maia"
+      },
+      {
+        "cep": "24120-075",
+        "rua": "Travessa Dona Júlia"
+      },
+      {
+        "cep": "24130-290",
+        "rua": "Travessa Doutor Chiquito"
+      },
+      {
+        "cep": "24120-170",
+        "rua": "Travessa Doutor Clotilde de Oliveira Rodrigues"
+      },
+      {
+        "cep": "24120-305",
+        "rua": "Travessa Doutor Faria Júnior"
+      },
+      {
+        "cep": "24120-044",
+        "rua": "Travessa Doutor Pereira Faustino"
+      },
+      {
+        "cep": "24130-340",
+        "rua": "Travessa Doutor Valério"
+      },
+      {
+        "cep": "24120-125",
+        "rua": "Travessa Duarte Galvão"
+      },
+      {
+        "cep": "24130-550",
+        "rua": "Travessa Eduardo Machado"
+      },
+      {
+        "cep": "24130-460",
+        "rua": "Travessa Epaminondas Libanio dos Santos"
+      },
+      {
+        "cep": "24130-811",
+        "rua": "Travessa Eurico"
+      },
+      {
+        "cep": "24130-442",
+        "rua": "Travessa Existente"
+      },
+      {
+        "cep": "24120-230",
+        "rua": "Travessa Expedicionário José Carlos"
+      },
+      {
+        "cep": "24120-240",
+        "rua": "Travessa Expedicionário Paulo de Morais Pinheiro"
+      },
+      {
+        "cep": "24120-316",
+        "rua": "Travessa Expedicionário Sebastião Vanna"
+      },
+      {
+        "cep": "24130-812",
+        "rua": "Travessa Felipe Enes"
+      },
+      {
+        "cep": "24130-443",
+        "rua": "Travessa Feliz"
+      },
+      {
+        "cep": "24130-634",
+        "rua": "Travessa Filgueiras"
+      },
+      {
+        "cep": "24130-610",
+        "rua": "Travessa Filomena"
+      },
+      {
+        "cep": "24130-085",
+        "rua": "Travessa Flor"
+      },
+      {
+        "cep": "24130-375",
+        "rua": "Travessa Fortuna"
+      },
+      {
+        "cep": "24130-060",
+        "rua": "Travessa Francisca Ribeiro"
+      },
+      {
+        "cep": "24130-813",
+        "rua": "Travessa Francisco Borges"
+      },
+      {
+        "cep": "24130-500",
+        "rua": "Travessa Franklin Gonzaga Carneiro"
+      },
+      {
+        "cep": "24120-036",
+        "rua": "Travessa G"
+      },
+      {
+        "cep": "24120-005",
+        "rua": "Travessa Gelson Brandão"
+      },
+      {
+        "cep": "24130-710",
+        "rua": "Travessa Geraldo de Oliveira"
+      },
+      {
+        "cep": "24130-814",
+        "rua": "Travessa Getúlio Vargas"
+      },
+      {
+        "cep": "24120-080",
+        "rua": "Travessa Glória"
+      },
+      {
+        "cep": "24130-300",
+        "rua": "Travessa Iracema"
+      },
+      {
+        "cep": "24130-520",
+        "rua": "Travessa João Batista da Silva"
+      },
+      {
+        "cep": "24130-385",
+        "rua": "Travessa João Belo"
+      },
+      {
+        "cep": "24130-480",
+        "rua": "Travessa José da Silva Tavares"
+      },
+      {
+        "cep": "24130-450",
+        "rua": "Travessa José Felipe de Melo"
+      },
+      {
+        "cep": "24130-510",
+        "rua": "Travessa José Gomes Figueiredo"
+      },
+      {
+        "cep": "24130-275",
+        "rua": "Travessa José Ladeira"
+      },
+      {
+        "cep": "24130-206",
+        "rua": "Travessa José Sergipano"
+      },
+      {
+        "cep": "24130-242",
+        "rua": "Travessa Julceia"
+      },
+      {
+        "cep": "24130-285",
+        "rua": "Travessa Laurindo de Souza"
+      },
+      {
+        "cep": "24130-665",
+        "rua": "Travessa Leda Maria"
+      },
+      {
+        "cep": "24120-215",
+        "rua": "Travessa Leite Ribeiro"
+      },
+      {
+        "cep": "24130-276",
+        "rua": "Travessa Luciano Pestre"
+      },
+      {
+        "cep": "24120-220",
+        "rua": "Travessa Luiz de Matos"
+      },
+      {
+        "cep": "24130-600",
+        "rua": "Travessa Luiz Fernando Pinheiro"
+      },
+      {
+        "cep": "24130-286",
+        "rua": "Travessa Luiz Nascimento Lópes"
+      },
+      {
+        "cep": "24130-306",
+        "rua": "Travessa Machado Porto Guerra"
+      },
+      {
+        "cep": "24120-015",
+        "rua": "Travessa Magnólia Brasil"
+      },
+      {
+        "cep": "24130-000",
+        "rua": "Travessa Manhaes Barreto"
+      },
+      {
+        "cep": "24130-040",
+        "rua": "Travessa Manoel Benicio"
+      },
+      {
+        "cep": "24130-530",
+        "rua": "Travessa Manoel da Cruz Marinho"
+      },
+      {
+        "cep": "24130-465",
+        "rua": "Travessa Manoel da Encarnação Sá"
+      },
+      {
+        "cep": "24130-277",
+        "rua": "Travessa Maria José Ladeira"
+      },
+      {
+        "cep": "24130-400",
+        "rua": "Travessa Maurício de Lacerda"
+      },
+      {
+        "cep": "24130-426",
+        "rua": "Travessa Ministro Ribeiro da Costa"
+      },
+      {
+        "cep": "24130-310",
+        "rua": "Travessa Monte Serrat"
+      },
+      {
+        "cep": "24130-680",
+        "rua": "Travessa Moreno"
+      },
+      {
+        "cep": "24130-278",
+        "rua": "Travessa Nair Ladeira"
+      },
+      {
+        "cep": "24120-046",
+        "rua": "Travessa Natal"
+      },
+      {
+        "cep": "24130-750",
+        "rua": "Travessa Nunes"
+      },
+      {
+        "cep": "24130-818",
+        "rua": "Travessa Odete"
+      },
+      {
+        "cep": "24120-016",
+        "rua": "Travessa Olegário Antônio Moura"
+      },
+      {
+        "cep": "24130-740",
+        "rua": "Travessa Oliveira"
+      },
+      {
+        "cep": "24130-819",
+        "rua": "Travessa Olívia"
+      },
+      {
+        "cep": "24130-345",
+        "rua": "Travessa Onofre Machado"
+      },
+      {
+        "cep": "24130-207",
+        "rua": "Travessa Oris"
+      },
+      {
+        "cep": "24120-047",
+        "rua": "Travessa Orleans"
+      },
+      {
+        "cep": "24120-017",
+        "rua": "Travessa Particular"
+      },
+      {
+        "cep": "24120-018",
+        "rua": "Travessa Particular A"
+      },
+      {
+        "cep": "24120-019",
+        "rua": "Travessa Particular B"
+      },
+      {
+        "cep": "24130-356",
+        "rua": "Travessa Paulina"
+      },
+      {
+        "cep": "24130-820",
+        "rua": "Travessa Paulistano"
+      },
+      {
+        "cep": "24120-065",
+        "rua": "Travessa Paulo Alberto"
+      },
+      {
+        "cep": "24130-216",
+        "rua": "Travessa Paulo Medeiros"
+      },
+      {
+        "cep": "24130-087",
+        "rua": "Travessa Professor João Brasil"
+      },
+      {
+        "cep": "24130-821",
+        "rua": "Travessa Progresso"
+      },
+      {
+        "cep": "24130-735",
+        "rua": "Travessa Projetada A"
+      },
+      {
+        "cep": "24130-736",
+        "rua": "Travessa Projetada B"
+      },
+      {
+        "cep": "24130-307",
+        "rua": "Travessa Proto Guerra"
+      },
+      {
+        "cep": "24130-540",
+        "rua": "Travessa Prudente Silva de Almeida"
+      },
+      {
+        "cep": "24120-370",
+        "rua": "Travessa Quatro de Outubro"
+      },
+      {
+        "cep": "24120-410",
+        "rua": "Travessa Regina Maia"
+      },
+      {
+        "cep": "24120-200",
+        "rua": "Travessa Renato Pacheco Marques"
+      },
+      {
+        "cep": "24130-246",
+        "rua": "Travessa Riodades"
+      },
+      {
+        "cep": "24130-225",
+        "rua": "Travessa Romualdo Peixoto"
+      },
+      {
+        "cep": "24130-336",
+        "rua": "Travessa Rosa Machado Guedes"
+      },
+      {
+        "cep": "24120-296",
+        "rua": "Travessa Sá Barreto"
+      },
+      {
+        "cep": "24120-056",
+        "rua": "Travessa Sá Pinto"
+      },
+      {
+        "cep": "24130-637",
+        "rua": "Travessa Santa Cristina"
+      },
+      {
+        "cep": "24130-190",
+        "rua": "Travessa Santa Rita"
+      },
+      {
+        "cep": "24130-790",
+        "rua": "Travessa Santa Teresa"
+      },
+      {
+        "cep": "24130-308",
+        "rua": "Travessa Santo Cristo"
+      },
+      {
+        "cep": "24130-309",
+        "rua": "Travessa Santo Onofre"
+      },
+      {
+        "cep": "24120-420",
+        "rua": "Travessa Santos Reis"
+      },
+      {
+        "cep": "24130-638",
+        "rua": "Travessa São Bernardo"
+      },
+      {
+        "cep": "24120-270",
+        "rua": "Travessa São Feliciano"
+      },
+      {
+        "cep": "24130-320",
+        "rua": "Travessa São Jorge"
+      },
+      {
+        "cep": "24130-337",
+        "rua": "Travessa São Miguel"
+      },
+      {
+        "cep": "24120-235",
+        "rua": "Travessa Sargento José Carlos da Silva"
+      },
+      {
+        "cep": "24120-306",
+        "rua": "Travessa Sebastião Coutinho"
+      },
+      {
+        "cep": "24130-208",
+        "rua": "Travessa Sergipano"
+      },
+      {
+        "cep": "24120-058",
+        "rua": "Travessa Serrão"
+      },
+      {
+        "cep": "24130-265",
+        "rua": "Travessa Silvestre Cabral"
+      },
+      {
+        "cep": "24130-615",
+        "rua": "Travessa Teixeira de Freitas"
+      },
+      {
+        "cep": "24130-006",
+        "rua": "Travessa Toledo"
+      },
+      {
+        "cep": "24130-448",
+        "rua": "Travessa Três"
+      },
+      {
+        "cep": "24130-379",
+        "rua": "Travessa Triunfo"
+      },
+      {
+        "cep": "24130-590",
+        "rua": "Travessa Vereador Egberto Cecchetti"
+      },
+      {
+        "cep": "24120-318",
+        "rua": "Travessa Vinte e Dois de Outubro"
+      },
+      {
+        "cep": "24120-276",
+        "rua": "Travessa Virgílio José dos Santos"
+      },
+      {
+        "cep": "24130-390",
+        "rua": "Travessa Vítor Pestre"
+      },
+      {
+        "cep": "24130-815",
+        "rua": "Vila Ipiranga"
+      },
+      {
+        "cep": "24130-746",
+        "rua": "Vila Oliveira"
+      }
+    ]
+  },
+  "gragoata": {
+    "nome": "Gragoata",
+    "enderecos": [
+      {
+        "cep": "24210-346",
+        "rua": "Avenida General Milton Tavares de Souza"
+      },
+      {
+        "cep": "24210-370",
+        "rua": "Morro de Gragoata"
+      },
+      {
+        "cep": "24210-340",
+        "rua": "Praça Duque de Caxias"
+      },
+      {
+        "cep": "24210-385",
+        "rua": "Praça Escritor Adelino Magalhães"
+      },
+      {
+        "cep": "24210-350",
+        "rua": "Praia de Gragoata"
+      },
+      {
+        "cep": "24210-345",
+        "rua": "Praia Funda"
+      },
+      {
+        "cep": "24210-347",
+        "rua": "Praia Vermelha"
+      },
+      {
+        "cep": "24210-380",
+        "rua": "Rua Coronel Tamarindo"
+      },
+      {
+        "cep": "24210-210",
+        "rua": "Travessa Jornalista José Varela"
+      }
+    ]
+  },
+  "icarai": {
+    "nome": "Icaraí",
+    "enderecos": [
+      {
+        "cep": "24230-120",
+        "rua": "Alameda Alcides"
+      },
+      {
+        "cep": "24230-130",
+        "rua": "Alameda Barcelos"
+      },
+      {
+        "cep": "24230-140",
+        "rua": "Alameda Carolina"
+      },
+      {
+        "cep": "24230-180",
+        "rua": "Alameda Edmundo de Macedo Soares e Silva"
+      },
+      {
+        "cep": "24230-330",
+        "rua": "Alameda João Batista"
+      },
+      {
+        "cep": "24230-022",
+        "rua": "Alameda Jornalista José Geraldo da Costa"
+      },
+      {
+        "cep": "24230-580",
+        "rua": "Alameda Juarez Silva"
+      },
+      {
+        "cep": "24230-155",
+        "rua": "Alameda Vinte e Quatro de Outubro"
+      },
+      {
+        "cep": "24230-270",
+        "rua": "Avenida Campos Viana"
+      },
+      {
+        "cep": "24220-190",
+        "rua": "Morro do Bau Furado"
+      },
+      {
+        "cep": "24230-110",
+        "rua": "Morro Santa Teresa"
+      },
+      {
+        "cep": "24230-530",
+        "rua": "Morro Souza Soares"
+      },
+      {
+        "cep": "24230-160",
+        "rua": "Parque Prefeito Ferraz"
+      },
+      {
+        "cep": "24220-040",
+        "rua": "Praça Doutor Baltazar Bernardino"
+      },
+      {
+        "cep": "24220-180",
+        "rua": "Praça Doutor César da Fonseca"
+      },
+      {
+        "cep": "24220-210",
+        "rua": "Praça Euclides da Cunha"
+      },
+      {
+        "cep": "24220-007",
+        "rua": "Praça Getúlio Vargas"
+      },
+      {
+        "cep": "24230-590",
+        "rua": "Praça Santo Antônio do Canto do Rio"
+      },
+      {
+        "cep": "24220-000",
+        "rua": "Praia Canto do Rio"
+      },
+      {
+        "cep": "24230-200",
+        "rua": "Rua Belisario Augusto"
+      },
+      {
+        "cep": "24220-010",
+        "rua": "Rua Castilho Franca"
+      },
+      {
+        "cep": "24220-195",
+        "rua": "Rua Comandante Miguelote Viana"
+      },
+      {
+        "cep": "24230-220",
+        "rua": "Rua Comendador Queiroz"
+      },
+      {
+        "cep": "24230-460",
+        "rua": "Rua Desembargador Aires Itabaiana"
+      },
+      {
+        "cep": "24230-520",
+        "rua": "Rua Desembargador Aniceto de Medeiros Correia"
+      },
+      {
+        "cep": "24220-240",
+        "rua": "Rua Desembargador de Oliveira Machado"
+      },
+      {
+        "cep": "24230-135",
+        "rua": "Rua Desembargador Itabaiana de Oliveira"
+      },
+      {
+        "cep": "24230-510",
+        "rua": "Rua Desembargador Toledo Piza"
+      },
+      {
+        "cep": "24230-310",
+        "rua": "Rua Doutor Carlos Halfeld"
+      },
+      {
+        "cep": "24220-370",
+        "rua": "Rua Doutor Leandro Mota"
+      },
+      {
+        "cep": "24220-410",
+        "rua": "Rua Doutor Miguel Vieira Ferreira"
+      },
+      {
+        "cep": "24220-400",
+        "rua": "Rua Doutor Paulo César"
+      },
+      {
+        "cep": "24230-400",
+        "rua": "Rua Doutor Souza Dias"
+      },
+      {
+        "cep": "24220-220",
+        "rua": "Rua Epaminondas de Carvalho"
+      },
+      {
+        "cep": "24230-230",
+        "rua": "Rua Erotides de Oliveira"
+      },
+      {
+        "cep": "24230-260",
+        "rua": "Rua Francisco de Almeida"
+      },
+      {
+        "cep": "24220-170",
+        "rua": "Rua General Silvestre Rocha"
+      },
+      {
+        "cep": "24230-126",
+        "rua": "Rua Jornalista Irineu Marinho"
+      },
+      {
+        "cep": "24220-200",
+        "rua": "Rua José Vergueiro da Cruz"
+      },
+      {
+        "cep": "24230-500",
+        "rua": "Rua Maria Balbina Fortes"
+      },
+      {
+        "cep": "24220-270",
+        "rua": "Rua Mário Alves"
+      },
+      {
+        "cep": "24230-210",
+        "rua": "Rua Osvaldo Cruz"
+      },
+      {
+        "cep": "24230-350",
+        "rua": "Rua Padre Francisco Lana"
+      },
+      {
+        "cep": "24230-240",
+        "rua": "Rua Professor Miguel Couto"
+      },
+      {
+        "cep": "24230-470",
+        "rua": "Rua Professor Oscar Prezewodowiski"
+      },
+      {
+        "cep": "24230-490",
+        "rua": "Rua Professora Halfeld"
+      },
+      {
+        "cep": "24220-420",
+        "rua": "Rua Santa Rosa"
+      },
+      {
+        "cep": "24220-280",
+        "rua": "Rua Santos Dumont"
+      },
+      {
+        "cep": "24020-047",
+        "rua": "Rua São João"
+      },
+      {
+        "cep": "24220-060",
+        "rua": "Rua Tenente Mesquita"
+      },
+      {
+        "cep": "24220-213",
+        "rua": "Rua Vicente Frederice"
+      },
+      {
+        "cep": "24220-009",
+        "rua": "Rua Visconde do Abaeté"
+      },
+      {
+        "cep": "24230-125",
+        "rua": "Travessa Alexandre Fleming"
+      },
+      {
+        "cep": "24230-030",
+        "rua": "Travessa Antônio Pedro"
+      },
+      {
+        "cep": "24230-450",
+        "rua": "Travessa Bombeiro Fidélis Rodrigues"
+      },
+      {
+        "cep": "24220-290",
+        "rua": "Travessa Caio Martins"
+      },
+      {
+        "cep": "24220-230",
+        "rua": "Travessa Capitão Zeferino"
+      },
+      {
+        "cep": "24230-010",
+        "rua": "Travessa Coelho Gomes"
+      },
+      {
+        "cep": "24220-360",
+        "rua": "Travessa Desembargador Álvaro Ferreira Pinto"
+      },
+      {
+        "cep": "24220-160",
+        "rua": "Travessa Desembargador Luís Paiva"
+      },
+      {
+        "cep": "24220-390",
+        "rua": "Travessa Dom Bosco"
+      },
+      {
+        "cep": "24230-040",
+        "rua": "Travessa Domingos Cândido Peixoto"
+      },
+      {
+        "cep": "24220-340",
+        "rua": "Travessa Doutor César Couple"
+      },
+      {
+        "cep": "24230-058",
+        "rua": "Travessa Doutor Emílio Andrada"
+      },
+      {
+        "cep": "24220-130",
+        "rua": "Travessa Doutor João Francisco da Mata"
+      },
+      {
+        "cep": "24220-350",
+        "rua": "Travessa Doutor Napoleão Laureano"
+      },
+      {
+        "cep": "24220-006",
+        "rua": "Travessa Doutor Roberto Tortelly"
+      },
+      {
+        "cep": "24220-080",
+        "rua": "Travessa Engenheiro Celso Pasine"
+      },
+      {
+        "cep": "24230-550",
+        "rua": "Travessa Estado de Israel"
+      },
+      {
+        "cep": "24220-150",
+        "rua": "Travessa Francisco Dutra"
+      },
+      {
+        "cep": "24220-100",
+        "rua": "Travessa Gastão Ruch"
+      },
+      {
+        "cep": "24230-390",
+        "rua": "Travessa Joaquim de Oliveira Rocha"
+      },
+      {
+        "cep": "24230-170",
+        "rua": "Travessa Lassalista"
+      },
+      {
+        "cep": "24230-525",
+        "rua": "Travessa Lions Club"
+      },
+      {
+        "cep": "24230-570",
+        "rua": "Travessa Luiz Paulistano"
+      },
+      {
+        "cep": "24220-153",
+        "rua": "Travessa Morgadinha"
+      },
+      {
+        "cep": "24230-440",
+        "rua": "Travessa Nossa Senhora de Nazaré"
+      },
+      {
+        "cep": "24220-050",
+        "rua": "Travessa Oito de Maio"
+      },
+      {
+        "cep": "24230-560",
+        "rua": "Travessa Professora Elza Bittencourt"
+      },
+      {
+        "cep": "24220-140",
+        "rua": "Travessa Santa Teresinha"
+      },
+      {
+        "cep": "24230-380",
+        "rua": "Travessa Trajano de Moraes"
+      }
+    ]
+  },
+  "ilha-da-conceicao": {
+    "nome": "Ilha da Conceição",
+    "enderecos": [
+      {
+        "cep": "24050-000",
+        "rua": "Ilha da Conceição"
+      },
+      {
+        "cep": "24050-046",
+        "rua": "Largo do Sol"
+      },
+      {
+        "cep": "24050-350",
+        "rua": "Praça Alcides Pereira"
+      },
+      {
+        "cep": "24050-010",
+        "rua": "Praça do Pedágio"
+      },
+      {
+        "cep": "24050-050",
+        "rua": "Praça João Ribeiro Freire"
+      },
+      {
+        "cep": "24050-060",
+        "rua": "Praça Santos Dumont"
+      },
+      {
+        "cep": "24050-130",
+        "rua": "Rua Ambaí"
+      },
+      {
+        "cep": "24050-260",
+        "rua": "Rua Brigido Tinoco"
+      },
+      {
+        "cep": "24050-280",
+        "rua": "Rua Cruzeiro"
+      },
+      {
+        "cep": "24050-030",
+        "rua": "Rua da Amendoeira"
+      },
+      {
+        "cep": "24050-210",
+        "rua": "Rua da Igreja"
+      },
+      {
+        "cep": "24050-170",
+        "rua": "Rua Delegado Waldir Guilherme"
+      },
+      {
+        "cep": "24050-080",
+        "rua": "Rua Deputado Cordeiro de Miranda"
+      },
+      {
+        "cep": "24050-180",
+        "rua": "Rua Desembargador Ademário Alves de Mendonça"
+      },
+      {
+        "cep": "24050-045",
+        "rua": "Rua Dom Diniz"
+      },
+      {
+        "cep": "24050-200",
+        "rua": "Rua Doutor Mário Tinoco"
+      },
+      {
+        "cep": "24050-090",
+        "rua": "Rua Engenheiro Fábio Goulart"
+      },
+      {
+        "cep": "24050-110",
+        "rua": "Rua Irapuru"
+      },
+      {
+        "cep": "24050-160",
+        "rua": "Rua Ituaci"
+      },
+      {
+        "cep": "24050-120",
+        "rua": "Rua João Pinho"
+      },
+      {
+        "cep": "24050-100",
+        "rua": "Rua Jornalista Sardo Filho"
+      },
+      {
+        "cep": "24050-140",
+        "rua": "Rua Juciara"
+      },
+      {
+        "cep": "24050-340",
+        "rua": "Rua Mário de Abreu"
+      },
+      {
+        "cep": "24050-190",
+        "rua": "Rua Mário Trilha"
+      },
+      {
+        "cep": "24050-215",
+        "rua": "Rua Nossa Senhora da Conceição"
+      },
+      {
+        "cep": "24050-286",
+        "rua": "Rua Oito"
+      },
+      {
+        "cep": "24050-300",
+        "rua": "Rua Presidente Vargas"
+      },
+      {
+        "cep": "24050-270",
+        "rua": "Rua Professora Zuleica Valadares"
+      },
+      {
+        "cep": "24050-070",
+        "rua": "Rua Salo Brand"
+      },
+      {
+        "cep": "24050-085",
+        "rua": "Rua Três"
+      },
+      {
+        "cep": "24050-165",
+        "rua": "Rua Vereador Ekio José Alves"
+      },
+      {
+        "cep": "24050-150",
+        "rua": "Travessa Albino Soares"
+      },
+      {
+        "cep": "24050-250",
+        "rua": "Travessa da Maria"
+      },
+      {
+        "cep": "24050-040",
+        "rua": "Travessa Diniz"
+      },
+      {
+        "cep": "24050-310",
+        "rua": "Travessa Doutor Olmann"
+      },
+      {
+        "cep": "24050-330",
+        "rua": "Travessa José de Souza"
+      },
+      {
+        "cep": "24050-290",
+        "rua": "Travessa Mário Neves"
+      },
+      {
+        "cep": "24050-285",
+        "rua": "Travessa Nossa Senhora dos Navegantes"
+      }
+    ]
+  },
+  "inga": {
+    "nome": "Inga",
+    "enderecos": [
+      {
+        "cep": "24210-400",
+        "rua": "Avenida Engenheiro Martins Romão"
+      },
+      {
+        "cep": "24210-410",
+        "rua": "Morro do Canico"
+      },
+      {
+        "cep": "24210-035",
+        "rua": "Morro São Sebastião"
+      },
+      {
+        "cep": "24210-460",
+        "rua": "Praça César Tinoco"
+      },
+      {
+        "cep": "24210-260",
+        "rua": "Praça Doutor Nilo Peçanha"
+      },
+      {
+        "cep": "24210-405",
+        "rua": "Praia João Caetano"
+      },
+      {
+        "cep": "24210-500",
+        "rua": "Rua Almir Guimarães"
+      },
+      {
+        "cep": "24210-540",
+        "rua": "Rua Ataulfo Alves"
+      },
+      {
+        "cep": "24210-440",
+        "rua": "Rua Casimiro de Abreu"
+      },
+      {
+        "cep": "24210-070",
+        "rua": "Rua Doutor Araújo Pimenta"
+      },
+      {
+        "cep": "24210-530",
+        "rua": "Rua Doutor Jaime dos Santos Figueiredo"
+      },
+      {
+        "cep": "24210-480",
+        "rua": "Rua Doutor Nilo Peçanha"
+      },
+      {
+        "cep": "24210-445",
+        "rua": "Rua Doutor Paulo Alves"
+      },
+      {
+        "cep": "24210-520",
+        "rua": "Rua Fagundes Varela"
+      },
+      {
+        "cep": "24210-465",
+        "rua": "Rua Francisco Pimentel"
+      },
+      {
+        "cep": "24210-406",
+        "rua": "Rua Itapuca"
+      },
+      {
+        "cep": "24210-455",
+        "rua": "Rua Justina Bulhões"
+      },
+      {
+        "cep": "24210-580",
+        "rua": "Rua Melquíades Picanco"
+      },
+      {
+        "cep": "24210-430",
+        "rua": "Rua Pereira Nunes"
+      },
+      {
+        "cep": "24210-470",
+        "rua": "Rua Presidente Pedreira"
+      },
+      {
+        "cep": "24210-550",
+        "rua": "Rua Professor Ubirajara Vidal de Freitas"
+      },
+      {
+        "cep": "24210-560",
+        "rua": "Rua Professora Aurelia Pimentel Quaresma de Moura"
+      },
+      {
+        "cep": "24210-110",
+        "rua": "Rua São Sebastião"
+      },
+      {
+        "cep": "24210-510",
+        "rua": "Rua Tiradentes"
+      },
+      {
+        "cep": "24210-490",
+        "rua": "Rua Vereador Teófilo Rodrigues"
+      },
+      {
+        "cep": "24210-145",
+        "rua": "Rua Visconde de Morais"
+      },
+      {
+        "cep": "24210-080",
+        "rua": "Travessa Imaculada Conceição"
+      },
+      {
+        "cep": "24210-290",
+        "rua": "Travessa Ingá"
+      },
+      {
+        "cep": "24210-280",
+        "rua": "Travessa Maestro Ricardo Ferreira"
+      },
+      {
+        "cep": "24210-100",
+        "rua": "Travessa Oito de Dezembro"
+      },
+      {
+        "cep": "24210-060",
+        "rua": "Travessa São Sebastião"
+      },
+      {
+        "cep": "24210-570",
+        "rua": "Travessa São Vicente de Paula"
+      },
+      {
+        "cep": "24210-450",
+        "rua": "Vila Floresta"
+      }
+    ]
+  },
+  "itacoatiara": {
+    "nome": "Itacoatiara",
+    "enderecos": [
+      {
+        "cep": "24348-050",
+        "rua": "Avenida Beira-Mar"
+      },
+      {
+        "cep": "24348-000",
+        "rua": "Estrada Itacoatiara"
+      },
+      {
+        "cep": "24348-190",
+        "rua": "Loteamento Jardim Beira-Mar"
+      },
+      {
+        "cep": "24348-360",
+        "rua": "Praça Gilson Vieira Ferro"
+      },
+      {
+        "cep": "24348-270",
+        "rua": "Praça Maria Mentges Sandri"
+      },
+      {
+        "cep": "24348-010",
+        "rua": "Praia Itacoatiara"
+      },
+      {
+        "cep": "24348-170",
+        "rua": "Rua das Acácias"
+      },
+      {
+        "cep": "24348-030",
+        "rua": "Rua das Azaléas"
+      },
+      {
+        "cep": "24348-040",
+        "rua": "Rua das Begonias"
+      },
+      {
+        "cep": "24348-150",
+        "rua": "Rua das Camélias"
+      },
+      {
+        "cep": "24348-160",
+        "rua": "Rua das Hortências"
+      },
+      {
+        "cep": "24348-210",
+        "rua": "Rua das Madressilvas"
+      },
+      {
+        "cep": "24348-260",
+        "rua": "Rua das Magnólias"
+      },
+      {
+        "cep": "24348-220",
+        "rua": "Rua das Margaridas"
+      },
+      {
+        "cep": "24348-250",
+        "rua": "Rua das Orquídeas"
+      },
+      {
+        "cep": "24348-290",
+        "rua": "Rua das Papoulas"
+      },
+      {
+        "cep": "24348-310",
+        "rua": "Rua das Perpétuas"
+      },
+      {
+        "cep": "24348-330",
+        "rua": "Rua das Petúnias"
+      },
+      {
+        "cep": "24348-120",
+        "rua": "Rua das Rosas"
+      },
+      {
+        "cep": "24348-130",
+        "rua": "Rua das Tulipas"
+      },
+      {
+        "cep": "24348-300",
+        "rua": "Rua das Violetas"
+      },
+      {
+        "cep": "24348-140",
+        "rua": "Rua das Zínias"
+      },
+      {
+        "cep": "24348-180",
+        "rua": "Rua dos Agapantos"
+      },
+      {
+        "cep": "24348-070",
+        "rua": "Rua dos Cravos"
+      },
+      {
+        "cep": "24348-060",
+        "rua": "Rua dos Gerânios"
+      },
+      {
+        "cep": "24348-090",
+        "rua": "Rua dos Ipês"
+      },
+      {
+        "cep": "24348-100",
+        "rua": "Rua dos Jasmins"
+      },
+      {
+        "cep": "24348-200",
+        "rua": "Rua dos Lírios"
+      },
+      {
+        "cep": "24348-230",
+        "rua": "Rua dos Manacás"
+      },
+      {
+        "cep": "24348-240",
+        "rua": "Rua dos Miosótis"
+      },
+      {
+        "cep": "24348-280",
+        "rua": "Rua Matias Sandri"
+      }
+    ]
+  },
+  "itaipu": {
+    "nome": "Itaipu",
+    "enderecos": [
+      {
+        "cep": "24355-150",
+        "rua": "Alameda das Acácias"
+      },
+      {
+        "cep": "24355-320",
+        "rua": "Alameda Flamboyants"
+      },
+      {
+        "cep": "24340-290",
+        "rua": "Avenida Atratino CortesCoutinho"
+      },
+      {
+        "cep": "24342-020",
+        "rua": "Avenida Bahia"
+      },
+      {
+        "cep": "24340-130",
+        "rua": "Avenida Doutor Eduardo Lúcio Rodrigues Picanco"
+      },
+      {
+        "cep": "24340-105",
+        "rua": "Avenida Ewerton Xavier"
+      },
+      {
+        "cep": "24355-000",
+        "rua": "Avenida Frei Fabiano"
+      },
+      {
+        "cep": "24340-300",
+        "rua": "Avenida José Cortes Júnior"
+      },
+      {
+        "cep": "24342-010",
+        "rua": "Avenida Prefeito Altivo Mendes Linhares"
+      },
+      {
+        "cep": "24348-340",
+        "rua": "Avenida Presidente Kennedy"
+      },
+      {
+        "cep": "24340-090",
+        "rua": "Avenida Professora Romanda Gonçalves"
+      },
+      {
+        "cep": "24340-140",
+        "rua": "Condomínio Vale de Itaipu"
+      },
+      {
+        "cep": "24346-040",
+        "rua": "Estrada Engenho do Mato"
+      },
+      {
+        "cep": "24340-000",
+        "rua": "Estrada Francisco da Cruz Nunes"
+      },
+      {
+        "cep": "24348-320",
+        "rua": "Ilha Pimenta"
+      },
+      {
+        "cep": "24355-260",
+        "rua": "Loteamento Aldeia de Itaipu"
+      },
+      {
+        "cep": "24346-000",
+        "rua": "Loteamento Boa Vista"
+      },
+      {
+        "cep": "24346-020",
+        "rua": "Loteamento Cidade Balneária Itaipu"
+      },
+      {
+        "cep": "24344-030",
+        "rua": "Loteamento Engenho do Mato"
+      },
+      {
+        "cep": "24358-040",
+        "rua": "Loteamento Enseada de Itaipu"
+      },
+      {
+        "cep": "24342-270",
+        "rua": "Loteamento Fazenda Soter"
+      },
+      {
+        "cep": "24355-330",
+        "rua": "Loteamento Jardim Boa Esperança"
+      },
+      {
+        "cep": "24344-080",
+        "rua": "Loteamento Jardim Fluminense"
+      },
+      {
+        "cep": "24344-090",
+        "rua": "Loteamento Jardim Itaipu"
+      },
+      {
+        "cep": "24340-150",
+        "rua": "Loteamento Jardim Relva-Mar"
+      },
+      {
+        "cep": "24340-160",
+        "rua": "Loteamento Jardim Santo Amaro"
+      },
+      {
+        "cep": "24355-195",
+        "rua": "Loteamento Jardim Terra Nova"
+      },
+      {
+        "cep": "24342-330",
+        "rua": "Loteamento Mar A. Vista"
+      },
+      {
+        "cep": "24350-005",
+        "rua": "Loteamento Sítio Santo Antônio"
+      },
+      {
+        "cep": "24340-180",
+        "rua": "Loteamento Sítio Tiririca"
+      },
+      {
+        "cep": "24355-160",
+        "rua": "Loteamento Terra Nova"
+      },
+      {
+        "cep": "24344-180",
+        "rua": "Loteamento Vale Feliz"
+      },
+      {
+        "cep": "24344-020",
+        "rua": "Praça Doutor Viçoso Jardim"
+      },
+      {
+        "cep": "24346-100",
+        "rua": "Praça Miguel Couto"
+      },
+      {
+        "cep": "24340-005",
+        "rua": "Praia de Itaipu"
+      },
+      {
+        "cep": "24346-210",
+        "rua": "Rua 61"
+      },
+      {
+        "cep": "24342-110",
+        "rua": "Rua Adalgisa Monteiro"
+      },
+      {
+        "cep": "24355-090",
+        "rua": "Rua Andorinhas"
+      },
+      {
+        "cep": "24340-020",
+        "rua": "Rua Armando Sá Couto"
+      },
+      {
+        "cep": "24344-160",
+        "rua": "Rua Augusto Gomes da S Sobrinho"
+      },
+      {
+        "cep": "24355-080",
+        "rua": "Rua Bem-Te-VI"
+      },
+      {
+        "cep": "24342-220",
+        "rua": "Rua Cacilda Ouro"
+      },
+      {
+        "cep": "24340-070",
+        "rua": "Rua Carlos Antônio Silva"
+      },
+      {
+        "cep": "24340-270",
+        "rua": "Rua Carlos Cortes"
+      },
+      {
+        "cep": "24342-250",
+        "rua": "Rua Carlos Drumond de Andrade"
+      },
+      {
+        "cep": "24355-310",
+        "rua": "Rua Carlos Vilhena"
+      },
+      {
+        "cep": "24346-010",
+        "rua": "Rua Celanos"
+      },
+      {
+        "cep": "24340-240",
+        "rua": "Rua Cinco"
+      },
+      {
+        "cep": "24344-010",
+        "rua": "Rua Comendador Avelino Gomes de Castro"
+      },
+      {
+        "cep": "24342-140",
+        "rua": "Rua da Fantasia"
+      },
+      {
+        "cep": "24342-260",
+        "rua": "Rua Dante Laginestra"
+      },
+      {
+        "cep": "24340-210",
+        "rua": "Rua Dois"
+      },
+      {
+        "cep": "24355-180",
+        "rua": "Rua Domingos Sávio"
+      },
+      {
+        "cep": "24348-080",
+        "rua": "Rua dos Gravatas"
+      },
+      {
+        "cep": "24340-120",
+        "rua": "Rua Doutor Carlos Guida Risso"
+      },
+      {
+        "cep": "24344-150",
+        "rua": "Rua Doutor Cássio Rodrigues do Amaral"
+      },
+      {
+        "cep": "24342-180",
+        "rua": "Rua Doutor Cícero Barreto"
+      },
+      {
+        "cep": "24358-050",
+        "rua": "Rua Doutor Jayme Bittencourt"
+      },
+      {
+        "cep": "24342-030",
+        "rua": "Rua Doutor Pálvaro da Silva"
+      },
+      {
+        "cep": "24342-210",
+        "rua": "Rua Elias José Grego"
+      },
+      {
+        "cep": "24346-050",
+        "rua": "Rua Engenhoca"
+      },
+      {
+        "cep": "24342-200",
+        "rua": "Rua Esmeralda Valadares"
+      },
+      {
+        "cep": "24355-060",
+        "rua": "Rua Evaldo Gonçalves"
+      },
+      {
+        "cep": "24344-040",
+        "rua": "Rua Everardo Cockheuser"
+      },
+      {
+        "cep": "24344-050",
+        "rua": "Rua Eziquio de Araújo"
+      },
+      {
+        "cep": "24340-110",
+        "rua": "Rua Felipe José Elías"
+      },
+      {
+        "cep": "24344-070",
+        "rua": "Rua Flávio Pinto Severo"
+      },
+      {
+        "cep": "24342-280",
+        "rua": "Rua Georgina da Conceição"
+      },
+      {
+        "cep": "24342-050",
+        "rua": "Rua Heitor Collet"
+      },
+      {
+        "cep": "24344-170",
+        "rua": "Rua Hilário Ferreira de Souza"
+      },
+      {
+        "cep": "24346-070",
+        "rua": "Rua Ignes Peixoto"
+      },
+      {
+        "cep": "24355-130",
+        "rua": "Rua Inhambu"
+      },
+      {
+        "cep": "24355-140",
+        "rua": "Rua Irerê"
+      },
+      {
+        "cep": "24342-290",
+        "rua": "Rua Jefferson Rocha"
+      },
+      {
+        "cep": "24342-160",
+        "rua": "Rua João Costa"
+      },
+      {
+        "cep": "24355-070",
+        "rua": "Rua João de Barro"
+      },
+      {
+        "cep": "24342-060",
+        "rua": "Rua João Paulo II"
+      },
+      {
+        "cep": "24342-300",
+        "rua": "Rua Jornalista José de Matos"
+      },
+      {
+        "cep": "24342-310",
+        "rua": "Rua Jornalista Mário Dutra"
+      },
+      {
+        "cep": "24342-320",
+        "rua": "Rua Jornalista Newton Braga Mello"
+      },
+      {
+        "cep": "24340-260",
+        "rua": "Rua José Bitencourt"
+      },
+      {
+        "cep": "24340-280",
+        "rua": "Rua Júlio Bitencourt"
+      },
+      {
+        "cep": "24340-250",
+        "rua": "Rua Júlio Oliveira Bittencourt"
+      },
+      {
+        "cep": "24350-190",
+        "rua": "Rua Júlio Salusse"
+      },
+      {
+        "cep": "24355-270",
+        "rua": "Rua Juriti"
+      },
+      {
+        "cep": "24346-080",
+        "rua": "Rua Luiz Eduardo Lobo"
+      },
+      {
+        "cep": "24340-060",
+        "rua": "Rua Manoel Gomes Xavier"
+      },
+      {
+        "cep": "24340-170",
+        "rua": "Rua Maria D'Ajuda Medeiros"
+      },
+      {
+        "cep": "24340-190",
+        "rua": "Rua Maria Tanure Amora"
+      },
+      {
+        "cep": "24342-120",
+        "rua": "Rua Mário Dutra"
+      },
+      {
+        "cep": "24342-340",
+        "rua": "Rua Mário Lage"
+      },
+      {
+        "cep": "24346-090",
+        "rua": "Rua Maurício Lage"
+      },
+      {
+        "cep": "24342-090",
+        "rua": "Rua Mônica"
+      },
+      {
+        "cep": "24346-110",
+        "rua": "Rua Natalina Rodrigues Dutra"
+      },
+      {
+        "cep": "24340-010",
+        "rua": "Rua Odrazil Lizardo Camilo"
+      },
+      {
+        "cep": "24355-210",
+        "rua": "Rua Padre Frederico Gioia"
+      },
+      {
+        "cep": "24348-110",
+        "rua": "Rua Padre Luiz Benachio"
+      },
+      {
+        "cep": "24355-120",
+        "rua": "Rua Pavões"
+      },
+      {
+        "cep": "24348-350",
+        "rua": "Rua Professor Antônio de Souza Queiroz"
+      },
+      {
+        "cep": "24346-120",
+        "rua": "Rua Professor Renato Garcia"
+      },
+      {
+        "cep": "24344-140",
+        "rua": "Rua Professor Taylor Ribeiro de Mello"
+      },
+      {
+        "cep": "24340-080",
+        "rua": "Rua Professora Alice Picanco"
+      },
+      {
+        "cep": "24342-000",
+        "rua": "Rua Professora Angeolina Petrópolis"
+      },
+      {
+        "cep": "24340-230",
+        "rua": "Rua Quatro"
+      },
+      {
+        "cep": "24346-130",
+        "rua": "Rua Quinze de Agosto"
+      },
+      {
+        "cep": "24346-140",
+        "rua": "Rua Recreio da Fonte"
+      },
+      {
+        "cep": "24346-150",
+        "rua": "Rua Regina Célia Sant Anna Dias"
+      },
+      {
+        "cep": "24346-160",
+        "rua": "Rua Repórter César Donadel"
+      },
+      {
+        "cep": "24342-190",
+        "rua": "Rua Rodolfo Rudge"
+      },
+      {
+        "cep": "24355-110",
+        "rua": "Rua Rouxinol"
+      },
+      {
+        "cep": "24355-350",
+        "rua": "Rua Sabiá"
+      },
+      {
+        "cep": "24346-170",
+        "rua": "Rua Samuel Wainer Filho"
+      },
+      {
+        "cep": "24340-040",
+        "rua": "Rua Santo Amaro"
+      },
+      {
+        "cep": "24355-200",
+        "rua": "Rua Santo Antônio"
+      },
+      {
+        "cep": "24346-180",
+        "rua": "Rua São João"
+      },
+      {
+        "cep": "24346-190",
+        "rua": "Rua São Sebastião"
+      },
+      {
+        "cep": "24346-200",
+        "rua": "Rua Scylla Souza Ribeiro"
+      },
+      {
+        "cep": "24342-040",
+        "rua": "Rua Senador Lúcio Bittencourt"
+      },
+      {
+        "cep": "24340-050",
+        "rua": "Rua Sibipirunas"
+      },
+      {
+        "cep": "24355-170",
+        "rua": "Rua Terra Nova"
+      },
+      {
+        "cep": "24340-220",
+        "rua": "Rua Três"
+      },
+      {
+        "cep": "24355-100",
+        "rua": "Rua Uirapuru"
+      },
+      {
+        "cep": "24342-100",
+        "rua": "Rua Ulisses de Oliveira Madruga"
+      },
+      {
+        "cep": "24342-470",
+        "rua": "Rua Vinte e Sete"
+      },
+      {
+        "cep": "24346-060",
+        "rua": "Travessa da Fonte"
+      }
+    ]
+  },
+  "ititioca": {
+    "nome": "Ititioca",
+    "enderecos": [
+      {
+        "cep": "24315-030",
+        "rua": "Rua Bispo Dom João da Mata"
+      },
+      {
+        "cep": "24315-070",
+        "rua": "Rua Costa Monteiro"
+      },
+      {
+        "cep": "24315-060",
+        "rua": "Rua Márcia Valeria"
+      }
+    ]
+  },
+  "jurujuba": {
+    "nome": "Jurujuba",
+    "enderecos": [
+      {
+        "cep": "24370-255",
+        "rua": "Alameda Marechal Pessoa Leal"
+      },
+      {
+        "cep": "24370-195",
+        "rua": "Avenida Carlos Ermelindo Marins"
+      },
+      {
+        "cep": "24370-005",
+        "rua": "Avenida Sílvio Picanco"
+      },
+      {
+        "cep": "24370-200",
+        "rua": "Caminho do Forte Imbui"
+      },
+      {
+        "cep": "24360-002",
+        "rua": "Campo Aero Clube do Estado do Rio"
+      },
+      {
+        "cep": "24370-420",
+        "rua": "Estrada da Lagoa"
+      },
+      {
+        "cep": "24370-250",
+        "rua": "Estrada do Imbuí"
+      },
+      {
+        "cep": "24370-375",
+        "rua": "Estrada General Eurico Gaspar Dutra"
+      },
+      {
+        "cep": "24358-165",
+        "rua": "Forte Imbuí"
+      },
+      {
+        "cep": "24370-190",
+        "rua": "Ilha dos Amores"
+      },
+      {
+        "cep": "24370-120",
+        "rua": "Loteamento Monte Lindo"
+      },
+      {
+        "cep": "24370-460",
+        "rua": "Morro de Nazaré"
+      },
+      {
+        "cep": "24370-400",
+        "rua": "Morro do Macaco"
+      },
+      {
+        "cep": "24370-360",
+        "rua": "Morro do Morcego"
+      },
+      {
+        "cep": "24370-410",
+        "rua": "Morro do Pico"
+      },
+      {
+        "cep": "24370-295",
+        "rua": "Morro Lazareto"
+      },
+      {
+        "cep": "24370-198",
+        "rua": "Morro Peixe Galo"
+      },
+      {
+        "cep": "24370-335",
+        "rua": "Praça Alberto Fortes"
+      },
+      {
+        "cep": "24370-370",
+        "rua": "Praça Coronel Dantas Barreto"
+      },
+      {
+        "cep": "24370-440",
+        "rua": "Praça do Curtume"
+      },
+      {
+        "cep": "24370-280",
+        "rua": "Praça Nossa Senhora da Conceição"
+      },
+      {
+        "cep": "24370-256",
+        "rua": "Praça Rio Branco"
+      },
+      {
+        "cep": "24370-266",
+        "rua": "Praia da Várzea"
+      },
+      {
+        "cep": "24370-390",
+        "rua": "Praia de Adão"
+      },
+      {
+        "cep": "24370-380",
+        "rua": "Praia de Eva"
+      },
+      {
+        "cep": "24370-395",
+        "rua": "Praia de Fora"
+      },
+      {
+        "cep": "24370-445",
+        "rua": "Praia do Curtume"
+      },
+      {
+        "cep": "24370-265",
+        "rua": "Praia do Silveira"
+      },
+      {
+        "cep": "24358-166",
+        "rua": "Praia Imbuí"
+      },
+      {
+        "cep": "24370-197",
+        "rua": "Praia Jurujuba"
+      },
+      {
+        "cep": "24370-260",
+        "rua": "Praia Samanguaia"
+      },
+      {
+        "cep": "24370-310",
+        "rua": "Rua Adjair da Silva Nogueira"
+      },
+      {
+        "cep": "24370-430",
+        "rua": "Rua Aldeia do Forte"
+      },
+      {
+        "cep": "24370-340",
+        "rua": "Rua D"
+      },
+      {
+        "cep": "24370-220",
+        "rua": "Rua Dois"
+      },
+      {
+        "cep": "24370-196",
+        "rua": "Rua Frederico de Melo"
+      },
+      {
+        "cep": "24370-450",
+        "rua": "Rua João Batista"
+      },
+      {
+        "cep": "24370-300",
+        "rua": "Rua Lauro Sodré"
+      },
+      {
+        "cep": "24370-305",
+        "rua": "Rua Manoel Martins dos Santos"
+      },
+      {
+        "cep": "24370-125",
+        "rua": "Rua Professor Durval Batista Pereira"
+      },
+      {
+        "cep": "24370-240",
+        "rua": "Rua Quatro"
+      },
+      {
+        "cep": "24370-435",
+        "rua": "Rua Retirada da Laguna"
+      },
+      {
+        "cep": "24370-257",
+        "rua": "Rua Salina"
+      },
+      {
+        "cep": "24370-350",
+        "rua": "Rua São Jerônimo"
+      },
+      {
+        "cep": "24370-436",
+        "rua": "Rua Tenente Antônio João"
+      },
+      {
+        "cep": "24370-199",
+        "rua": "Rua Tenente Medeiros"
+      },
+      {
+        "cep": "24370-230",
+        "rua": "Rua Três"
+      },
+      {
+        "cep": "24370-210",
+        "rua": "Rua Um"
+      },
+      {
+        "cep": "24370-330",
+        "rua": "Travessa Alberto Fortes"
+      },
+      {
+        "cep": "24370-193",
+        "rua": "Travessa Batista"
+      },
+      {
+        "cep": "24370-270",
+        "rua": "Travessa Brandão"
+      },
+      {
+        "cep": "24370-320",
+        "rua": "Travessa Chafariz"
+      },
+      {
+        "cep": "24370-290",
+        "rua": "Travessa Gonçalo Ferreira"
+      }
+    ]
+  },
+  "largo-da-batalha": {
+    "nome": "Largo da Batalha",
+    "enderecos": [
+      {
+        "cep": "24310-005",
+        "rua": "Avenida Rui Barbosa"
+      },
+      {
+        "cep": "24310-350",
+        "rua": "Estrada General Castro Guimarães"
+      },
+      {
+        "cep": "24310-470",
+        "rua": "Largo da Batalha"
+      },
+      {
+        "cep": "24310-475",
+        "rua": "Largo José Francisco da Cruz Nunes"
+      },
+      {
+        "cep": "24310-420",
+        "rua": "Rua Abelardo Barbosa"
+      },
+      {
+        "cep": "24310-430",
+        "rua": "Rua Alberto Lemos"
+      },
+      {
+        "cep": "24310-000",
+        "rua": "Rua Camilo Pereira"
+      },
+      {
+        "cep": "24315-340",
+        "rua": "Rua Expedicionário Oswaldo José de Oliveira"
+      },
+      {
+        "cep": "24310-460",
+        "rua": "Rua João Fonseca"
+      },
+      {
+        "cep": "24315-420",
+        "rua": "Rua Leopoldo Muylaert"
+      },
+      {
+        "cep": "24315-290",
+        "rua": "Rua Manduca de Oliveira"
+      },
+      {
+        "cep": "24310-010",
+        "rua": "Rua Manoel Loureiro de Freitas"
+      },
+      {
+        "cep": "24310-425",
+        "rua": "Rua Miguel Pereira Sarmento"
+      },
+      {
+        "cep": "24310-410",
+        "rua": "Rua Nilo de Freitas"
+      },
+      {
+        "cep": "24310-390",
+        "rua": "Rua Padre Pedro Martinotti"
+      },
+      {
+        "cep": "24315-380",
+        "rua": "Rua Parci Ribeiro"
+      },
+      {
+        "cep": "24310-380",
+        "rua": "Rua Pedra Branca"
+      },
+      {
+        "cep": "24310-400",
+        "rua": "Rua Reverendo Armando Ferreira"
+      },
+      {
+        "cep": "24315-300",
+        "rua": "Rua Santa Ingrácia"
+      },
+      {
+        "cep": "24315-350",
+        "rua": "Rua São Bento"
+      },
+      {
+        "cep": "24315-330",
+        "rua": "Travessa Expedicionário Oswaldo José de Oliveira"
+      },
+      {
+        "cep": "24310-440",
+        "rua": "Travessa Nossa Senhora de Fátima"
+      },
+      {
+        "cep": "24315-360",
+        "rua": "Travessa Rosa"
+      },
+      {
+        "cep": "24310-360",
+        "rua": "Travessa São Luiz"
+      }
+    ]
+  },
+  "largo-do-barradas": {
+    "nome": "Largo do Barradas",
+    "enderecos": [
+      {
+        "cep": "24110-076",
+        "rua": "Beco Carlos Gomes"
+      },
+      {
+        "cep": "24110-060",
+        "rua": "Morro do Abacaté"
+      },
+      {
+        "cep": "24110-005",
+        "rua": "Praça Nereu Guerra"
+      },
+      {
+        "cep": "24110-002",
+        "rua": "Rua Benjamin Constant"
+      },
+      {
+        "cep": "24110-030",
+        "rua": "Rua Doutor Horácio Campos"
+      },
+      {
+        "cep": "24110-050",
+        "rua": "Rua Francisco Portela"
+      },
+      {
+        "cep": "24110-160",
+        "rua": "Rua General Castrioto"
+      },
+      {
+        "cep": "24110-126",
+        "rua": "Rua Leopoldina"
+      },
+      {
+        "cep": "24110-105",
+        "rua": "Rua Monte Alverne"
+      },
+      {
+        "cep": "24110-067",
+        "rua": "Rua Porciúncula"
+      },
+      {
+        "cep": "24110-008",
+        "rua": "Rua Professor Osiris Palmier da Veiga"
+      },
+      {
+        "cep": "24110-115",
+        "rua": "Rua Reverendo João Correia D' Ávila"
+      },
+      {
+        "cep": "24110-090",
+        "rua": "Travessa Adenas Pereira da Costa"
+      },
+      {
+        "cep": "24110-000",
+        "rua": "Travessa Alberto dos Santos Carvalho"
+      },
+      {
+        "cep": "24110-064",
+        "rua": "Travessa Alberto Fortes"
+      },
+      {
+        "cep": "24110-020",
+        "rua": "Travessa Álvaro Cunha"
+      },
+      {
+        "cep": "24110-120",
+        "rua": "Travessa Arsênio de Almeida"
+      },
+      {
+        "cep": "24110-040",
+        "rua": "Travessa Barroso"
+      },
+      {
+        "cep": "24110-070",
+        "rua": "Travessa Benjamin Siqueira Campos"
+      },
+      {
+        "cep": "24110-075",
+        "rua": "Travessa Carlos Gomes"
+      },
+      {
+        "cep": "24110-100",
+        "rua": "Travessa Carolina"
+      },
+      {
+        "cep": "24110-004",
+        "rua": "Travessa Comandante Garcia D' Ávila"
+      },
+      {
+        "cep": "24110-025",
+        "rua": "Travessa Dalva"
+      },
+      {
+        "cep": "24110-026",
+        "rua": "Travessa Dilza Cunha"
+      },
+      {
+        "cep": "24110-124",
+        "rua": "Travessa Genésio Bastos"
+      },
+      {
+        "cep": "24110-125",
+        "rua": "Travessa George Alan"
+      },
+      {
+        "cep": "24110-080",
+        "rua": "Travessa José de Alencar"
+      },
+      {
+        "cep": "24110-110",
+        "rua": "Travessa Jupira"
+      },
+      {
+        "cep": "24110-106",
+        "rua": "Travessa Monte Alverne"
+      },
+      {
+        "cep": "24110-027",
+        "rua": "Travessa Nossa Senhora da Conceição"
+      },
+      {
+        "cep": "24110-068",
+        "rua": "Travessa Porciúncula"
+      },
+      {
+        "cep": "24110-006",
+        "rua": "Travessa Porto do Méier"
+      },
+      {
+        "cep": "24110-037",
+        "rua": "Travessa Quinze de Agosto"
+      },
+      {
+        "cep": "24110-028",
+        "rua": "Travessa Roberto do Couto"
+      },
+      {
+        "cep": "24110-127",
+        "rua": "Travessa Rosilane Moscato Rocha"
+      },
+      {
+        "cep": "24110-038",
+        "rua": "Travessa São João Batista"
+      },
+      {
+        "cep": "24110-128",
+        "rua": "Travessa Waldir Pachedo"
+      },
+      {
+        "cep": "24110-129",
+        "rua": "Travessa Walter Cunha"
+      },
+      {
+        "cep": "24110-003",
+        "rua": "Vila Brasil"
+      }
+    ]
+  },
+  "loteamento-engenho-do-mato": {
+    "nome": "Loteamento Engenho do Mato",
+    "enderecos": [
+      {
+        "cep": "24344-000",
+        "rua": "Rua Álvaro Monteiro de Carvalho"
+      },
+      {
+        "cep": "24344-060",
+        "rua": "Rua Farmaceutico David Eulalio de Souza"
+      },
+      {
+        "cep": "24344-100",
+        "rua": "Rua Professor Baltazar Xavier"
+      },
+      {
+        "cep": "24344-110",
+        "rua": "Rua Professor Correa Pinto"
+      },
+      {
+        "cep": "24344-120",
+        "rua": "Rua Professor Jamil El-Jaick"
+      },
+      {
+        "cep": "24344-130",
+        "rua": "Rua Professor Lavaquial Biosca"
+      }
+    ]
+  },
+  "loteamento-maravista": {
+    "nome": "Loteamento Maravista",
+    "enderecos": [
+      {
+        "cep": "24340-100",
+        "rua": "Avenida Carlos Guida Risso"
+      },
+      {
+        "cep": "24340-030",
+        "rua": "Estrada do Jardim"
+      },
+      {
+        "cep": "24342-350",
+        "rua": "Rua 53"
+      },
+      {
+        "cep": "24342-360",
+        "rua": "Rua 54"
+      },
+      {
+        "cep": "24342-370",
+        "rua": "Rua 55"
+      },
+      {
+        "cep": "24342-380",
+        "rua": "Rua 56"
+      },
+      {
+        "cep": "24342-410",
+        "rua": "Rua 72"
+      },
+      {
+        "cep": "24342-420",
+        "rua": "Rua 76"
+      },
+      {
+        "cep": "24342-430",
+        "rua": "Rua 77"
+      },
+      {
+        "cep": "24342-440",
+        "rua": "Rua 78"
+      },
+      {
+        "cep": "24342-450",
+        "rua": "Rua 79"
+      },
+      {
+        "cep": "24342-460",
+        "rua": "Rua 80"
+      },
+      {
+        "cep": "24342-390",
+        "rua": "Rua 85"
+      },
+      {
+        "cep": "24342-400",
+        "rua": "Rua 86"
+      },
+      {
+        "cep": "24342-230",
+        "rua": "Rua Arnobio de Moura Velasco"
+      },
+      {
+        "cep": "24342-240",
+        "rua": "Rua Augusto Vieira Jacques"
+      },
+      {
+        "cep": "24342-170",
+        "rua": "Rua Doutor Cícero Barreto"
+      },
+      {
+        "cep": "24342-080",
+        "rua": "Rua Edson Zuzart Júnior"
+      },
+      {
+        "cep": "24342-130",
+        "rua": "Rua Professor Jurenil Andrade Costa"
+      },
+      {
+        "cep": "24342-070",
+        "rua": "Rua Professor Roched Seba"
+      }
+    ]
+  },
+  "maceio": {
+    "nome": "Maceio",
+    "enderecos": [
+      {
+        "cep": "24310-100",
+        "rua": "Estrada Demétrio de Freitas"
+      },
+      {
+        "cep": "24310-170",
+        "rua": "Estrada Nossa Senhora de Lourdes"
+      },
+      {
+        "cep": "24310-090",
+        "rua": "Estrada Pacheco de Carvalho"
+      },
+      {
+        "cep": "24310-330",
+        "rua": "Loteamento Santo Inácio"
+      },
+      {
+        "cep": "24310-175",
+        "rua": "Morro da Viração"
+      },
+      {
+        "cep": "24310-120",
+        "rua": "Rua A"
+      },
+      {
+        "cep": "24310-040",
+        "rua": "Rua Adauto Dantas"
+      },
+      {
+        "cep": "24310-110",
+        "rua": "Rua B"
+      },
+      {
+        "cep": "24310-270",
+        "rua": "Rua C"
+      },
+      {
+        "cep": "24310-140",
+        "rua": "Rua do Colegio"
+      },
+      {
+        "cep": "24310-260",
+        "rua": "Rua E"
+      },
+      {
+        "cep": "24310-240",
+        "rua": "Rua G"
+      },
+      {
+        "cep": "24310-190",
+        "rua": "Rua Jardel Filho"
+      },
+      {
+        "cep": "24310-200",
+        "rua": "Rua João Silvestre Martins"
+      },
+      {
+        "cep": "24310-050",
+        "rua": "Rua José Bento Vieira Ferreira"
+      },
+      {
+        "cep": "24310-080",
+        "rua": "Rua K"
+      },
+      {
+        "cep": "24310-130",
+        "rua": "Rua L"
+      },
+      {
+        "cep": "24310-210",
+        "rua": "Rua Ludovico José da Rosa"
+      },
+      {
+        "cep": "24310-180",
+        "rua": "Rua M"
+      },
+      {
+        "cep": "24310-105",
+        "rua": "Rua Maceió"
+      },
+      {
+        "cep": "24310-320",
+        "rua": "Rua Manoel Joaquim Bragança"
+      },
+      {
+        "cep": "24310-300",
+        "rua": "Rua Professor Egas Muniz"
+      },
+      {
+        "cep": "24310-070",
+        "rua": "Rua Roberto Líra"
+      },
+      {
+        "cep": "24310-230",
+        "rua": "Travessa A"
+      },
+      {
+        "cep": "24310-160",
+        "rua": "Travessa B"
+      },
+      {
+        "cep": "24310-150",
+        "rua": "Travessa C"
+      },
+      {
+        "cep": "24310-290",
+        "rua": "Travessa Nossa Senhora da Conceição"
+      },
+      {
+        "cep": "24310-220",
+        "rua": "Travessa O"
+      },
+      {
+        "cep": "24310-280",
+        "rua": "Travessa Souza Soares"
+      }
+    ]
+  },
+  "maralegre": {
+    "nome": "Maralegre",
+    "enderecos": [
+      {
+        "cep": "24350-680",
+        "rua": "Avenida Professor Ernani Faria Alves"
+      },
+      {
+        "cep": "24350-630",
+        "rua": "Avenida Raul de Oliveira Rodrigues"
+      },
+      {
+        "cep": "24350-670",
+        "rua": "Rua Doutor Kleber Feliciano Pinto"
+      },
+      {
+        "cep": "24350-625",
+        "rua": "Rua Doutor Paulo do Couto Pfeil"
+      },
+      {
+        "cep": "24350-690",
+        "rua": "Rua João Batista Serrão"
+      },
+      {
+        "cep": "24350-700",
+        "rua": "Rua José Dantas Freire Filho"
+      },
+      {
+        "cep": "24350-640",
+        "rua": "Rua José Ranzeiro"
+      },
+      {
+        "cep": "24350-620",
+        "rua": "Rua Professor Sylvio Pires de Mello"
+      },
+      {
+        "cep": "24350-660",
+        "rua": "Rua Professora Mazini Bueno"
+      },
+      {
+        "cep": "24350-635",
+        "rua": "Rua Rúbens Falcão"
+      },
+      {
+        "cep": "24350-650",
+        "rua": "Rua Vereador Hernani Vieira"
+      },
+      {
+        "cep": "24350-710",
+        "rua": "Rua Vereador Jorge de Almeida"
+      }
+    ]
+  },
+  "marazul": {
+    "nome": "Marazul",
+    "enderecos": [
+      {
+        "cep": "24358-460",
+        "rua": "Rua Augusto Rush"
+      },
+      {
+        "cep": "24358-470",
+        "rua": "Rua Cacilda Mandarino"
+      },
+      {
+        "cep": "24358-430",
+        "rua": "Rua Celso Dias Gomes"
+      },
+      {
+        "cep": "24358-480",
+        "rua": "Rua Davi Gebail"
+      },
+      {
+        "cep": "24358-550",
+        "rua": "Rua Doutor Antônio Vaz Cavalcante"
+      },
+      {
+        "cep": "24358-530",
+        "rua": "Rua Doutor Ernani Luiz da Cunha"
+      },
+      {
+        "cep": "24358-510",
+        "rua": "Rua Doutor Romeu Marra da Silva"
+      },
+      {
+        "cep": "24358-500",
+        "rua": "Rua Doutora Namir Peralta"
+      },
+      {
+        "cep": "24358-420",
+        "rua": "Rua Emanuel Pereira Neves"
+      },
+      {
+        "cep": "24358-450",
+        "rua": "Rua Fontenelle Teixeira"
+      },
+      {
+        "cep": "24358-540",
+        "rua": "Rua Galdino do Vale"
+      },
+      {
+        "cep": "24358-570",
+        "rua": "Rua Jornalista Prudêncio Luiz Ferreira"
+      },
+      {
+        "cep": "24358-440",
+        "rua": "Rua José Neagle"
+      },
+      {
+        "cep": "24358-560",
+        "rua": "Rua Ponciano A. Furtado"
+      },
+      {
+        "cep": "24358-520",
+        "rua": "Rua Raul Correas de Araújo"
+      },
+      {
+        "cep": "24358-490",
+        "rua": "Rua WAtér Madeira"
+      }
+    ]
+  },
+  "maria-paula": {
+    "nome": "Maria Paula",
+    "enderecos": [
+      {
+        "cep": "24325-220",
+        "rua": "Avenida França"
+      },
+      {
+        "cep": "24325-300",
+        "rua": "Estrada da Paciência"
+      },
+      {
+        "cep": "24325-330",
+        "rua": "Estrada Velha de Maricá"
+      },
+      {
+        "cep": "24325-130",
+        "rua": "Loteamento Aldeia Casa Grande"
+      },
+      {
+        "cep": "24325-280",
+        "rua": "Loteamento Fazenda do Barreto"
+      },
+      {
+        "cep": "24325-170",
+        "rua": "Rua Alemanha"
+      },
+      {
+        "cep": "24325-064",
+        "rua": "Rua Álvaro Seixas"
+      },
+      {
+        "cep": "24325-150",
+        "rua": "Rua Áustria"
+      },
+      {
+        "cep": "24325-060",
+        "rua": "Rua B"
+      },
+      {
+        "cep": "24325-210",
+        "rua": "Rua Bélgica"
+      },
+      {
+        "cep": "24322-340",
+        "rua": "Rua Benta Pereira"
+      },
+      {
+        "cep": "24320-290",
+        "rua": "Rua Cardoso de Melo"
+      },
+      {
+        "cep": "24325-250",
+        "rua": "Rua da Suécia"
+      },
+      {
+        "cep": "24325-090",
+        "rua": "Rua Dois"
+      },
+      {
+        "cep": "24325-020",
+        "rua": "Rua Doutor José Fontenele"
+      },
+      {
+        "cep": "24325-240",
+        "rua": "Rua Espanha"
+      },
+      {
+        "cep": "24320-260",
+        "rua": "Rua Grécia"
+      },
+      {
+        "cep": "24325-200",
+        "rua": "Rua Holanda"
+      },
+      {
+        "cep": "24325-285",
+        "rua": "Rua Hungria"
+      },
+      {
+        "cep": "24325-180",
+        "rua": "Rua Inglaterra"
+      },
+      {
+        "cep": "24325-160",
+        "rua": "Rua Itália"
+      },
+      {
+        "cep": "24325-063",
+        "rua": "Rua J"
+      },
+      {
+        "cep": "24322-270",
+        "rua": "Rua João Lacourt"
+      },
+      {
+        "cep": "24330-030",
+        "rua": "Rua Jornalista Aristides de Melo"
+      },
+      {
+        "cep": "24325-065",
+        "rua": "Rua L"
+      },
+      {
+        "cep": "24325-000",
+        "rua": "Rua Luiz Sobral"
+      },
+      {
+        "cep": "24325-066",
+        "rua": "Rua M"
+      },
+      {
+        "cep": "24325-230",
+        "rua": "Rua Noruega"
+      },
+      {
+        "cep": "24325-340",
+        "rua": "Rua Paulino de Menezes"
+      },
+      {
+        "cep": "24325-190",
+        "rua": "Rua Polônia"
+      },
+      {
+        "cep": "24325-140",
+        "rua": "Rua Portugal"
+      },
+      {
+        "cep": "24325-110",
+        "rua": "Rua Quatro"
+      },
+      {
+        "cep": "24325-062",
+        "rua": "Rua Reitor Heitor Argemiro de Oliveira"
+      },
+      {
+        "cep": "24325-010",
+        "rua": "Rua Sant Ana"
+      },
+      {
+        "cep": "24325-320",
+        "rua": "Rua Suíça"
+      },
+      {
+        "cep": "24325-100",
+        "rua": "Rua Três"
+      },
+      {
+        "cep": "24325-068",
+        "rua": "Rua Um"
+      },
+      {
+        "cep": "24325-061",
+        "rua": "Rua Walter Neves"
+      },
+      {
+        "cep": "24322-350",
+        "rua": "Travessa Bela Vista"
+      },
+      {
+        "cep": "24325-070",
+        "rua": "Travessa União"
+      }
+    ]
+  },
+  "martins-torres": {
+    "nome": "Martins Torres",
+    "enderecos": [
+      {
+        "cep": "24240-550",
+        "rua": "Rua Alarico de Souza"
+      }
+    ]
+  },
+  "mata-paca": {
+    "nome": "Mata Paca",
+    "enderecos": [
+      {
+        "cep": "24320-520",
+        "rua": "Estrada Mata Paca"
+      },
+      {
+        "cep": "24320-490",
+        "rua": "Estrada Particular"
+      },
+      {
+        "cep": "24322-370",
+        "rua": "Loteamento Jardim América"
+      },
+      {
+        "cep": "24320-580",
+        "rua": "Loteamento Jardim Paraiso"
+      },
+      {
+        "cep": "24325-067",
+        "rua": "Loteamento Remanso Verde"
+      },
+      {
+        "cep": "24325-069",
+        "rua": "Loteamento Vila Remanso Verde"
+      },
+      {
+        "cep": "24322-300",
+        "rua": "Praça da Saudade"
+      },
+      {
+        "cep": "24320-610",
+        "rua": "Rua Aurora Ribeiro"
+      },
+      {
+        "cep": "24322-320",
+        "rua": "Rua Barão de Palmares"
+      },
+      {
+        "cep": "24322-330",
+        "rua": "Rua Barão do Flamengo"
+      },
+      {
+        "cep": "24320-000",
+        "rua": "Rua Cândido Portinari"
+      },
+      {
+        "cep": "24320-500",
+        "rua": "Rua Comendador Marcelo Queiroz"
+      },
+      {
+        "cep": "24320-550",
+        "rua": "Rua Conde Melo"
+      },
+      {
+        "cep": "24322-360",
+        "rua": "Rua Coronel João Tomás"
+      },
+      {
+        "cep": "24322-080",
+        "rua": "Rua Debret"
+      },
+      {
+        "cep": "24322-280",
+        "rua": "Rua Desembargador José de Castro Pache de Faria"
+      },
+      {
+        "cep": "24322-170",
+        "rua": "Rua Diego Rivera"
+      },
+      {
+        "cep": "24325-030",
+        "rua": "Rua Doutor Eduardo Barbosa de Carvalho"
+      },
+      {
+        "cep": "24322-070",
+        "rua": "Rua Equador"
+      },
+      {
+        "cep": "24322-290",
+        "rua": "Rua Helena Brandão"
+      },
+      {
+        "cep": "24322-250",
+        "rua": "Rua Henri Matisse"
+      },
+      {
+        "cep": "24322-140",
+        "rua": "Rua Le Corbusier"
+      },
+      {
+        "cep": "24322-180",
+        "rua": "Rua Leonardo da Vinci"
+      },
+      {
+        "cep": "24325-040",
+        "rua": "Rua Lupiscinio Rodrigues"
+      },
+      {
+        "cep": "24320-510",
+        "rua": "Rua Marilda Gonçalves do Nascimento"
+      },
+      {
+        "cep": "24320-055",
+        "rua": "Rua México"
+      },
+      {
+        "cep": "24322-200",
+        "rua": "Rua Michelângelo"
+      },
+      {
+        "cep": "24322-190",
+        "rua": "Rua Pablo Picasso"
+      },
+      {
+        "cep": "24322-095",
+        "rua": "Rua Paul Gauguin"
+      },
+      {
+        "cep": "24322-230",
+        "rua": "Rua Pelotas"
+      },
+      {
+        "cep": "24322-260",
+        "rua": "Rua Porto Alegre"
+      },
+      {
+        "cep": "24325-310",
+        "rua": "Rua Professor José Peçanha"
+      },
+      {
+        "cep": "24322-100",
+        "rua": "Rua Rugendas"
+      },
+      {
+        "cep": "24322-120",
+        "rua": "Rua Toulouse Lautrec"
+      },
+      {
+        "cep": "24322-060",
+        "rua": "Rua Uruguai"
+      },
+      {
+        "cep": "24325-050",
+        "rua": "Rua Vereador Wilton Barcelos"
+      },
+      {
+        "cep": "24322-210",
+        "rua": "Rua Vicente Van Gogh"
+      },
+      {
+        "cep": "24322-110",
+        "rua": "Rua Vítor Meireles"
+      },
+      {
+        "cep": "24320-560",
+        "rua": "Rua Walter Neves"
+      }
+    ]
+  },
+  "muriqui": {
+    "nome": "Muriqui",
+    "enderecos": [
+      {
+        "cep": "24320-540",
+        "rua": "Estrada Ceará"
+      },
+      {
+        "cep": "24322-530",
+        "rua": "Estrada Chibante"
+      },
+      {
+        "cep": "24322-440",
+        "rua": "Rua A"
+      },
+      {
+        "cep": "24322-445",
+        "rua": "Rua B"
+      }
+    ]
+  },
+  "pe-pequeno": {
+    "nome": "Pe Pequeno",
+    "enderecos": [
+      {
+        "cep": "24240-140",
+        "rua": "Rua Araruama"
+      },
+      {
+        "cep": "24240-130",
+        "rua": "Rua Itaguaí"
+      },
+      {
+        "cep": "24240-100",
+        "rua": "Rua Itaocara"
+      },
+      {
+        "cep": "24240-070",
+        "rua": "Rua Itaperuna"
+      },
+      {
+        "cep": "24240-080",
+        "rua": "Rua Macaé"
+      },
+      {
+        "cep": "24240-040",
+        "rua": "Rua Magé"
+      },
+      {
+        "cep": "24240-050",
+        "rua": "Rua Mangaratiba"
+      },
+      {
+        "cep": "24240-110",
+        "rua": "Rua Maricá"
+      },
+      {
+        "cep": "24240-035",
+        "rua": "Rua Miracema"
+      }
+    ]
+  },
+  "pendotiba": {
+    "nome": "Pendotiba",
+    "enderecos": [
+      {
+        "cep": "24322-020",
+        "rua": "Avenida Brasil"
+      },
+      {
+        "cep": "24370-315",
+        "rua": "Caminho do Morro do Ceu"
+      },
+      {
+        "cep": "24310-650",
+        "rua": "Estrada Celso Peçanha"
+      },
+      {
+        "cep": "24322-500",
+        "rua": "Estrada do Ourives"
+      },
+      {
+        "cep": "24310-340",
+        "rua": "Estrada Francisco da Cruz Nunes"
+      },
+      {
+        "cep": "24320-080",
+        "rua": "Estrada Municipal"
+      },
+      {
+        "cep": "24365-147",
+        "rua": "Loteamento Jardim Castelo"
+      },
+      {
+        "cep": "24325-120",
+        "rua": "Rua A"
+      },
+      {
+        "cep": "24365-240",
+        "rua": "Rua Adolfino José Rodrigues"
+      },
+      {
+        "cep": "24322-150",
+        "rua": "Rua Augusto Renoir"
+      },
+      {
+        "cep": "24322-220",
+        "rua": "Rua Cacada"
+      },
+      {
+        "cep": "24320-310",
+        "rua": "Rua Castorina Francisca da Cruz"
+      },
+      {
+        "cep": "24322-160",
+        "rua": "Rua Claude Monet"
+      },
+      {
+        "cep": "24320-440",
+        "rua": "Rua dos Cravos"
+      },
+      {
+        "cep": "24320-270",
+        "rua": "Rua Doutor Fernando Liborio Filho"
+      },
+      {
+        "cep": "24310-030",
+        "rua": "Rua E"
+      },
+      {
+        "cep": "24365-180",
+        "rua": "Rua Eli Fabrici Garcia"
+      },
+      {
+        "cep": "24310-020",
+        "rua": "Rua F"
+      },
+      {
+        "cep": "24320-600",
+        "rua": "Rua Frei Orlando"
+      },
+      {
+        "cep": "24310-060",
+        "rua": "Rua G"
+      },
+      {
+        "cep": "24310-500",
+        "rua": "Rua Joel da Silva"
+      },
+      {
+        "cep": "24310-570",
+        "rua": "Rua L"
+      },
+      {
+        "cep": "24310-580",
+        "rua": "Rua N"
+      },
+      {
+        "cep": "24320-590",
+        "rua": "Rua Nova Republica"
+      },
+      {
+        "cep": "24365-230",
+        "rua": "Rua Orlando Gustavo Chilinque"
+      },
+      {
+        "cep": "24310-520",
+        "rua": "Rua P"
+      },
+      {
+        "cep": "24322-390",
+        "rua": "Rua Peru"
+      },
+      {
+        "cep": "24355-340",
+        "rua": "Rua Santa Rita de Cássia"
+      },
+      {
+        "cep": "24365-220",
+        "rua": "Rua Vereador Otto Bastos"
+      },
+      {
+        "cep": "24310-630",
+        "rua": "Travessa Cento e Um"
+      }
+    ]
+  },
+  "piratininga": {
+    "nome": "Piratininga",
+    "enderecos": [
+      {
+        "cep": "24350-380",
+        "rua": "Avenida Almirante Tamandaré"
+      },
+      {
+        "cep": "24358-380",
+        "rua": "Avenida Celso Kelly"
+      },
+      {
+        "cep": "24350-030",
+        "rua": "Avenida Conselheiro Paulo de Mello Kalle"
+      },
+      {
+        "cep": "24350-000",
+        "rua": "Avenida Cruz Nunes"
+      },
+      {
+        "cep": "24358-395",
+        "rua": "Avenida do Forte"
+      },
+      {
+        "cep": "24358-080",
+        "rua": "Avenida Doutor Acúrcio Torres"
+      },
+      {
+        "cep": "24350-530",
+        "rua": "Avenida General Cristóvão Barcelos"
+      },
+      {
+        "cep": "24355-010",
+        "rua": "Avenida São Gualter"
+      },
+      {
+        "cep": "24350-310",
+        "rua": "Estrada Francisco da Cruz Nunes"
+      },
+      {
+        "cep": "24350-200",
+        "rua": "Estrada Frei Orlando"
+      },
+      {
+        "cep": "24358-060",
+        "rua": "Ilha do Modesto"
+      },
+      {
+        "cep": "24358-425",
+        "rua": "Ilha do Veado"
+      },
+      {
+        "cep": "24358-350",
+        "rua": "Loteamento Bairro de Piratininga"
+      },
+      {
+        "cep": "24350-300",
+        "rua": "Loteamento Cafuba"
+      },
+      {
+        "cep": "24358-000",
+        "rua": "Loteamento Camboinhas"
+      },
+      {
+        "cep": "24350-370",
+        "rua": "Loteamento Jardim Ubá"
+      },
+      {
+        "cep": "24350-610",
+        "rua": "Loteamento Mar Alegre"
+      },
+      {
+        "cep": "24358-320",
+        "rua": "Loteamento Mar Azul"
+      },
+      {
+        "cep": "24355-030",
+        "rua": "Loteamento Santo Antônio"
+      },
+      {
+        "cep": "24355-050",
+        "rua": "Praça Espanha"
+      },
+      {
+        "cep": "24358-310",
+        "rua": "Praia Piratininga"
+      },
+      {
+        "cep": "24358-360",
+        "rua": "Rua Abelardo Zaluar"
+      },
+      {
+        "cep": "24350-400",
+        "rua": "Rua Academicos"
+      },
+      {
+        "cep": "24350-150",
+        "rua": "Rua Adelino Magalhães"
+      },
+      {
+        "cep": "24355-390",
+        "rua": "Rua Agostinho Santos"
+      },
+      {
+        "cep": "24358-090",
+        "rua": "Rua Alcir Guaíba Amorim da Cruz"
+      },
+      {
+        "cep": "24358-110",
+        "rua": "Rua Alodio Monteiro dos Santos"
+      },
+      {
+        "cep": "24350-420",
+        "rua": "Rua Altevo do Vale e Silva"
+      },
+      {
+        "cep": "24350-350",
+        "rua": "Rua Américo Alves da Costa"
+      },
+      {
+        "cep": "24358-120",
+        "rua": "Rua Antônio Augusto da Paz"
+      },
+      {
+        "cep": "24350-020",
+        "rua": "Rua Ari Gomes da Silva"
+      },
+      {
+        "cep": "24350-490",
+        "rua": "Rua Atila Nunes"
+      },
+      {
+        "cep": "24350-160",
+        "rua": "Rua Azevedo Cruz"
+      },
+      {
+        "cep": "24350-010",
+        "rua": "Rua Brasília"
+      },
+      {
+        "cep": "24358-020",
+        "rua": "Rua Canto dos Pontes"
+      },
+      {
+        "cep": "24358-370",
+        "rua": "Rua Carlos Rocha"
+      },
+      {
+        "cep": "24350-390",
+        "rua": "Rua Carmozina Pereira de Oliveira"
+      },
+      {
+        "cep": "24358-390",
+        "rua": "Rua Comendador Manuel de Azevedo Falcão"
+      },
+      {
+        "cep": "24358-130",
+        "rua": "Rua Comendador Thomaz Lima"
+      },
+      {
+        "cep": "24350-470",
+        "rua": "Rua Comissário João Luiz de Souza"
+      },
+      {
+        "cep": "24358-030",
+        "rua": "Rua Dante Laginestra"
+      },
+      {
+        "cep": "24355-040",
+        "rua": "Rua Delfina de Jesus"
+      },
+      {
+        "cep": "24350-130",
+        "rua": "Rua Democrito da Cunha Silveira"
+      },
+      {
+        "cep": "24350-050",
+        "rua": "Rua Deputado José Luiz Erthal"
+      },
+      {
+        "cep": "24350-450",
+        "rua": "Rua Desembargador Leopoldo Muylaert"
+      },
+      {
+        "cep": "24350-100",
+        "rua": "Rua Desembargador Luiz Miguel Pinaud"
+      },
+      {
+        "cep": "24350-405",
+        "rua": "Rua Domingos Araújo"
+      },
+      {
+        "cep": "24355-190",
+        "rua": "Rua Domingos Lazagna"
+      },
+      {
+        "cep": "24358-140",
+        "rua": "Rua Doutor Celso Elías Machado"
+      },
+      {
+        "cep": "24350-280",
+        "rua": "Rua Doutor Cornélio de Mello Júnior"
+      },
+      {
+        "cep": "24350-060",
+        "rua": "Rua Doutor Godofredo Garcia Justo"
+      },
+      {
+        "cep": "24358-150",
+        "rua": "Rua Doutor João Batista Lacerda Botelho"
+      },
+      {
+        "cep": "24358-160",
+        "rua": "Rua Doutor João Valentim Tavares"
+      },
+      {
+        "cep": "24358-270",
+        "rua": "Rua Doutor Marcolino Candau"
+      },
+      {
+        "cep": "24350-120",
+        "rua": "Rua Doutor Salomão Vergueiro da Cruz"
+      },
+      {
+        "cep": "24350-290",
+        "rua": "Rua Doutor Tabajara de Araújo Gomes"
+      },
+      {
+        "cep": "24358-070",
+        "rua": "Rua Doutor Valdemar Wanderley"
+      },
+      {
+        "cep": "24358-170",
+        "rua": "Rua Emmanuel Pereira das Neves Filho"
+      },
+      {
+        "cep": "24350-500",
+        "rua": "Rua Engenheiro Agricola Penha"
+      },
+      {
+        "cep": "24358-190",
+        "rua": "Rua Engenheiro Belmiro Siqueira"
+      },
+      {
+        "cep": "24350-260",
+        "rua": "Rua Engenheiro Carlos Álvaro Quintela"
+      },
+      {
+        "cep": "24350-250",
+        "rua": "Rua Eurico Aragão"
+      },
+      {
+        "cep": "24350-320",
+        "rua": "Rua Evandro de Oliveira"
+      },
+      {
+        "cep": "24350-510",
+        "rua": "Rua Farmaceutico Abel de Oliveira"
+      },
+      {
+        "cep": "24350-520",
+        "rua": "Rua Farmacêutico Rodolfo Albino"
+      },
+      {
+        "cep": "24350-240",
+        "rua": "Rua Félix Gomes da Costa"
+      },
+      {
+        "cep": "24350-540",
+        "rua": "Rua Florisual de Oliveira"
+      },
+      {
+        "cep": "24350-550",
+        "rua": "Rua General Bernardino do Amaral"
+      },
+      {
+        "cep": "24350-590",
+        "rua": "Rua Geografo Amora"
+      },
+      {
+        "cep": "24355-290",
+        "rua": "Rua Germano Faber"
+      },
+      {
+        "cep": "24358-010",
+        "rua": "Rua Graça"
+      },
+      {
+        "cep": "24350-410",
+        "rua": "Rua Hermes da Matta Barcelos"
+      },
+      {
+        "cep": "24350-560",
+        "rua": "Rua Interlagos"
+      },
+      {
+        "cep": "24350-330",
+        "rua": "Rua João de Souza Castelo"
+      },
+      {
+        "cep": "24358-220",
+        "rua": "Rua João Gomes da Silva"
+      },
+      {
+        "cep": "24358-210",
+        "rua": "Rua João Pinto"
+      },
+      {
+        "cep": "24358-230",
+        "rua": "Rua Jornalista Alarico Maciel"
+      },
+      {
+        "cep": "24358-760",
+        "rua": "Rua Jornalista Francisco Rodrigues de Miranda"
+      },
+      {
+        "cep": "24350-720",
+        "rua": "Rua Jornalista Jairo Mendes"
+      },
+      {
+        "cep": "24358-200",
+        "rua": "Rua Jornalista Sebastião Costa"
+      },
+      {
+        "cep": "24350-140",
+        "rua": "Rua Jornalista Sérgio Porto"
+      },
+      {
+        "cep": "24350-430",
+        "rua": "Rua Jornalista Siney Correa"
+      },
+      {
+        "cep": "24350-340",
+        "rua": "Rua José Chianeli"
+      },
+      {
+        "cep": "24350-210",
+        "rua": "Rua José Eugênio"
+      },
+      {
+        "cep": "24350-220",
+        "rua": "Rua José Joaquim Pereira Caldas"
+      },
+      {
+        "cep": "24355-250",
+        "rua": "Rua Júlio Braga"
+      },
+      {
+        "cep": "24358-240",
+        "rua": "Rua Lizandro Mota"
+      },
+      {
+        "cep": "24355-370",
+        "rua": "Rua Londres"
+      },
+      {
+        "cep": "24350-180",
+        "rua": "Rua Luiz Peixoto"
+      },
+      {
+        "cep": "24355-020",
+        "rua": "Rua Madri"
+      },
+      {
+        "cep": "24350-090",
+        "rua": "Rua Maestro Carlos Monteiro de Souza"
+      },
+      {
+        "cep": "24358-250",
+        "rua": "Rua Maestro Eduardo Souto"
+      },
+      {
+        "cep": "24310-620",
+        "rua": "Rua Manoel Pacheco de Carvalho"
+      },
+      {
+        "cep": "24355-360",
+        "rua": "Rua Manuel Bandeira"
+      },
+      {
+        "cep": "24358-260",
+        "rua": "Rua Manuel Fonseca"
+      },
+      {
+        "cep": "24358-405",
+        "rua": "Rua Marechal Raul de Albuquerque"
+      },
+      {
+        "cep": "24358-180",
+        "rua": "Rua Milton da Rocha Soares"
+      },
+      {
+        "cep": "24358-290",
+        "rua": "Rua Moacir Gomes de Azevedo"
+      },
+      {
+        "cep": "24350-570",
+        "rua": "Rua Monsenhor Nicodemus dos Santos"
+      },
+      {
+        "cep": "24358-280",
+        "rua": "Rua Newton Porto Brasil"
+      },
+      {
+        "cep": "24350-460",
+        "rua": "Rua Nicanor Nunes"
+      },
+      {
+        "cep": "24355-380",
+        "rua": "Rua Oitenta e Três"
+      },
+      {
+        "cep": "24358-300",
+        "rua": "Rua Orestes Barbosa"
+      },
+      {
+        "cep": "24350-040",
+        "rua": "Rua Ósia Stutz"
+      },
+      {
+        "cep": "24350-270",
+        "rua": "Rua Professor Altamiro de Castro"
+      },
+      {
+        "cep": "24358-330",
+        "rua": "Rua Professor Álvaro Caetano"
+      },
+      {
+        "cep": "24358-400",
+        "rua": "Rua Professor Manoel José Ferreira"
+      },
+      {
+        "cep": "24350-070",
+        "rua": "Rua Promotor Fernando Mattos Fernandes"
+      },
+      {
+        "cep": "24350-343",
+        "rua": "Rua Ramiro Cruz"
+      },
+      {
+        "cep": "24350-170",
+        "rua": "Rua Raul de Leoni"
+      },
+      {
+        "cep": "24350-480",
+        "rua": "Rua Raul Travassos"
+      },
+      {
+        "cep": "24350-360",
+        "rua": "Rua Roma"
+      },
+      {
+        "cep": "24350-230",
+        "rua": "Rua Rubem Risemberg"
+      },
+      {
+        "cep": "24358-340",
+        "rua": "Rua Rúbens Rosado"
+      },
+      {
+        "cep": "24358-410",
+        "rua": "Rua Salvador Inneco"
+      },
+      {
+        "cep": "24350-580",
+        "rua": "Rua Santo Antônio da Bela Vista"
+      },
+      {
+        "cep": "24355-240",
+        "rua": "Rua Santo Eduardo"
+      },
+      {
+        "cep": "24355-230",
+        "rua": "Rua São Fábio"
+      },
+      {
+        "cep": "24355-235",
+        "rua": "Rua São Márcio"
+      },
+      {
+        "cep": "24355-220",
+        "rua": "Rua São Pedro de Itaipu"
+      },
+      {
+        "cep": "24350-080",
+        "rua": "Rua Tenente-Aviador Carneiro Filho"
+      },
+      {
+        "cep": "24350-600",
+        "rua": "Rua Vale do Sol"
+      },
+      {
+        "cep": "24350-110",
+        "rua": "Rua Vereador Luiz Botelho"
+      },
+      {
+        "cep": "24358-100",
+        "rua": "Rua Vice-Almirante Zetho Cardoso Caldas"
+      },
+      {
+        "cep": "24310-370",
+        "rua": "Travessa Particular"
+      }
+    ]
+  },
+  "ponta-d-areia": {
+    "nome": "Ponta D'Areia",
+    "enderecos": [
+      {
+        "cep": "24040-005",
+        "rua": "Ilha do Caju"
+      },
+      {
+        "cep": "24040-300",
+        "rua": "Ilha Mocangue Grande"
+      },
+      {
+        "cep": "24040-305",
+        "rua": "Ilha Mocangue Pequeno"
+      },
+      {
+        "cep": "24040-240",
+        "rua": "Ladeira da Maria das Dores"
+      },
+      {
+        "cep": "24040-210",
+        "rua": "Ladeira Major Rocha"
+      },
+      {
+        "cep": "24040-016",
+        "rua": "Morro da Armação"
+      },
+      {
+        "cep": "24040-220",
+        "rua": "Morro da Penha"
+      },
+      {
+        "cep": "24040-310",
+        "rua": "Praça Camilo Pereira Carneiro"
+      },
+      {
+        "cep": "24040-320",
+        "rua": "Praça Camilo Teixeira de Freitas"
+      },
+      {
+        "cep": "24040-006",
+        "rua": "Praça Doutor Azevedo Cruz"
+      },
+      {
+        "cep": "24040-030",
+        "rua": "Praça Doutor José Vitorino"
+      },
+      {
+        "cep": "24040-065",
+        "rua": "Praça Rio de Janeiro"
+      },
+      {
+        "cep": "24040-010",
+        "rua": "Praia da Armação"
+      },
+      {
+        "cep": "24040-130",
+        "rua": "Rua Acre"
+      },
+      {
+        "cep": "24040-150",
+        "rua": "Rua Airton Dantas"
+      },
+      {
+        "cep": "24040-100",
+        "rua": "Rua Amapá"
+      },
+      {
+        "cep": "24040-000",
+        "rua": "Rua Barão de Jaceguai"
+      },
+      {
+        "cep": "24040-280",
+        "rua": "Rua Barão de Mauá"
+      },
+      {
+        "cep": "24040-330",
+        "rua": "Rua Campina Grande"
+      },
+      {
+        "cep": "24040-160",
+        "rua": "Rua Campos"
+      },
+      {
+        "cep": "24040-020",
+        "rua": "Rua Comendador Ilidio Afonso Soares"
+      },
+      {
+        "cep": "24040-025",
+        "rua": "Rua Coronel Miranda"
+      },
+      {
+        "cep": "24040-015",
+        "rua": "Rua da Armação"
+      },
+      {
+        "cep": "24040-060",
+        "rua": "Rua da Penha"
+      },
+      {
+        "cep": "24040-180",
+        "rua": "Rua Décio Avelar"
+      },
+      {
+        "cep": "24040-090",
+        "rua": "Rua Iguaçu"
+      },
+      {
+        "cep": "24040-260",
+        "rua": "Rua Miguel de Lemos"
+      },
+      {
+        "cep": "24040-140",
+        "rua": "Rua Minas Gerais"
+      },
+      {
+        "cep": "24040-290",
+        "rua": "Rua Paulo Frumêncio"
+      },
+      {
+        "cep": "24040-070",
+        "rua": "Rua Recife"
+      },
+      {
+        "cep": "24040-080",
+        "rua": "Rua Rio Branco"
+      },
+      {
+        "cep": "24040-050",
+        "rua": "Rua Santa Clara"
+      },
+      {
+        "cep": "24040-190",
+        "rua": "Rua Santa Rita"
+      },
+      {
+        "cep": "24040-200",
+        "rua": "Rua São Cristóvão"
+      },
+      {
+        "cep": "24040-045",
+        "rua": "Rua São Diogo"
+      },
+      {
+        "cep": "24040-120",
+        "rua": "Rua São José"
+      },
+      {
+        "cep": "24040-170",
+        "rua": "Rua São Judas Tadeu"
+      },
+      {
+        "cep": "24040-115",
+        "rua": "Rua São Paulo"
+      },
+      {
+        "cep": "24040-250",
+        "rua": "Travessa Adélia"
+      },
+      {
+        "cep": "24040-230",
+        "rua": "Travessa Francisco Soares Pacheco"
+      },
+      {
+        "cep": "24040-270",
+        "rua": "Travessa Geraldina"
+      },
+      {
+        "cep": "24040-055",
+        "rua": "Travessa Santa Clara"
+      },
+      {
+        "cep": "24040-040",
+        "rua": "Travessa São Diogo"
+      },
+      {
+        "cep": "24040-110",
+        "rua": "Vila Pereira Carneiro"
+      }
+    ]
+  },
+  "posto-cem-reis": {
+    "nome": "Posto Cem Reis",
+    "enderecos": [
+      {
+        "cep": "24110-015",
+        "rua": "Morro do Holofote"
+      },
+      {
+        "cep": "24110-010",
+        "rua": "Travessa do Holofote"
+      }
+    ]
+  },
+  "rio-do-ouro": {
+    "nome": "Rio do Ouro",
+    "enderecos": [
+      {
+        "cep": "24330-250",
+        "rua": "Avenida Rio do Ouro"
+      },
+      {
+        "cep": "24330-260",
+        "rua": "Estrada da Pedreira"
+      },
+      {
+        "cep": "24330-440",
+        "rua": "Estrada da Serrinha"
+      },
+      {
+        "cep": "24330-280",
+        "rua": "Estrada Ewerton da Costa Xavier"
+      },
+      {
+        "cep": "24330-020",
+        "rua": "Estrada Particular"
+      },
+      {
+        "cep": "24330-000",
+        "rua": "Estrada Velha de Maricá"
+      },
+      {
+        "cep": "24330-070",
+        "rua": "Rua A"
+      },
+      {
+        "cep": "24330-170",
+        "rua": "Rua Argemiro Azevedo"
+      },
+      {
+        "cep": "24330-075",
+        "rua": "Rua B"
+      },
+      {
+        "cep": "24330-010",
+        "rua": "Rua Marçal Ribeiro da Cunha"
+      },
+      {
+        "cep": "24330-080",
+        "rua": "Rua Prefeito Daniel Paes de Almeida"
+      },
+      {
+        "cep": "24330-090",
+        "rua": "Rua Sem Nome"
+      },
+      {
+        "cep": "24330-060",
+        "rua": "Rua Senador Fernandes da Cunha"
+      },
+      {
+        "cep": "24330-220",
+        "rua": "Travessa do Cartorio"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "nome": "Santa Barbara",
+    "enderecos": [
+      {
+        "cep": "24141-430",
+        "rua": "Alameda Doutor Custódio Esteves Neto"
+      },
+      {
+        "cep": "24141-330",
+        "rua": "Avenida Desembargador Nestor Rodrigues Perlingeiro"
+      },
+      {
+        "cep": "24140-385",
+        "rua": "Rua Cabo Geraldo Calderaro"
+      },
+      {
+        "cep": "24141-460",
+        "rua": "Rua Carlos Nicolau Danielle"
+      },
+      {
+        "cep": "24141-390",
+        "rua": "Rua Darci Vargas"
+      },
+      {
+        "cep": "24141-340",
+        "rua": "Rua Diego Oscar Mangeon"
+      },
+      {
+        "cep": "24141-420",
+        "rua": "Rua Doutor Luiz Felipe Moraes Lamego"
+      },
+      {
+        "cep": "24141-540",
+        "rua": "Rua Doutor Rosalino de Macedo"
+      },
+      {
+        "cep": "24141-360",
+        "rua": "Rua Hélio Matos"
+      },
+      {
+        "cep": "24141-400",
+        "rua": "Rua Jandira Pereira"
+      },
+      {
+        "cep": "24141-370",
+        "rua": "Rua Jornalista Sérgio Porto"
+      },
+      {
+        "cep": "24141-410",
+        "rua": "Rua Luiz Oscar Mangeon"
+      },
+      {
+        "cep": "24141-440",
+        "rua": "Rua Maria Martinha Carreiro"
+      },
+      {
+        "cep": "24141-450",
+        "rua": "Rua Maria Martins Peixoto"
+      },
+      {
+        "cep": "24141-560",
+        "rua": "Rua Pastor Luter King"
+      },
+      {
+        "cep": "24141-600",
+        "rua": "Rua Progresso"
+      },
+      {
+        "cep": "24141-350",
+        "rua": "Travessa Servidão"
+      }
+    ]
+  },
+  "santa-rosa": {
+    "nome": "Santa Rosa",
+    "enderecos": [
+      {
+        "cep": "24240-180",
+        "rua": "Largo do Marrão"
+      },
+      {
+        "cep": "24241-410",
+        "rua": "Morro Africano"
+      },
+      {
+        "cep": "24240-355",
+        "rua": "Morro Nossa Senhora Aparecida"
+      },
+      {
+        "cep": "24240-010",
+        "rua": "Rua Abel"
+      },
+      {
+        "cep": "24240-520",
+        "rua": "Rua Abigail Rebelo"
+      },
+      {
+        "cep": "24240-750",
+        "rua": "Rua Albert Sabin"
+      },
+      {
+        "cep": "24240-630",
+        "rua": "Rua Américo Oberlaender"
+      },
+      {
+        "cep": "24240-510",
+        "rua": "Rua Américo Rabelo"
+      },
+      {
+        "cep": "24240-270",
+        "rua": "Rua Antônio Fernandes"
+      },
+      {
+        "cep": "24241-150",
+        "rua": "Rua Capitão Mattar"
+      },
+      {
+        "cep": "24240-770",
+        "rua": "Rua Carmindo Lobo"
+      },
+      {
+        "cep": "24240-440",
+        "rua": "Rua Comissário Adão Domingues"
+      },
+      {
+        "cep": "24240-420",
+        "rua": "Rua Consul Manoel Falcão"
+      },
+      {
+        "cep": "24241-180",
+        "rua": "Rua Coronel Sebastião Dantas"
+      },
+      {
+        "cep": "24241-260",
+        "rua": "Rua Desembargador Dinis do Vale"
+      },
+      {
+        "cep": "24240-145",
+        "rua": "Rua Desembargador Felício Panza"
+      },
+      {
+        "cep": "24240-020",
+        "rua": "Rua Dionísio Hertal"
+      },
+      {
+        "cep": "24240-290",
+        "rua": "Rua Dom Luiz Lasagna"
+      },
+      {
+        "cep": "24241-270",
+        "rua": "Rua Doutor Almir Madeira"
+      },
+      {
+        "cep": "24241-265",
+        "rua": "Rua Doutor Beltrão"
+      },
+      {
+        "cep": "24240-800",
+        "rua": "Rua Doutor Constantino Nami Kalil"
+      },
+      {
+        "cep": "24241-280",
+        "rua": "Rua Doutor Eduardo Chead Kraichete"
+      },
+      {
+        "cep": "24240-790",
+        "rua": "Rua Doutor Moacir Bogado"
+      },
+      {
+        "cep": "24241-290",
+        "rua": "Rua Doutor Otávio Lengruber"
+      },
+      {
+        "cep": "24240-000",
+        "rua": "Rua Doutor Paulo César"
+      },
+      {
+        "cep": "24241-300",
+        "rua": "Rua Doutor Paulo Pimentel"
+      },
+      {
+        "cep": "24240-660",
+        "rua": "Rua Doutor Sardinha"
+      },
+      {
+        "cep": "24230-420",
+        "rua": "Rua Doutor Waldir Cabral"
+      },
+      {
+        "cep": "24240-490",
+        "rua": "Rua Doutor Wilson Sodré"
+      },
+      {
+        "cep": "24240-720",
+        "rua": "Rua Eduardo Dias Botelho"
+      },
+      {
+        "cep": "24241-160",
+        "rua": "Rua Emília"
+      },
+      {
+        "cep": "24240-030",
+        "rua": "Rua Gastão Gonçalves"
+      },
+      {
+        "cep": "24240-780",
+        "rua": "Rua Inácio Bezerra de Menezes"
+      },
+      {
+        "cep": "24240-415",
+        "rua": "Rua Jonatas Botelho"
+      },
+      {
+        "cep": "24241-310",
+        "rua": "Rua José Gomes Cruz"
+      },
+      {
+        "cep": "24230-410",
+        "rua": "Rua Maestro José Botelho"
+      },
+      {
+        "cep": "24240-710",
+        "rua": "Rua Maria Rodrigues Alvim da Costa"
+      },
+      {
+        "cep": "24240-705",
+        "rua": "Rua Martins Torres"
+      },
+      {
+        "cep": "24240-540",
+        "rua": "Rua Miguel"
+      },
+      {
+        "cep": "24240-004",
+        "rua": "Rua Newton Prado"
+      },
+      {
+        "cep": "24220-320",
+        "rua": "Rua Nóbrega"
+      },
+      {
+        "cep": "24240-680",
+        "rua": "Rua Nossa Senhora Auxiliadora"
+      },
+      {
+        "cep": "24240-380",
+        "rua": "Rua Nossa Senhora das Graças"
+      },
+      {
+        "cep": "24240-330",
+        "rua": "Rua Osvaldo Noronha"
+      },
+      {
+        "cep": "24240-480",
+        "rua": "Rua Padre Emílio Miotti"
+      },
+      {
+        "cep": "24240-670",
+        "rua": "Rua Professor Otacílio"
+      },
+      {
+        "cep": "24240-225",
+        "rua": "Rua Santa Rosa"
+      },
+      {
+        "cep": "24240-760",
+        "rua": "Rua Santo Elias"
+      },
+      {
+        "cep": "24241-080",
+        "rua": "Rua Santos Moreira"
+      },
+      {
+        "cep": "24240-150",
+        "rua": "Rua Saquarema"
+      },
+      {
+        "cep": "24240-460",
+        "rua": "Rua Siqueira Campos"
+      },
+      {
+        "cep": "24240-160",
+        "rua": "Rua Teresópolis"
+      },
+      {
+        "cep": "24240-196",
+        "rua": "Rua Três"
+      },
+      {
+        "cep": "24240-395",
+        "rua": "Rua Um"
+      },
+      {
+        "cep": "24240-500",
+        "rua": "Rua Vereador José Fernandes"
+      },
+      {
+        "cep": "24240-005",
+        "rua": "Rua Vinte e Um de Abril"
+      },
+      {
+        "cep": "24240-280",
+        "rua": "Rua Vista Alegre"
+      },
+      {
+        "cep": "24241-415",
+        "rua": "Travessa Africano"
+      },
+      {
+        "cep": "24241-350",
+        "rua": "Travessa Ana Cruz"
+      },
+      {
+        "cep": "24241-360",
+        "rua": "Travessa Deolinda Cruz"
+      },
+      {
+        "cep": "24241-250",
+        "rua": "Travessa Desembargador Dinis do Vale"
+      },
+      {
+        "cep": "24241-020",
+        "rua": "Travessa Doutor Mário Viana"
+      },
+      {
+        "cep": "24220-165",
+        "rua": "Travessa Edésio da Silveira"
+      },
+      {
+        "cep": "24240-340",
+        "rua": "Travessa Edgard Pessego"
+      },
+      {
+        "cep": "24240-690",
+        "rua": "Travessa Elpídio Costa"
+      },
+      {
+        "cep": "24241-140",
+        "rua": "Travessa Elzir de Almeida Brandão"
+      },
+      {
+        "cep": "24240-370",
+        "rua": "Travessa Ernestina Soares"
+      },
+      {
+        "cep": "24240-230",
+        "rua": "Travessa Ernesto Justino Pereira"
+      },
+      {
+        "cep": "24240-170",
+        "rua": "Travessa Faria"
+      },
+      {
+        "cep": "24241-220",
+        "rua": "Travessa Glória"
+      },
+      {
+        "cep": "24240-700",
+        "rua": "Travessa Governador Roberto Silveira"
+      },
+      {
+        "cep": "24240-350",
+        "rua": "Travessa Herdy"
+      },
+      {
+        "cep": "24240-470",
+        "rua": "Travessa Hugo Franco"
+      },
+      {
+        "cep": "24240-310",
+        "rua": "Travessa Iara"
+      },
+      {
+        "cep": "24240-740",
+        "rua": "Travessa João Caria"
+      },
+      {
+        "cep": "24241-320",
+        "rua": "Travessa José Gomes Cruz"
+      },
+      {
+        "cep": "24241-210",
+        "rua": "Travessa Lúcia"
+      },
+      {
+        "cep": "24240-360",
+        "rua": "Travessa Lúcio de Oliveira"
+      },
+      {
+        "cep": "24240-250",
+        "rua": "Travessa Marechal Faustino"
+      },
+      {
+        "cep": "24241-230",
+        "rua": "Travessa Maria Carlota"
+      },
+      {
+        "cep": "24240-260",
+        "rua": "Travessa Maria Elmira"
+      },
+      {
+        "cep": "24241-050",
+        "rua": "Travessa Martins Teixeira"
+      },
+      {
+        "cep": "24241-040",
+        "rua": "Travessa Matos Coutinho"
+      },
+      {
+        "cep": "24240-060",
+        "rua": "Travessa Miracema"
+      },
+      {
+        "cep": "24240-195",
+        "rua": "Travessa Nossa Senhora de Lourdes"
+      },
+      {
+        "cep": "24240-220",
+        "rua": "Travessa Nossa Senhora do Carmo"
+      },
+      {
+        "cep": "24240-570",
+        "rua": "Travessa Otávio Land"
+      },
+      {
+        "cep": "24240-560",
+        "rua": "Travessa Padre Luiz Fraezer"
+      },
+      {
+        "cep": "24240-120",
+        "rua": "Travessa Particular"
+      },
+      {
+        "cep": "24241-200",
+        "rua": "Travessa Paulo Antunes"
+      },
+      {
+        "cep": "24241-400",
+        "rua": "Travessa Pedro Alberto Gripp"
+      },
+      {
+        "cep": "24240-135",
+        "rua": "Travessa Professor Damas Ortiz"
+      },
+      {
+        "cep": "24240-703",
+        "rua": "Travessa Santa Rosa"
+      },
+      {
+        "cep": "24241-030",
+        "rua": "Travessa Santa Rosa do Viterbo"
+      },
+      {
+        "cep": "24241-085",
+        "rua": "Travessa Santos Moreira"
+      },
+      {
+        "cep": "24240-590",
+        "rua": "Travessa São Luiz"
+      },
+      {
+        "cep": "24240-600",
+        "rua": "Travessa Três de Outubro"
+      },
+      {
+        "cep": "24240-396",
+        "rua": "Travessa Viana"
+      },
+      {
+        "cep": "24240-730",
+        "rua": "Vila Ieda"
+      },
+      {
+        "cep": "24240-650",
+        "rua": "Vila Marieta Decache"
+      },
+      {
+        "cep": "24241-010",
+        "rua": "Vila Nossa Senhora do Rosário de Fátima"
+      },
+      {
+        "cep": "24241-190",
+        "rua": "Vila Santa Maria"
+      },
+      {
+        "cep": "24240-706",
+        "rua": "Vila Santa Rosa"
+      }
+    ]
+  },
+  "sao-domingos": {
+    "nome": "São Domingos",
+    "enderecos": [
+      {
+        "cep": "24020-150",
+        "rua": "Alameda Barros Terra"
+      },
+      {
+        "cep": "24210-170",
+        "rua": "Largo do Cabaceiro"
+      },
+      {
+        "cep": "24210-120",
+        "rua": "Morro do Estado"
+      },
+      {
+        "cep": "24210-205",
+        "rua": "Praça Leoni Ramos"
+      },
+      {
+        "cep": "24210-206",
+        "rua": "Praia São Domingos"
+      },
+      {
+        "cep": "24210-200",
+        "rua": "Rua Alexandre Moura"
+      },
+      {
+        "cep": "24210-250",
+        "rua": "Rua Desembargador Geraldo Toledo"
+      },
+      {
+        "cep": "24210-160",
+        "rua": "Rua Doutor Artur Tibau"
+      },
+      {
+        "cep": "24210-190",
+        "rua": "Rua General Osório"
+      },
+      {
+        "cep": "24210-175",
+        "rua": "Rua Guilherme Briggs"
+      },
+      {
+        "cep": "24210-230",
+        "rua": "Rua José Bonifácio"
+      },
+      {
+        "cep": "24210-050",
+        "rua": "Rua Padre Anchieta"
+      },
+      {
+        "cep": "24210-240",
+        "rua": "Rua Passo da Pátria"
+      },
+      {
+        "cep": "24210-130",
+        "rua": "Rua Professor Hernani Melo"
+      },
+      {
+        "cep": "24210-590",
+        "rua": "Rua Professor Lara Vilela"
+      },
+      {
+        "cep": "24210-220",
+        "rua": "Travessa Alfredo Azamor"
+      },
+      {
+        "cep": "24210-090",
+        "rua": "Travessa Dois de Dezembro"
+      },
+      {
+        "cep": "24210-150",
+        "rua": "Travessa Manoel Continentino"
+      },
+      {
+        "cep": "24210-180",
+        "rua": "Travessa São Domingos"
+      }
+    ]
+  },
+  "sao-francisco": {
+    "nome": "São Francisco",
+    "enderecos": [
+      {
+        "cep": "24360-017",
+        "rua": "Alameda Jandira Froes"
+      },
+      {
+        "cep": "24360-018",
+        "rua": "Alameda Paris"
+      },
+      {
+        "cep": "24360-210",
+        "rua": "Avenida Anita Nilo Peçanha"
+      },
+      {
+        "cep": "24360-180",
+        "rua": "Avenida Padre Natuzzi"
+      },
+      {
+        "cep": "24360-066",
+        "rua": "Avenida Presidente Roosevelt"
+      },
+      {
+        "cep": "24360-440",
+        "rua": "Avenida Rui Barbosa"
+      },
+      {
+        "cep": "24360-050",
+        "rua": "Avenida Taubaté"
+      },
+      {
+        "cep": "24360-010",
+        "rua": "Caminho Canto do Rio"
+      },
+      {
+        "cep": "24360-014",
+        "rua": "Estrada do Cavalão"
+      },
+      {
+        "cep": "24360-016",
+        "rua": "Estrada Jandira Froes"
+      },
+      {
+        "cep": "24360-005",
+        "rua": "Estrada Leopoldo Froes"
+      },
+      {
+        "cep": "24360-008",
+        "rua": "Jardim Paris"
+      },
+      {
+        "cep": "24360-085",
+        "rua": "Loteamento Parque Tupinambás"
+      },
+      {
+        "cep": "24360-425",
+        "rua": "Morro da Viração"
+      },
+      {
+        "cep": "24360-013",
+        "rua": "Morro do Cavalão"
+      },
+      {
+        "cep": "24365-145",
+        "rua": "Praça Armando Fajardo"
+      },
+      {
+        "cep": "24365-090",
+        "rua": "Praça Brasil"
+      },
+      {
+        "cep": "24365-146",
+        "rua": "Praça Emílio Abunaman"
+      },
+      {
+        "cep": "24360-006",
+        "rua": "Praça Marechal Mascarenhas de Moraes"
+      },
+      {
+        "cep": "24365-140",
+        "rua": "Praça Urubatan"
+      },
+      {
+        "cep": "24360-070",
+        "rua": "Rua A"
+      },
+      {
+        "cep": "24360-360",
+        "rua": "Rua Aimorés"
+      },
+      {
+        "cep": "24365-170",
+        "rua": "Rua Albino Pereira"
+      },
+      {
+        "cep": "24365-100",
+        "rua": "Rua Amapá"
+      },
+      {
+        "cep": "24360-140",
+        "rua": "Rua Araguaia"
+      },
+      {
+        "cep": "24360-340",
+        "rua": "Rua Araribóia"
+      },
+      {
+        "cep": "24365-160",
+        "rua": "Rua Ascendino Pereira"
+      },
+      {
+        "cep": "24360-075",
+        "rua": "Rua B"
+      },
+      {
+        "cep": "24365-010",
+        "rua": "Rua Boa Vista"
+      },
+      {
+        "cep": "24360-160",
+        "rua": "Rua Bororós"
+      },
+      {
+        "cep": "24360-570",
+        "rua": "Rua Brito"
+      },
+      {
+        "cep": "24360-170",
+        "rua": "Rua Caetés"
+      },
+      {
+        "cep": "24360-190",
+        "rua": "Rua Caiapós"
+      },
+      {
+        "cep": "24360-230",
+        "rua": "Rua Caraíbas"
+      },
+      {
+        "cep": "24360-320",
+        "rua": "Rua Carajás"
+      },
+      {
+        "cep": "24365-270",
+        "rua": "Rua Cinco"
+      },
+      {
+        "cep": "24360-120",
+        "rua": "Rua Clara Nunes"
+      },
+      {
+        "cep": "24365-040",
+        "rua": "Rua Coronel Américo Froes"
+      },
+      {
+        "cep": "24365-060",
+        "rua": "Rua Coronel João Brandão"
+      },
+      {
+        "cep": "24365-020",
+        "rua": "Rua Coronel Júlio Froes"
+      },
+      {
+        "cep": "24360-530",
+        "rua": "Rua Desembargador Cesinio Paiva"
+      },
+      {
+        "cep": "24360-600",
+        "rua": "Rua Desembargador Gastão Pache de Faria"
+      },
+      {
+        "cep": "24360-015",
+        "rua": "Rua Dois"
+      },
+      {
+        "cep": "24365-273",
+        "rua": "Rua Dois A"
+      },
+      {
+        "cep": "24360-450",
+        "rua": "Rua Dona Emília"
+      },
+      {
+        "cep": "24360-090",
+        "rua": "Rua Doutor Diógenes Travessa"
+      },
+      {
+        "cep": "24360-080",
+        "rua": "Rua Doutor Henrique Portugal"
+      },
+      {
+        "cep": "24360-500",
+        "rua": "Rua Doutor Oliveira Botelho"
+      },
+      {
+        "cep": "24365-274",
+        "rua": "Rua Doze"
+      },
+      {
+        "cep": "24365-275",
+        "rua": "Rua Doze-A"
+      },
+      {
+        "cep": "24365-190",
+        "rua": "Rua Edgard German"
+      },
+      {
+        "cep": "24360-130",
+        "rua": "Rua Elis Regina"
+      },
+      {
+        "cep": "24365-200",
+        "rua": "Rua Elvira German"
+      },
+      {
+        "cep": "24360-480",
+        "rua": "Rua Eurico Batista"
+      },
+      {
+        "cep": "24365-150",
+        "rua": "Rua Fernando Couto"
+      },
+      {
+        "cep": "24360-040",
+        "rua": "Rua Frei Junipero Serra"
+      },
+      {
+        "cep": "24360-100",
+        "rua": "Rua General Rondon"
+      },
+      {
+        "cep": "24360-350",
+        "rua": "Rua Goitacazes"
+      },
+      {
+        "cep": "24360-310",
+        "rua": "Rua Guaianazes"
+      },
+      {
+        "cep": "24360-290",
+        "rua": "Rua Guaicurus"
+      },
+      {
+        "cep": "24365-120",
+        "rua": "Rua Guaporé"
+      },
+      {
+        "cep": "24360-390",
+        "rua": "Rua Guaranis"
+      },
+      {
+        "cep": "24360-150",
+        "rua": "Rua Guararapes"
+      },
+      {
+        "cep": "24360-540",
+        "rua": "Rua Hélio da Silva Carneiro"
+      },
+      {
+        "cep": "24365-260",
+        "rua": "Rua Irapuni"
+      },
+      {
+        "cep": "24360-060",
+        "rua": "Rua João Batista"
+      },
+      {
+        "cep": "24365-015",
+        "rua": "Rua João José de Carvalho"
+      },
+      {
+        "cep": "24360-065",
+        "rua": "Rua Juberi"
+      },
+      {
+        "cep": "24360-110",
+        "rua": "Rua Leila Diniz"
+      },
+      {
+        "cep": "24360-550",
+        "rua": "Rua Leonardo Vilas Boas"
+      },
+      {
+        "cep": "24365-130",
+        "rua": "Rua Lisandro Pereira da Silva"
+      },
+      {
+        "cep": "24365-030",
+        "rua": "Rua Major Froes"
+      },
+      {
+        "cep": "24360-520",
+        "rua": "Rua Manoel Duarte"
+      },
+      {
+        "cep": "24365-050",
+        "rua": "Rua Maria Caldas"
+      },
+      {
+        "cep": "24360-590",
+        "rua": "Rua Mário Joaquim Santana"
+      },
+      {
+        "cep": "24360-007",
+        "rua": "Rua Mário Sardinha"
+      },
+      {
+        "cep": "24360-410",
+        "rua": "Rua Murilo Portugal"
+      },
+      {
+        "cep": "24365-250",
+        "rua": "Rua Noêmia Peixoto Menezes"
+      },
+      {
+        "cep": "24360-420",
+        "rua": "Rua Nossa Senhora de Lourdes"
+      },
+      {
+        "cep": "24360-330",
+        "rua": "Rua Oiapoque"
+      },
+      {
+        "cep": "24365-276",
+        "rua": "Rua Oito"
+      },
+      {
+        "cep": "24360-240",
+        "rua": "Rua Olavo Bastos"
+      },
+      {
+        "cep": "24365-070",
+        "rua": "Rua Particular"
+      },
+      {
+        "cep": "24360-560",
+        "rua": "Rua Pedro Francisco Correia"
+      },
+      {
+        "cep": "24365-210",
+        "rua": "Rua Professora Ester Jacobson"
+      },
+      {
+        "cep": "24365-080",
+        "rua": "Rua Roberto Augusto Morgado"
+      },
+      {
+        "cep": "24365-278",
+        "rua": "Rua Ruth de Oliveira Ferreira"
+      },
+      {
+        "cep": "24360-580",
+        "rua": "Rua Santo Inácio"
+      },
+      {
+        "cep": "24360-280",
+        "rua": "Rua São Francisco"
+      },
+      {
+        "cep": "24365-279",
+        "rua": "Rua Sete"
+      },
+      {
+        "cep": "24360-220",
+        "rua": "Rua Tabajaras"
+      },
+      {
+        "cep": "24360-380",
+        "rua": "Rua Tamoios"
+      },
+      {
+        "cep": "24360-200",
+        "rua": "Rua Tapajós"
+      },
+      {
+        "cep": "24360-370",
+        "rua": "Rua Tapuias"
+      },
+      {
+        "cep": "24360-250",
+        "rua": "Rua Timbiras"
+      },
+      {
+        "cep": "24360-300",
+        "rua": "Rua Tocantins"
+      },
+      {
+        "cep": "24360-019",
+        "rua": "Rua Três"
+      },
+      {
+        "cep": "24360-270",
+        "rua": "Rua Tupinambás"
+      },
+      {
+        "cep": "24360-260",
+        "rua": "Rua Tupiniquins"
+      },
+      {
+        "cep": "24360-400",
+        "rua": "Rua Tupis"
+      },
+      {
+        "cep": "24360-445",
+        "rua": "Rua Urubata"
+      },
+      {
+        "cep": "24360-000",
+        "rua": "Travessa A"
+      },
+      {
+        "cep": "24360-003",
+        "rua": "Travessa B"
+      },
+      {
+        "cep": "24360-004",
+        "rua": "Travessa Conrado Leopoldo Froes"
+      },
+      {
+        "cep": "24360-510",
+        "rua": "Travessa Coronel Luiz Azevedo"
+      },
+      {
+        "cep": "24365-110",
+        "rua": "Travessa Iguaçu"
+      },
+      {
+        "cep": "24360-009",
+        "rua": "Travessa Vista Alegre"
+      },
+      {
+        "cep": "24360-045",
+        "rua": "Travessa Xingu"
+      }
+    ]
+  },
+  "sao-lourenco": {
+    "nome": "São Lourenço",
+    "enderecos": [
+      {
+        "cep": "24060-027",
+        "rua": "Ladeira São Lourenço"
+      },
+      {
+        "cep": "24060-028",
+        "rua": "Largo São Lourenço"
+      },
+      {
+        "cep": "24060-002",
+        "rua": "Morro São Lourenço"
+      },
+      {
+        "cep": "24060-026",
+        "rua": "Praça General Rondon"
+      },
+      {
+        "cep": "24060-080",
+        "rua": "Rua Bispo Dom João da Mata"
+      },
+      {
+        "cep": "24060-070",
+        "rua": "Rua Dom José Pereira Alves"
+      },
+      {
+        "cep": "24060-045",
+        "rua": "Rua Doutor Genserico Ribeiro"
+      },
+      {
+        "cep": "24060-006",
+        "rua": "Rua Doutor Manoel Lazari"
+      },
+      {
+        "cep": "24060-007",
+        "rua": "Rua Doutor Paulo Araújo"
+      },
+      {
+        "cep": "24060-037",
+        "rua": "Rua Indigena"
+      },
+      {
+        "cep": "24060-050",
+        "rua": "Rua Lino dos Passos"
+      },
+      {
+        "cep": "24060-008",
+        "rua": "Rua São Lourenço"
+      },
+      {
+        "cep": "24060-060",
+        "rua": "Rua Silveira da Mota"
+      },
+      {
+        "cep": "24060-009",
+        "rua": "Rua Zita de Carvalho Ferreira"
+      },
+      {
+        "cep": "24060-030",
+        "rua": "Travessa Abílio Soares"
+      },
+      {
+        "cep": "24060-033",
+        "rua": "Travessa Afonso César"
+      },
+      {
+        "cep": "24060-035",
+        "rua": "Travessa Araribóia"
+      },
+      {
+        "cep": "24060-040",
+        "rua": "Travessa Boa Vista"
+      },
+      {
+        "cep": "24060-000",
+        "rua": "Travessa Bonfim"
+      },
+      {
+        "cep": "24060-005",
+        "rua": "Travessa Caminha"
+      },
+      {
+        "cep": "24060-020",
+        "rua": "Travessa Fonte"
+      },
+      {
+        "cep": "24060-039",
+        "rua": "Travessa Indigena"
+      },
+      {
+        "cep": "24060-046",
+        "rua": "Travessa Ladeira"
+      },
+      {
+        "cep": "24060-047",
+        "rua": "Travessa Saldanha"
+      },
+      {
+        "cep": "24060-010",
+        "rua": "Travessa Santo Antônio"
+      },
+      {
+        "cep": "24060-025",
+        "rua": "Travessa São Lourenço"
+      },
+      {
+        "cep": "24060-048",
+        "rua": "Travessa Silveira da Mota"
+      },
+      {
+        "cep": "24006-049",
+        "rua": "Travessa Vereador Américo Vaz"
+      }
+    ]
+  },
+  "sape": {
+    "nome": "Sape",
+    "enderecos": [
+      {
+        "cep": "24315-650",
+        "rua": "Avenida Almirante A"
+      },
+      {
+        "cep": "24315-610",
+        "rua": "Avenida E"
+      },
+      {
+        "cep": "24315-160",
+        "rua": "Caminho do Buraco"
+      },
+      {
+        "cep": "24315-090",
+        "rua": "Caminho do Poço Largo"
+      },
+      {
+        "cep": "24315-100",
+        "rua": "Estrada do Poço Largo"
+      },
+      {
+        "cep": "24315-155",
+        "rua": "Estrada Erasmo Braga"
+      },
+      {
+        "cep": "24315-750",
+        "rua": "Estrada Nossa Senhora da Conceição"
+      },
+      {
+        "cep": "24315-375",
+        "rua": "Estrada Washington Luís"
+      },
+      {
+        "cep": "24325-270",
+        "rua": "Loteamento Agricola Fluminense"
+      },
+      {
+        "cep": "24315-180",
+        "rua": "Loteamento Bela Vista"
+      },
+      {
+        "cep": "24320-030",
+        "rua": "Loteamento Cacique"
+      },
+      {
+        "cep": "24315-660",
+        "rua": "Loteamento Cosmolândia"
+      },
+      {
+        "cep": "24315-166",
+        "rua": "Loteamento Meu Cantinho"
+      },
+      {
+        "cep": "24315-710",
+        "rua": "Loteamento Panoramico"
+      },
+      {
+        "cep": "24315-720",
+        "rua": "Loteamento Parque Redentor"
+      },
+      {
+        "cep": "24315-485",
+        "rua": "Loteamento Sayonara"
+      },
+      {
+        "cep": "24315-635",
+        "rua": "Loteamento Vila Nova"
+      },
+      {
+        "cep": "24315-700",
+        "rua": "Praça Nossa Senhora de Fátima"
+      },
+      {
+        "cep": "24315-470",
+        "rua": "Praça São Jorge"
+      },
+      {
+        "cep": "24315-370",
+        "rua": "Praça Sebastião"
+      },
+      {
+        "cep": "24320-010",
+        "rua": "Rua Amadeu Gomes"
+      },
+      {
+        "cep": "24315-450",
+        "rua": "Rua Artur Bento Moura"
+      },
+      {
+        "cep": "24315-655",
+        "rua": "Rua B"
+      },
+      {
+        "cep": "24315-550",
+        "rua": "Rua Barra Mansa"
+      },
+      {
+        "cep": "24315-185",
+        "rua": "Rua Bela Vista"
+      },
+      {
+        "cep": "24315-140",
+        "rua": "Rua C"
+      },
+      {
+        "cep": "24315-580",
+        "rua": "Rua Cambuci"
+      },
+      {
+        "cep": "24315-540",
+        "rua": "Rua Cinco"
+      },
+      {
+        "cep": "24315-740",
+        "rua": "Rua da Paz"
+      },
+      {
+        "cep": "24315-480",
+        "rua": "Rua Di Cavalcanti"
+      },
+      {
+        "cep": "24315-510",
+        "rua": "Rua Dois"
+      },
+      {
+        "cep": "24315-690",
+        "rua": "Rua Doutor Antônio Correia"
+      },
+      {
+        "cep": "24315-130",
+        "rua": "Rua Doutor Mário Caldas"
+      },
+      {
+        "cep": "24315-620",
+        "rua": "Rua Eraldo Soares"
+      },
+      {
+        "cep": "24315-656",
+        "rua": "Rua Estevão Fasciotti"
+      },
+      {
+        "cep": "24315-640",
+        "rua": "Rua Guararema"
+      },
+      {
+        "cep": "24315-630",
+        "rua": "Rua Joaquim Soares"
+      },
+      {
+        "cep": "24315-410",
+        "rua": "Rua Leonor da Glória"
+      },
+      {
+        "cep": "24315-460",
+        "rua": "Rua Mato Grosso"
+      },
+      {
+        "cep": "24315-560",
+        "rua": "Rua Penedo"
+      },
+      {
+        "cep": "24315-730",
+        "rua": "Rua Primeiro de Março"
+      },
+      {
+        "cep": "24315-430",
+        "rua": "Rua Projetada"
+      },
+      {
+        "cep": "24315-530",
+        "rua": "Rua Quatro"
+      },
+      {
+        "cep": "24315-400",
+        "rua": "Rua Santa Margarida"
+      },
+      {
+        "cep": "24315-570",
+        "rua": "Rua São Fidélis"
+      },
+      {
+        "cep": "24315-590",
+        "rua": "Rua São Rafael"
+      },
+      {
+        "cep": "24315-600",
+        "rua": "Rua Silvino Pinto"
+      },
+      {
+        "cep": "24315-520",
+        "rua": "Rua Três"
+      },
+      {
+        "cep": "24315-500",
+        "rua": "Rua Um"
+      },
+      {
+        "cep": "24315-440",
+        "rua": "Rua Vinte e Cinco de Novembro"
+      },
+      {
+        "cep": "24315-735",
+        "rua": "Rua Vinte e Três de Novembro"
+      },
+      {
+        "cep": "24315-120",
+        "rua": "Travessa Albertina Faria"
+      },
+      {
+        "cep": "24315-680",
+        "rua": "Travessa B"
+      },
+      {
+        "cep": "24315-685",
+        "rua": "Travessa C"
+      },
+      {
+        "cep": "24315-605",
+        "rua": "Travessa D"
+      },
+      {
+        "cep": "24310-490",
+        "rua": "Travessa da Tapera"
+      },
+      {
+        "cep": "24315-686",
+        "rua": "Travessa E"
+      },
+      {
+        "cep": "24315-110",
+        "rua": "Travessa Joaquim de Souza"
+      },
+      {
+        "cep": "24315-670",
+        "rua": "Travessa Luiz Carlos"
+      },
+      {
+        "cep": "24315-687",
+        "rua": "Travessa Nossa Senhora do Amparo"
+      },
+      {
+        "cep": "24315-616",
+        "rua": "Travessa O"
+      },
+      {
+        "cep": "24315-615",
+        "rua": "Travessa Três"
+      }
+    ]
+  },
+  "teixeira-de-freitas": {
+    "nome": "Teixeira de Freitas",
+    "enderecos": [
+      {
+        "cep": "24130-733",
+        "rua": "Rua Zig-Zag"
+      },
+      {
+        "cep": "24130-734",
+        "rua": "Travessa Sebastião de Oliveira"
+      }
+    ]
+  },
+  "tenente-jardim": {
+    "nome": "Tenente Jardim",
+    "enderecos": [
+      {
+        "cep": "24110-787",
+        "rua": "Caminho do Pau Ferro"
+      },
+      {
+        "cep": "24110-780",
+        "rua": "Rua A"
+      },
+      {
+        "cep": "24110-785",
+        "rua": "Rua B"
+      },
+      {
+        "cep": "24110-700",
+        "rua": "Rua Cinco"
+      },
+      {
+        "cep": "24110-786",
+        "rua": "Rua D"
+      },
+      {
+        "cep": "24110-770",
+        "rua": "Rua do Quebra"
+      },
+      {
+        "cep": "24110-720",
+        "rua": "Rua Doutor Francisco Ferreira"
+      },
+      {
+        "cep": "24110-730",
+        "rua": "Rua Jorge Luís da Silva"
+      },
+      {
+        "cep": "24110-705",
+        "rua": "Rua Ministro Sousa Costa"
+      },
+      {
+        "cep": "24110-740",
+        "rua": "Rua Oliveira Lima"
+      },
+      {
+        "cep": "24110-760",
+        "rua": "Rua Professor Eduardo Cordeiro Uchoa"
+      },
+      {
+        "cep": "24110-708",
+        "rua": "Rua Um-A"
+      },
+      {
+        "cep": "24110-710",
+        "rua": "Travessa Santo Antônio"
+      },
+      {
+        "cep": "24110-765",
+        "rua": "Travessa Tobias Rodrigues Figueira"
+      }
+    ]
+  },
+  "varzea-das-mocas": {
+    "nome": "Varzea das Moças",
+    "enderecos": [
+      {
+        "cep": "24330-450",
+        "rua": "Avenida Crol"
+      },
+      {
+        "cep": "24330-430",
+        "rua": "Avenida Plínio Gomes de Matos Filho"
+      },
+      {
+        "cep": "24330-360",
+        "rua": "Estrada A"
+      },
+      {
+        "cep": "24330-330",
+        "rua": "Estrada B"
+      },
+      {
+        "cep": "24330-340",
+        "rua": "Estrada D"
+      },
+      {
+        "cep": "24330-210",
+        "rua": "Estrada do Engenho Velho"
+      },
+      {
+        "cep": "24330-350",
+        "rua": "Estrada E"
+      },
+      {
+        "cep": "24330-190",
+        "rua": "Estrada Itália"
+      },
+      {
+        "cep": "24330-410",
+        "rua": "Estrada Miguelote Viana"
+      },
+      {
+        "cep": "24330-200",
+        "rua": "Estrada Noruega"
+      },
+      {
+        "cep": "24330-050",
+        "rua": "Loteamento Regina Helena"
+      },
+      {
+        "cep": "24330-400",
+        "rua": "Praça Liberdade"
+      },
+      {
+        "cep": "24330-130",
+        "rua": "Rua Bélgica"
+      },
+      {
+        "cep": "24330-300",
+        "rua": "Rua Braga"
+      },
+      {
+        "cep": "24330-370",
+        "rua": "Rua C"
+      },
+      {
+        "cep": "24330-290",
+        "rua": "Rua Coimbra"
+      },
+      {
+        "cep": "24330-420",
+        "rua": "Rua do Orfanato"
+      },
+      {
+        "cep": "24330-110",
+        "rua": "Rua Espanha"
+      },
+      {
+        "cep": "24330-380",
+        "rua": "Rua F"
+      },
+      {
+        "cep": "24330-120",
+        "rua": "Rua França"
+      },
+      {
+        "cep": "24330-390",
+        "rua": "Rua H"
+      },
+      {
+        "cep": "24330-150",
+        "rua": "Rua Holanda"
+      },
+      {
+        "cep": "24330-160",
+        "rua": "Rua Jean Valentteau Moulliac"
+      },
+      {
+        "cep": "24330-140",
+        "rua": "Rua Luxemburgo"
+      },
+      {
+        "cep": "24330-310",
+        "rua": "Rua Minho"
+      },
+      {
+        "cep": "24330-320",
+        "rua": "Rua Porto"
+      },
+      {
+        "cep": "24330-100",
+        "rua": "Rua Portugal"
+      },
+      {
+        "cep": "24330-040",
+        "rua": "Rua Regina Helena"
+      },
+      {
+        "cep": "24330-180",
+        "rua": "Rua Suíça"
+      },
+      {
+        "cep": "24330-270",
+        "rua": "Travessa Maricá"
+      }
+    ]
+  },
+  "venda-da-cruz": {
+    "nome": "Venda da Cruz",
+    "enderecos": [
+      {
+        "cep": "24110-677",
+        "rua": "Morro do Papagaio"
+      },
+      {
+        "cep": "24110-680",
+        "rua": "Rua Pedro Ernesto"
+      },
+      {
+        "cep": "24110-670",
+        "rua": "Travessa Assunção"
+      },
+      {
+        "cep": "24110-675",
+        "rua": "Travessa Dezoito de Julho"
+      },
+      {
+        "cep": "24110-001",
+        "rua": "Travessa do Alto"
+      },
+      {
+        "cep": "24110-665",
+        "rua": "Travessa Doutor Collet"
+      },
+      {
+        "cep": "24110-697",
+        "rua": "Travessa General Estilac Leal"
+      },
+      {
+        "cep": "24110-666",
+        "rua": "Travessa Luiz Coelho"
+      },
+      {
+        "cep": "24110-676",
+        "rua": "Travessa Manoel"
+      },
+      {
+        "cep": "24110-678",
+        "rua": "Travessa São José"
+      }
+    ]
+  },
+  "vila-progresso": {
+    "nome": "Vila Progresso",
+    "enderecos": [
+      {
+        "cep": "24322-385",
+        "rua": "Avenida Nelson de Oliveira e Silva"
+      },
+      {
+        "cep": "24322-375",
+        "rua": "Avenida Thomaz Edison de Andrade"
+      },
+      {
+        "cep": "24322-430",
+        "rua": "Caminho do Açude"
+      },
+      {
+        "cep": "24322-470",
+        "rua": "Estrada Coração"
+      },
+      {
+        "cep": "24322-480",
+        "rua": "Estrada Grota Funda"
+      },
+      {
+        "cep": "24322-520",
+        "rua": "Estrada Muriqui"
+      },
+      {
+        "cep": "24322-446",
+        "rua": "Estrada Professor Brigido Tinoco"
+      },
+      {
+        "cep": "24322-460",
+        "rua": "Estrada Vinte e Dois de Outubro"
+      },
+      {
+        "cep": "24322-410",
+        "rua": "Rua Alagoas"
+      },
+      {
+        "cep": "24322-420",
+        "rua": "Rua Amazonas"
+      },
+      {
+        "cep": "24322-495",
+        "rua": "Rua B"
+      },
+      {
+        "cep": "24320-470",
+        "rua": "Rua C"
+      },
+      {
+        "cep": "24322-000",
+        "rua": "Rua Chile"
+      },
+      {
+        "cep": "24320-485",
+        "rua": "Rua Coronel Areovaldo de Sousa Paiva"
+      },
+      {
+        "cep": "24322-496",
+        "rua": "Rua D"
+      },
+      {
+        "cep": "24322-450",
+        "rua": "Rua Doutor Jurandy Cerqueira"
+      },
+      {
+        "cep": "24322-380",
+        "rua": "Rua Doutor Justino Menezes"
+      },
+      {
+        "cep": "24322-497",
+        "rua": "Rua E"
+      },
+      {
+        "cep": "24322-400",
+        "rua": "Rua Escrivão Manoel Galindo Júnior"
+      },
+      {
+        "cep": "24322-498",
+        "rua": "Rua F"
+      },
+      {
+        "cep": "24322-499",
+        "rua": "Rua G"
+      },
+      {
+        "cep": "24320-545",
+        "rua": "Rua Projetada"
+      },
+      {
+        "cep": "24322-065",
+        "rua": "Rua Utilde Jardim"
+      },
+      {
+        "cep": "24322-040",
+        "rua": "Travessa Bolívia"
+      },
+      {
+        "cep": "24322-510",
+        "rua": "Travessa do Ourives"
+      }
+    ]
+  },
+  "vital-brasil": {
+    "nome": "Vital Brasil",
+    "enderecos": [
+      {
+        "cep": "24230-265",
+        "rua": "Parque Vital Brasil"
+      },
+      {
+        "cep": "24230-360",
+        "rua": "Rua Graciliano Ramos"
+      },
+      {
+        "cep": "24230-480",
+        "rua": "Rua João Dalossi"
+      },
+      {
+        "cep": "24230-370",
+        "rua": "Rua Juiz Goulart Monteiro"
+      },
+      {
+        "cep": "24230-340",
+        "rua": "Rua Vital Brasil Filho"
+      }
+    ]
+  }
+}
