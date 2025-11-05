@@ -71,34 +71,6 @@ def generate_post_id(local, bairro, data_calculada):
     return hash_value
 
 
-async def get_post_full_description(page, post_url):
-    """
-    Acessa a página individual do post e extrai a descrição completa.
-
-    Args:
-        page: Página do Playwright
-        post_url: URL do post individual
-
-    Returns:
-        Descrição completa do post ou None se não conseguir extrair
-    """
-    try:
-        await page.goto(post_url, wait_until="domcontentloaded", timeout=10000)
-        await page.wait_for_timeout(int(get_random_delay() * 1000))
-
-        # Procura pelo elemento com a descrição completa
-        description_elem = await page.query_selector("div.ant-typography")
-
-        if description_elem:
-            full_text = await description_elem.inner_text()
-            return full_text.strip() if full_text else None
-
-    except Exception as e:
-        print(f"Erro ao extrair descrição completa: {e}")
-
-    return None
-
-
 async def get_neighborhood_and_cep(logradouro, numero, session=None):
     """
     Extrai bairro e CEP usando busca por similaridade em dados locais de Niterói.
@@ -466,37 +438,18 @@ async def main():
         cards_data = []
         for card, tempo_text, post_date in filtered_cards:
             local = card.select_one(".ant-typography-secondary")
-
-            # Encontra o elemento com a descrição completa
-            # Pode estar em um div.ant-typography ou dentro de um link
-            descricao_elem = card.select_one(".ant-card-body .ant-typography")
-            if not descricao_elem:
-                descricao_elem = card.select_one(
-                    ".ant-card-body div[class*='typography']")
-
-            # Tenta encontrar o link dentro do card
-            link_elem = card.select_one(".ant-card-cover a")
-
+            titulo = card.select_one(
+                ".ant-card-body > div.sc-48964794-0, .ckQViH")
+            descricao = card.select_one(
+                ".ant-card-body .ant-typography-ellipsis")
             imagem = card.select_one(".ant-card-cover img")
+            link = card.select_one(".ant-card-cover a")
 
             local_text = local.text.strip() if local else None
             address_parts = extract_street_and_number(local_text)
 
             # Extrai nome do autor com a nova função
             author_name = extract_author_name(card)
-
-            # Extrai descrição completa (pode ter múltiplas linhas)
-            descricao_text = None
-            titulo_text = None
-            if descricao_elem:
-                # Pega todo o texto dentro do elemento, preservando quebras de linha
-                descricao_text = descricao_elem.get_text(strip=True)
-
-                # O primeiro parágrafo/linha é o título
-                linhas = descricao_text.split('\n')
-                if linhas:
-                    titulo_text = linhas[0].strip() if len(
-                        linhas[0].strip()) < 200 else None
 
             cards_data.append({
                 "author_name": author_name,
@@ -505,27 +458,13 @@ async def main():
                 "numero": address_parts.get("numero"),
                 "tempo": tempo_text,
                 "post_date": post_date,
-                "titulo": titulo_text,
-                "descricao": descricao_text,
+                "titulo": titulo.text.strip() if titulo else None,
+                "descricao": descricao.text.strip() if descricao else None,
                 "imagem": BASE_URL + str(imagem["src"])
                 if imagem and str(imagem.get("src", "")).startswith("/")
                 else (str(imagem["src"]) if imagem else None),
-                "link": BASE_URL + str(link_elem["href"]) if link_elem else None,
+                "link": BASE_URL + str(link["href"]) if link else None,
             })
-
-        # Extrai descrições completas acessando cada post individual
-        print(f"Extraindo descrições completas dos {len(cards_data)} posts...")
-        for idx, card_data in enumerate(cards_data, 1):
-            if card_data["link"]:
-                print(
-                    f"  [{idx}/{len(cards_data)}] Acessando {card_data['link'][-10:]}")
-                descricao_completa = await get_post_full_description(page, card_data["link"])
-                if descricao_completa:
-                    card_data["descricao"] = descricao_completa
-                    # Extrai título como primeira linha
-                    linhas = descricao_completa.split('\n')
-                    if linhas and len(linhas[0].strip()) < 200:
-                        card_data["titulo"] = linhas[0].strip()
 
         # Busca dados geográficos em paralelo com session reutilizável
         num_addresses = sum(
