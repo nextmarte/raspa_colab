@@ -8,6 +8,7 @@ from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from playwright.async_api import async_playwright
+import aiohttp
 
 load_dotenv()
 
@@ -17,10 +18,105 @@ PASSWORD = os.getenv("PASSWORD")
 DAYS_BACK = int(os.getenv("DAYS_BACK", "7"))
 BASE_URL = "https://app.colab.re"
 
+# Cache global para armazenar resultados já consultados
+GEO_CACHE = {}
+
 
 def get_random_delay():
     """Retorna um delay aleatório entre 3 e 7 segundos"""
     return random.uniform(3, 7)
+
+
+async def get_neighborhood_and_cep(logradouro, numero, session=None):
+    """
+    Extrai bairro e CEP usando a API ViaCEP para Niterói.
+    Usa cache para evitar requisições duplicadas.
+
+    Args:
+        logradouro: Nome da rua/avenida
+        numero: Número do endereço
+        session: Session aiohttp para reutilizar conexão
+
+    Returns:
+        dict com 'bairro' e 'cep', ou {'bairro': None, 'cep': None} se não encontrar
+    """
+    if not logradouro or not numero:
+        return {"bairro": None, "cep": None}
+
+    # Chave do cache usando apenas logradouro (número geralmente tem mesma rua)
+    cache_key = logradouro.lower().strip()
+
+    if cache_key in GEO_CACHE:
+        return GEO_CACHE[cache_key]
+
+    try:
+        # API ViaCEP para buscar CEP por endereço
+        url = f"https://viacep.com.br/ws/RJ/Niterói/{logradouro}/json/"
+
+        if session is None:
+            async with aiohttp.ClientSession() as temp_session:
+                async with temp_session.get(url, timeout=aiohttp.ClientTimeout(total=5)) as response:
+                    results = await response.json() if response.status == 200 else []
+        else:
+            async with session.get(url, timeout=aiohttp.ClientTimeout(total=5)) as response:
+                results = await response.json() if response.status == 200 else []
+
+        # Se encontrou resultados, procura o que corresponde ao número
+        if isinstance(results, list) and len(results) > 0:
+            # Tenta encontrar exato
+            for result in results:
+                if result.get("numero") == numero or (numero.isdigit() and str(result.get("numero", "")) == numero):
+                    geo_data = {
+                        "bairro": result.get("bairro"),
+                        "cep": result.get("cep")
+                    }
+                    GEO_CACHE[cache_key] = geo_data
+                    return geo_data
+
+            # Se não encontrou exato, usa o primeiro resultado
+            first_result = results[0]
+            geo_data = {
+                "bairro": first_result.get("bairro"),
+                "cep": first_result.get("cep")
+            }
+            GEO_CACHE[cache_key] = geo_data
+            return geo_data
+    except Exception as e:
+        print(f"Erro ao buscar bairro/CEP para {logradouro}, {numero}: {e}")
+
+    geo_data = {"bairro": None, "cep": None}
+    GEO_CACHE[cache_key] = geo_data
+    return geo_data
+
+
+def extract_street_and_number(local_text):
+    """
+    Extrai o logradouro (rua) e número do texto local.
+
+    Exemplo: "Rua Doutor Rovane Tavares Guimarães, 517" 
+    Retorna: {"logradouro": "Rua Doutor Rovane Tavares Guimarães", "numero": "517"}
+    """
+    if not local_text:
+        return {"logradouro": None, "numero": None}
+
+    try:
+        # Tenta encontrar número no final separado por vírgula
+        if "," in local_text:
+            parts = local_text.rsplit(",", 1)
+            logradouro = parts[0].strip()
+            numero = parts[1].strip()
+            return {"logradouro": logradouro, "numero": numero}
+
+        # Tenta encontrar número no final separado por espaço
+        match = re.search(r",\s*(\d+)\s*$", local_text)
+        if match:
+            numero = match.group(1)
+            logradouro = local_text[:match.start()].strip()
+            return {"logradouro": logradouro, "numero": numero}
+    except Exception as e:
+        print(f"Erro ao extrair rua e número: {e}")
+
+    return {"logradouro": None, "numero": None}
 
 
 def parse_tempo_to_datetime(tempo_text):
@@ -232,19 +328,12 @@ async def main():
 
         data = []
         date_limit = datetime.now() - timedelta(days=DAYS_BACK)
+        cards = soup.select(".ant-card.ant-card-bordered")
 
-        for card in soup.select(".ant-card.ant-card-bordered"):
-            autor = card.select_one(".ant-card-head-title span:first-child")
-            local = card.select_one(".ant-typography-secondary")
+        # Primeiro, processa os cards e filtra por data
+        filtered_cards = []
+        for card in cards:
             tempo = card.select_one(".ant-card-extra")
-            titulo = card.select_one(
-                ".ant-card-body > div.sc-48964794-0, .ckQViH")
-            descricao = card.select_one(
-                ".ant-card-body .ant-typography-ellipsis")
-            imagem = card.select_one(".ant-card-cover img")
-            link = card.select_one(".ant-card-cover a")
-
-            # Calcula a data do post
             tempo_text = tempo.text.strip() if tempo else None
             post_date = parse_tempo_to_datetime(tempo_text)
 
@@ -252,19 +341,90 @@ async def main():
             if post_date and post_date < date_limit:
                 continue
 
-            item = {
+            filtered_cards.append((card, tempo_text, post_date))
+
+        print(f"Processando {len(filtered_cards)} posts...")
+
+        # Extrai todos os dados dos cards (sem fazer requisições HTTP ainda)
+        cards_data = []
+        for card, tempo_text, post_date in filtered_cards:
+            autor = card.select_one(".ant-card-head-title span:first-child")
+            local = card.select_one(".ant-typography-secondary")
+            titulo = card.select_one(
+                ".ant-card-body > div.sc-48964794-0, .ckQViH")
+            descricao = card.select_one(
+                ".ant-card-body .ant-typography-ellipsis")
+            imagem = card.select_one(".ant-card-cover img")
+            link = card.select_one(".ant-card-cover a")
+
+            local_text = local.text.strip() if local else None
+            address_parts = extract_street_and_number(local_text)
+
+            cards_data.append({
                 "autor": autor.text.strip() if autor else None,
-                "local": local.text.strip() if local else None,
+                "local": local_text,
+                "logradouro": address_parts.get("logradouro"),
+                "numero": address_parts.get("numero"),
                 "tempo": tempo_text,
-                "data_calculada": post_date.strftime("%d/%m/%Y %H:%M")
-                if post_date
-                else None,
+                "post_date": post_date,
                 "titulo": titulo.text.strip() if titulo else None,
                 "descricao": descricao.text.strip() if descricao else None,
                 "imagem": BASE_URL + str(imagem["src"])
                 if imagem and str(imagem.get("src", "")).startswith("/")
                 else (str(imagem["src"]) if imagem else None),
                 "link": BASE_URL + str(link["href"]) if link else None,
+            })
+
+        # Busca dados geográficos em paralelo com session reutilizável
+        num_addresses = sum(
+            1 for cd in cards_data if cd["logradouro"] and cd["numero"])
+        print(
+            f"Buscando dados geográficos para {num_addresses} endereços em paralelo (com cache)...")
+        async with aiohttp.ClientSession() as session:
+            tasks = []
+            for card_data in cards_data:
+                if card_data["logradouro"] and card_data["numero"]:
+                    task = get_neighborhood_and_cep(
+                        card_data["logradouro"],
+                        card_data["numero"],
+                        session
+                    )
+                    tasks.append(task)
+                else:
+                    # Placeholder para manter ordem
+                    tasks.append(asyncio.sleep(0))
+
+            # Executa todas as requisições em paralelo
+            geo_results = await asyncio.gather(*tasks, return_exceptions=True)
+
+        # Monta o JSON final com os resultados geográficos
+        geo_index = 0
+        for card_data in cards_data:
+            if card_data["logradouro"] and card_data["numero"]:
+                geo_data = geo_results[geo_index] if geo_index < len(
+                    geo_results) else {"bairro": None, "cep": None}
+                # Se foi exceção, usa default
+                if isinstance(geo_data, Exception):
+                    geo_data = {"bairro": None, "cep": None}
+                geo_index += 1
+            else:
+                geo_data = {"bairro": None, "cep": None}
+
+            item = {
+                "autor": card_data["autor"],
+                "local": card_data["local"],
+                "logradouro": card_data["logradouro"],
+                "numero": card_data["numero"],
+                "bairro": geo_data.get("bairro") if isinstance(geo_data, dict) else None,
+                "cep": geo_data.get("cep") if isinstance(geo_data, dict) else None,
+                "tempo": card_data["tempo"],
+                "data_calculada": card_data["post_date"].strftime("%d/%m/%Y %H:%M")
+                if card_data["post_date"]
+                else None,
+                "titulo": card_data["titulo"],
+                "descricao": card_data["descricao"],
+                "imagem": card_data["imagem"],
+                "link": card_data["link"],
             }
             data.append(item)
 
